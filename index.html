@@ -1,0 +1,517 @@
+<!DOCTYPE html> 
+<html>
+  <head>
+    <title>Geloofsapps</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="js/jquery.mobile-1.2.0.min.css" />
+    <style type="text/css">
+    </style>
+    <script src="js/jquery-1.8.2.min.js"></script>
+    <script type="text/javascript">
+      $(document).bind("mobileinit", function() {
+        $.mobile.page.prototype.options.addBackBtn = true;
+        $.mobile.page.prototype.options.backBtnText = "terug";
+      });    
+    </script><!-- http://stackoverflow.com/questions/6221527/jquery-mobile-latest-03-june-2011-version-no-back-button -->
+    <script src="js/jquery.mobile-1.2.0.min.js"></script>
+  </head>
+  <body> 
+  
+    <div data-role="page">
+
+      <div data-role="header">
+        <h1>Geloofsapps</h1>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <ul data-role="listview" data-inset="false">
+            <li><a href="#mobiele-websites">Mobiele websites</a></li>
+            <li><a href="#android-apps">Android apps</a></li>
+            <li><a href="#e-boeken">E-boeken</a></li>
+            <li><a href="#luisterboeken">Luisterboeken</a></li>
+            <li><a href="#internetradio">Internetradio</a></li>
+            <li><a href="#filmpjes">Filmpjes</a></li>
+            <li><a href="#flitskaarten">Flitskaarten</a></li>
+            <li><a href="#rss-nieuws">RSS-nieuws</a></li>
+        </ul>
+      </div>
+      <!-- /content -->
+
+    </div>
+    <!-- /page -->
+
+    <!-- 
+        MOBIELE WEBSITES 
+        -->
+
+    <div data-role="page" id="mobiele-websites">
+
+      <div data-role="header">
+        <h1>Mobiele websites</h1>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <ul data-role="listview">
+            <li>
+                <a href="http://www.gewijderuimte.org">
+                    <img src="img/gewijde-ruimte.png"/>Gewijde ruimte<br/><small>Dagelijks gebed online</small>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.missale.net/?lang=nl">
+                    <img src="img/missale.png"/>Missale<br/><small>Prentenmissaal</small>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.bijbelmobiel.nl">
+                    <img src="img/bijbelmobiel.png" />BijbelMobiel<br/><small>De Nieuwe Bijbelvertaling <i>online</i></small>
+                </a>
+            </li>
+        </ul>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+      
+    <!--
+        ANDROID APPS
+        -->
+        
+    <div data-role="page" id="android-apps">
+
+      <div data-role="header">
+        <h1>Android apps</h1>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <ul data-role="listview">
+            <li>
+                <a href="http://dagelijksevangelie.org/main.php?module=smart&language=NL">
+                    <img src="img/evangelizo.png" />Evangelizo<br/><small>Dagelijkse schriftlezingen en heiligenlevens</small>
+                </a>
+            </li>
+            <li>
+                <a href="http://bible.is">
+                    <img src="img/bible.is.png" />Bible.is<br/><small>De Bijbel lezen, beluisteren en bekijken!</small>
+                </a>
+            </li>
+        </ul>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+      
+    <!--
+        E-BOEKEN
+        -->
+        
+    <div data-role="page" id="e-boeken">
+
+      <div data-role="header">
+        <h1>E-boeken</h1>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <ul data-role="listview">
+          <li data-theme="e">
+            <a href="#e-boeken-info">
+              <p>Tips voor het lezen van e-boeken</p>
+            </a>
+          </li>
+          <li data-icon="plus">
+            <a href="books/de-navolging-van-christus.epub" rel="external">
+              <img src="img/navolging-e-boek.jpg"/>De navolging van Christus<br/><small>Thomas a Kempis</small>
+            </a>
+          <li>
+        </ul>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+      
+    <div data-role="page" id="e-boeken-info">
+
+      <div data-role="header">
+            <h2>Hoe e-boeken lezen?</h2>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <p>E-boeken kan je meestal als EPUB-bestanden of als MOBI-bestand. Om ze te lezen moet je een app installeren waarin 
+          je een bibliotheek van e-boeken kan opbouwen. Zo'n app houdt bij waar je met lezen geeindigd bent en je kan er ook aantekeningen mee maken.</p>
+        <h3>Book.ish</h3>
+        <p><i>Book.ish</i> is geen echte app, maar een website die alle features van een volwaardige e-booklezer aanbiedt.</p>
+        <ul data-role="listview" data-inset="true">
+          <li>
+            <a href="http://book.ish">
+              <img src="img/book.ish.png">Browse naar <i>Book.ish</i>
+            </a>
+          </li>
+        </ul>
+        <h3>Moon+Reader</h3>
+        <p><i>Moon+Reader</i> is een Android app om e-boeken te lezen</p>
+        <ul data-role="listview" data-inset="true">
+          <li>
+            <a href="https://play.google.com/store/apps/details?id=com.flyersoft.moonreaderp">
+                <img src="img/moonreader.png">Installeer <i>Moon+Reader</i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+
+    <!--
+        LUISTERBOEKEN
+        -->
+        
+    <div data-role="page" id="luisterboeken">
+
+      <div data-role="header">
+        <h1>Luisterboeken</h1>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <ul data-role="listview">
+          <li data-theme="e">
+            <a href="#luisterboeken-info">
+              <p>Tips voor het beluisteren van luisterboeken</p>
+            </a>
+          </li>
+          <li data-icon="plus">
+            <a href="audiobooks/Het%20evangelie%20volgens%20Lucas-downloadbijbel.m4b" rel="external">
+              <img src="img/lucas-nl.png"/>Evangelie volgens Lucas<br/><small>39 MB - bron:www.luisterbijbel.nl</small>
+            </a>
+          </li>
+          <li data-icon="plus">
+            <a href="audiobooks/Het%20evangelie%20volgens%20Lucas-radiomaria.m4b" rel="external">
+              <img src="img/lucas-vl.png"/>Evangelie volgens Lucas<br/><small>23 MB - bron:www.radiomaria.be</small>
+            </a>
+          </li>
+          <li data-icon="plus">
+            <a href="audiobooks/Het%20evangelie%20volgens%20Mattheus-radiomaria.m4b" rel="external">
+              <img src="img/mattheus-vl.png"/>Evangelie volgens Mattheus<br/><small>19 MB - bron:www.radiomaria.be</small>
+            </a>
+          </li>
+          <li data-icon="plus">
+            <a href="audiobooks/Het%20evangelie%20volgens%20Johannes-downloadbijbel.m4b" rel="external">
+              <img src="img/johannes-nl.png"/>Evangelie volgens Johannes<br/><small>14 MB - bron:www.luisterbijbel.nl</small>
+            </a>
+          </li>
+          <li data-icon="plus">
+            <a href="audiobooks/Het%20evangelie%20volgens%20Johannes%20-radiomaria.m4b" rel="external">
+              <img src="img/johannes-vl.png"/>Evangelie volgens Johannes<br/><small>19 MB - bron:www.radiomaria.be</small>
+            </a>
+          </li>
+          <li data-icon="plus">
+            <a href="http://www.archive.org/download/LibrivoxM4bCollectionAudiobooks_8/DeNavolgingVanJezusChristus.m4b" rel="external">
+              <img src="img/navolging-luisterboek.jpg"/>De navolging van Christus<br/><small>98 MB - bron:www.librivox.nl</small>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+      
+    <div data-role="page" id="luisterboeken-info">
+
+      <div data-role="header">
+            <h2>Hoe luisterboeken beluisteren?</h2>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <p>Een luisterboek kan je downloaden als M4B-bestand. Om het te beluisteren moet je een app installeren waarin 
+          je een bibliotheek van luisterboeken kan opbouwen. Zo'n app houdt bij waar je met luisteren geeindigd bent. Je moet wel opletten met je geheugenruimte, want een luisterboek is al snel tientallen megabytes groot!</p>
+        <h3>Listen Audiobook Player</h3>
+        <p><i>Listen Audiobook Player</i> is een Android app om luisterboeken te beluisteren</p>
+        <ul data-role="listview" data-inset="true">
+          <li>
+            <a href="https://play.google.com/store/apps/details?id=com.acmeandroid.listen&hl=nl">
+              <img src="img/listen-audiobook-player.png">Installeer <i>Listen Audiobook Player</i>
+            </a>
+          </li>
+        </ul>
+        <p><b>Let op! Zelfs al heb je <i>Listen Audiobook Player</i> geinstalleerd, toch moet je nog manueel het M4B-bestand vanuit je browser downloaden en lokaal opslaan. In <i>Listen Audiobook Player</i> moet je vervolgens instellen in welke map hij je M4B-bestand kan vinden. Als je meerdere M4B-bestanden wil downloaden, heeft <i>Listen Audiobook Player</i> graag dat die allemaal in aparte sub-mappen staan.</b></p>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+
+    <!--
+        INTERNETRADIO
+        -->
+        
+    <div data-role="page" id="internetradio">
+
+      <div data-role="header">
+        <h1>Internetradio</h1>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <ul data-role="listview">
+          <li data-theme="e">
+            <a href="#internetradio-info">
+              <p>Tips voor het beluisteren van radio via internet</p>
+            </a>
+          </li>
+          <li data-icon="plus">
+            <a href="http://stream.radiomaria.be:80/RadioMaria-32.m3u" rel="external">
+              <img src="img/radiomaria.jpg"/>Radio Maria Vlaanderen
+            </a>
+          </li>
+          <li data-icon="plus">
+            <a href="http://87.233.180.73:8000/listen.pls" rel="external">
+              <img src="img/radiomaria.jpg"/>Radio Maria Nederland
+            </a>
+          </li>
+          <li data-icon="plus">
+            <a href="http://www.concertzender.nl/streams/gregoriaans" rel="external">
+              <img src="img/concertzender.png"/>Concertzender Gregoriaans
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+      
+    <div data-role="page" id="internetradio-info">
+
+      <div data-role="header">
+            <h2>Hoe internetradio beluisteren?</h2>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <p>Om een internetradiostation te beluisteren moet je een app installeren die <i>live</i> verbinding maakt met de radioserver.</p>
+        <h3>ServeStream</h3>
+        <p><i>ServeStream</i> is een Android app om internetradiostations te beluisteren</p>
+        <ul data-role="listview" data-inset="true">
+          <li>
+            <a href="https://play.google.com/store/apps/details?id=net.sourceforge.servestream&hl=nl">
+              <img src="img/servestream.png">Installeer <i>ServeStream</i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+
+    <!--
+        FILMPJES
+        -->
+        
+    <div data-role="page" id="filmpjes">
+
+      <div data-role="header">
+        <h1>Filmpjes</h1>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <ul data-role="listview">
+          <li data-theme="e">
+            <a href="#filmpjes-info">
+              <p>Tips voor het bekijken van filmpjes via internet</p>
+            </a>
+          </li>
+          <li>
+            <a href="http://www.youtube.com/user/videostarninove">
+              <img src="img/pastoor-penne.png"/>Pastoor Penne
+            </a>
+          </li>
+          <li>
+            <a href="http://nl.gloria.tv">
+              <img src="img/gloria.tv.png"/>Gloria.tv
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+      
+    <div data-role="page" id="filmpjes-info">
+
+      <div data-role="header">
+            <h2>Hoe filpjes bekijken?</h2>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <p>De meeste internetfilmpjes kan je gewoon in je browser bekijken. Voor YouTubefilmpjes kan je een app installeren.</p>
+        <h3>YouTube</h3>
+        <p><i>YouTube</i> is een Android app om YouTubefilmpjes te bekijken</p>
+        <ul data-role="listview" data-inset="true">
+          <li>
+            <a href="https://play.google.com/store/apps/details?id=com.google.android.youtube&hl=nl">
+              <img src="img/youtube.png">Installeer de <i>YouTube</i>-app
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+
+    <!--
+        FLITSKAARTEN
+        -->
+        
+    <div data-role="page" id="flitskaarten">
+
+      <div data-role="header">
+        <h1>Flitskaarten</h1>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <ul data-role="listview">
+          <li data-theme="e">
+            <a href="#flitskaarten-info">
+              <p>Tips voor het leren met flitskaarten</p>
+            </a>
+          </li>
+          <li>
+            <a href="http://www.flashcardexchange.com/cards/mechelse-catechismus-niveau-1-2374546">
+              <img src="img/mechelse-catechismus.png"/>De Mechelse Catechismus<br/><small>niveau 1 - bron:www.flashcardexchange.com</small>
+            </a>
+          </li>
+          <li>
+            <a href="http://www.flashcardexchange.com/cards/mechelse-catechismus-niveau-2-2374570">
+              <img src="img/mechelse-catechismus.png"/>De Mechelse Catechismus<br/><small>niveau 2 - bron:www.flashcardexchange.com</small>
+            </a>
+          </li>
+          <li>
+            <a href="http://www.flashcardexchange.com/cards/mechelse-catechismus-niveau-3-2374573">
+              <img src="img/mechelse-catechismus.png"/>De Mechelse Catechismus<br/><small>niveau 3 - bron:www.flashcardexchange.com</small>
+            </a>
+          </li>
+          <li>
+            <a href="http://www.flashcardexchange.com/cards/mechelse-catechismus-niveau-4-2374577">
+              <img src="img/mechelse-catechismus.png"/>De Mechelse Catechismus<br/><small>niveau 4 - bron:www.flashcardexchange.com</small>
+            </a>
+          </li>
+          <li>
+            <a href="http://www.flashcardexchange.com/cards/mechelse-catechismus-niveau-5-2374582">
+              <img src="img/mechelse-catechismus.png"/>De Mechelse Catechismus<br/><small>niveau 5 - bron:www.flashcardexchange.com</small>
+            </a>
+          </li>
+          <li>
+            <a href="http://www.flashcardexchange.com/cards/mechelse-catechismus-niveau-6-2374975">
+              <img src="img/mechelse-catechismus.png"/>De Mechelse Catechismus<br/><small>niveau 6 - bron:www.flashcardexchange.com</small>
+            </a>
+          </li>
+          <li>
+            <a href="http://www.flashcardexchange.com/cards/mechelse-catechismus-niveau-7-8-2374977">
+              <img src="img/mechelse-catechismus.png"/>De Mechelse Catechismus<br/><small>niveau 7-8 - bron:www.flashcardexchange.com</small>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+      
+    <div data-role="page" id="flitskaarten-info">
+
+      <div data-role="header">
+            <h2>Hoe leren met flitskaarten?</h2>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <p>Flitskaarten gebruik je om leerstof te verwerken in vraag-en-antwoordvorm. </p>
+        <h3>Encore</h3>
+        <p><i>Encore</i> is een Android app om leerstof met flitskaarten te oefenen. In de app ga je naar "FlaschcardExchange" en zoek je op "catechismus".</p>
+        <ul data-role="listview" data-inset="true">
+          <li>
+            <a href="https://play.google.com/store/apps/details?id=com.tempo.encore">
+              <img src="img/encore.png">Installeer <i>Encore</i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+
+    <!--
+        RSS-nieuws
+        -->
+        
+    <div data-role="page" id="rss-nieuws">
+
+      <div data-role="header">
+        <h1>RSS-nieuws</h1>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <ul data-role="listview">
+          <li data-theme="e">
+            <a href="#rss-nieuws-info">
+              <p>Tips voor het lezen van RSS-nieuws</p>
+            </a>
+          </li>
+        </ul>
+        <h3>Recentste berichten:</h3>
+        <script type="text/javascript" src="https://www.google.com/reader/ui/publisher-nl.js"></script>
+        <script type="text/javascript" src="https://www.google.com/reader/public/javascript/user%2F00311018366796484012%2Flabel%2FKatholiek?n=5&callback=GRC_p(%7Bc%3A%22blue%22%2Ct%3A%22'Katholiek'%20via%20vicmortelmans%22%2Cs%3A%22false%22%2Cn%3A%22true%22%2Cb%3A%22false%22%7D)%3Bnew%20GRC"></script>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+      
+    <div data-role="page" id="rss-nieuws-info">
+
+      <div data-role="header">
+            <h2>Hoe RSS-nieuws lezen?</h2>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+        <p>RSS-nieuws is een dienst die meestal gekoppeld is aan een specifieke website. Met een RSS-nieuwslezer kan je je abonneren op een RSS-nieuws<i>feed</i> om zo op de hoogte te blijven van de nieuwste berichten op die website.</p>
+        <h3>gReader</h3>
+        <p><i>gReader</i> is een Android app om je abonnementen in <a href="http://www.google.com/reader">Google Reader</a> mobiel te lezen.</p>
+        <ul data-role="listview" data-inset="true">
+          <li>
+            <a href="https://play.google.com/store/apps/details?id=com.noinnion.android.greader.reader&feature=search_result#?t=W251bGwsMSwyLDEsImNvbS5ub2lubmlvbi5hbmRyb2lkLmdyZWFkZXIucmVhZGVyIl0.">
+              <img src="img/greader.png">Installeer <i>gReader</i>
+            </a>
+          </li>
+        </ul>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+
+
+
+  </body>
+</html>
+                							
