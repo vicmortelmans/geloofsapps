@@ -1,10 +1,21 @@
 <!DOCTYPE html> 
 <html>
   <head>
+    <!-- https://googledrive.com/host/0B-659FdpCliwSlFIUEtkXzNYMUk/ -->
     <title>Geloofsapps</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="js/jquery.mobile-1.2.0.min.css" />
+    <link rel="icon" type="image/png" href="favicon.png" />
+    <link rel="apple-touch-icon-precomposed" href="favicon114.png" />
     <style type="text/css">
+        .base
+        {
+            height: 400px;
+            background-image: url('img/city_social.png');
+            background-repeat:repeat-x;
+            background-position:center bottom; 
+            background-color: white;
+        }
     </style>
     <script src="js/jquery-1.8.2.min.js"></script>
     <script type="text/javascript">
@@ -26,17 +37,19 @@
 
       <div data-role="content">
         <ul data-role="listview" data-inset="false">
-            <li><a href="#mobiele-websites">Mobiele websites</a></li>
-            <li><a href="#android-apps">Android apps</a></li>
-            <li><a href="#e-boeken">E-boeken</a></li>
-            <li><a href="#luisterboeken">Luisterboeken</a></li>
-            <li><a href="#internetradio">Internetradio</a></li>
-            <li><a href="#filmpjes">Filmpjes</a></li>
-            <li><a href="#flitskaarten">Flitskaarten</a></li>
-            <li><a href="#rss-nieuws">RSS-nieuws</a></li>
+            <li><a href="#mobiele-websites"><img src="img/mobiele-websites.png"/>Mobiele websites</a></li>
+            <li><a href="#android-apps"><img src="img/android-apps.png"/>Android apps</a></li>
+            <li><a href="#e-boeken"><img src="img/e-boeken.png"/>E-boeken</a></li>
+            <li><a href="#luisterboeken"><img src="img/luisterboeken.png"/>Luisterboeken</a></li>
+            <li><a href="#internetradio"><img src="img/internetradio.png"/>Internetradio</a></li>
+            <li><a href="#filmpjes"><img src="img/filmpjes.png"/>Filmpjes</a></li>
+            <li><a href="#flitskaarten"><img src="img/flitskaarten.png"/>Flitskaarten</a></li>
+            <li><a href="#rss-nieuws"><img src="img/rss-nieuws.png"/>RSS-nieuws</a></li>
         </ul>
       </div>
       <!-- /content -->
+
+      <div class="base"></div>
 
     </div>
     <!-- /page -->
@@ -125,10 +138,20 @@
             </a>
           </li>
           <li data-icon="plus">
+            <a href="books/kyriale.pdf" rel="external">
+              <img src="img/kyriale.png"/>Kyriale<br/><small>bron:www.una.voce.de</small>
+            </a>
+          </li>
+          <li data-icon="plus">
             <a href="books/de-navolging-van-christus.epub" rel="external">
               <img src="img/navolging-e-boek.jpg"/>De navolging van Christus<br/><small>Thomas a Kempis</small>
             </a>
-          <li>
+          </li>
+          <li data-icon="plus">
+            <a href="books/Innerlijk-Leven-WillemGrossouw.epub" rel="external">
+              <img src="img/innerlijk-leven.png"/>Innerlijk Leven<br/><small>Willem Grossouw</small>
+            </a>
+          </li>
         </ul>
       </div>
       <!-- content -->      
@@ -188,29 +211,59 @@
               <p>Tips voor het beluisteren van luisterboeken</p>
             </a>
           </li>
-          <li data-icon="plus">
-            <a href="audiobooks/Het%20evangelie%20volgens%20Lucas-downloadbijbel.m4b" rel="external">
-              <img src="img/lucas-nl.png"/>Evangelie volgens Lucas<br/><small>39 MB - bron:www.luisterbijbel.nl</small>
-            </a>
+          <li>
+            <img src="img/bijbelmobiel.png"><h2>Nieuwe Testament<br/><small>bron:www.luisterbijbel.nl</small></h2>
+            <ul data-role="listview">
+              <li data-icon="plus">
+                <a href="audiobooks/Het%20evangelie%20volgens%20Lucas-downloadbijbel.m4b" rel="external">
+                  <img src="img/lucas-nl.png"/>Evangelie volgens Lucas<br/><small>39 MB - bron:www.luisterbijbel.nl</small>
+                </a>
+              </li>
+              <li data-icon="plus">
+                <a href="audiobooks/Het%20evangelie%20volgens%20Mattheus-downloadbijbel.m4b" rel="external">
+                  <img src="img/mattheus-nl.png"/>Evangelie volgens Mattheus<br/><small>20 MB - bron:www.luisterbijbel.nl</small>
+                </a>
+              </li>
+              <li data-icon="plus">
+                <a href="audiobooks/Het%20evangelie%20volgens%20Marcus-downloadbijbel.m4b" rel="external">
+                  <img src="img/marcus-nl.png"/>Evangelie volgens Marcus<br/><small>13 MB - bron:www.luisterbijbel.nl</small>
+                </a>
+              </li>
+              <li data-icon="plus">
+                <a href="audiobooks/Het%20evangelie%20volgens%20Johannes-downloadbijbel.m4b" rel="external">
+                  <img src="img/johannes-nl.png"/>Evangelie volgens Johannes<br/><small>14 MB - bron:www.luisterbijbel.nl</small>
+                </a>
+              </li>
+            </ul>
+          </li>
+          <li>
+            <img src="img/radiomaria.jpg"><h2>Nieuwe Testament<br/><small>bron:www.radiomaria.be</small></h2>
+            <ul data-role="listview">
+              <li data-icon="plus">
+                <a href="audiobooks/Het%20evangelie%20volgens%20Lucas-radiomaria.m4b" rel="external">
+                  <img src="img/lucas-vl.png"/>Evangelie volgens Lucas<br/><small>23 MB - bron:www.radiomaria.be</small>
+                </a>
+              </li>
+              <li data-icon="plus">
+                <a href="audiobooks/Het%20evangelie%20volgens%20Mattheus%20-radiomaria.m4b" rel="external">
+                  <img src="img/mattheus-vl.png"/>Evangelie volgens Mattheus<br/><small>5 MB - bron:www.radiomaria.be</small>
+                </a>
+              </li>
+              <li data-icon="plus">
+                <a href="audiobooks/Het%20evangelie%20volgens%20Marcus%20-radiomaria.m4b" rel="external">
+                  <img src="img/marcus-vl.png"/>Evangelie volgens Marcus<br/><small>13 MB - bron:www.radiomaria.be</small>
+                </a>
+              </li>
+              <li data-icon="plus">
+                <a href="audiobooks/Het%20evangelie%20volgens%20Johannes%20-radiomaria.m4b" rel="external">
+                  <img src="img/johannes-vl.png"/>Evangelie volgens Johannes<br/><small>19 MB - bron:www.radiomaria.be</small>
+                </a>
+              </li>
+            </ul>
           </li>
           <li data-icon="plus">
-            <a href="audiobooks/Het%20evangelie%20volgens%20Lucas-radiomaria.m4b" rel="external">
-              <img src="img/lucas-vl.png"/>Evangelie volgens Lucas<br/><small>23 MB - bron:www.radiomaria.be</small>
-            </a>
-          </li>
-          <li data-icon="plus">
-            <a href="audiobooks/Het%20evangelie%20volgens%20Mattheus-radiomaria.m4b" rel="external">
-              <img src="img/mattheus-vl.png"/>Evangelie volgens Mattheus<br/><small>19 MB - bron:www.radiomaria.be</small>
-            </a>
-          </li>
-          <li data-icon="plus">
-            <a href="audiobooks/Het%20evangelie%20volgens%20Johannes-downloadbijbel.m4b" rel="external">
-              <img src="img/johannes-nl.png"/>Evangelie volgens Johannes<br/><small>14 MB - bron:www.luisterbijbel.nl</small>
-            </a>
-          </li>
-          <li data-icon="plus">
-            <a href="audiobooks/Het%20evangelie%20volgens%20Johannes%20-radiomaria.m4b" rel="external">
-              <img src="img/johannes-vl.png"/>Evangelie volgens Johannes<br/><small>19 MB - bron:www.radiomaria.be</small>
+            <a href="audiobooks/kyriale.m4b" rel="external">
+              <img src="img/kyriale.png"/>Kyriale<br/><small>46 MB - bron:www.ccwatershed.org</small>
             </a>
           </li>
           <li data-icon="plus">
@@ -235,16 +288,16 @@
       <div data-role="content">
         <p>Een luisterboek kan je downloaden als M4B-bestand. Om het te beluisteren moet je een app installeren waarin 
           je een bibliotheek van luisterboeken kan opbouwen. Zo'n app houdt bij waar je met luisteren geeindigd bent. Je moet wel opletten met je geheugenruimte, want een luisterboek is al snel tientallen megabytes groot!</p>
-        <h3>Listen Audiobook Player</h3>
-        <p><i>Listen Audiobook Player</i> is een Android app om luisterboeken te beluisteren</p>
+        <h3>Akimbo Audiobook Player</h3>
+        <p><i>Akimbo Audiobook Player</i> is een Android app om luisterboeken te beluisteren</p>
         <ul data-role="listview" data-inset="true">
           <li>
-            <a href="https://play.google.com/store/apps/details?id=com.acmeandroid.listen&hl=nl">
-              <img src="img/listen-audiobook-player.png">Installeer <i>Listen Audiobook Player</i>
+            <a href="https://play.google.com/store/apps/details?id=com.akimbo.abp&hl=nl">
+              <img src="img/akimbo.png">Installeer <i>Akimbo Audiobook Player</i>
             </a>
           </li>
         </ul>
-        <p><b>Let op! Zelfs al heb je <i>Listen Audiobook Player</i> geinstalleerd, toch moet je nog manueel het M4B-bestand vanuit je browser downloaden en lokaal opslaan. In <i>Listen Audiobook Player</i> moet je vervolgens instellen in welke map hij je M4B-bestand kan vinden. Als je meerdere M4B-bestanden wil downloaden, heeft <i>Listen Audiobook Player</i> graag dat die allemaal in aparte sub-mappen staan.</b></p>
+        <p><b>Let op! Zelfs al heb je <i>Listen Audiobook Player</i> geinstalleerd, toch moet je nog manueel het M4B-bestand vanuit je browser downloaden en lokaal opslaan. In <i>Akimbo Audiobook Player</i> moet je vervolgens instellen in welke map hij je M4B-bestand kan vinden. </b></p>
       </div>
       <!-- content -->      
       
@@ -334,6 +387,604 @@
             </a>
           </li>
           <li>
+              <h2>Kyriale</h2>
+              <img src="img/kyriale.png"/>
+              <ul data-role="listview">
+                <li>
+                    <a href="http://www.youtube.com/watch?v=uhk-fEcqgcY">
+                        <img src="img/kyriale.png">Asperges me<br/>
+                    </a>
+                </li>
+                <li>
+                    <a href="http://www.youtube.com/watch?v=zTBi126OWkQ">
+                        <img src="img/kyriale.png">Vidi aquam<br/><small> - in de paastijd</small>
+                    </a>
+                </li>
+                <li>
+                    <h3>Missa I - Lux et origo<br/><small> - in de paastijd</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=wBhYmil1p2M">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa I</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://youtu.be/YLw329fUMNY">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa I</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=J6PQP3aO7qw">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa I</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=Q7oZZnxkEUc">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa I</small>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa II - Kyrie fons bonitatis<br/><small> - op hoogfeesten</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=hf1RetSQ7HE">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa II</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://youtu.be/8npKBQGfqG4">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa II</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=lfP1xxAVtv8">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa II</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=e57p7mOrCSo">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa II</small>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa III - Kyrie Deus sempiterne<br/><small> - op hoogfeesten</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=B_pqf-4CCBk">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa III</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=W9H_z928_Wk">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa III</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=SRRE0Tn-AYs">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa III</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=7LtlOpJNK2M">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa III</small>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa IV - Cunctipotens Genitor Deus<br/><small> - op feesten van apostelen</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=xPDqCgyElS0"><!-- http://www.youtube.com/watch?v=EMv4du5CQzk -->
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa IV</small>
+                            </a>
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa IV</small>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=uBJJpB8kvK4">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa IV</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=rko97ymCZnA">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa IV</small>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa V - Kyrie magnae Deus potentiae<br/><small> - op feesten</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=xa4rXTZAD58">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa V</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=SJlvwql_iDI">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa V</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=zZ7A-e4pILk">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa V</small>
+                            </a>
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa V</small>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa VI - Kyrie Rex Genitor<br/><small> - op feesten</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=9V7f0Tu6BiA">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa VI</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=2oKBDmKdxgc">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa VI</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=5btfdJJZfU8">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa VI</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=E98cHfy8Beg">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa VI</small>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa VII - Kyrie Rex splendens<br/><small> - op feesten</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=hDhBLbUu_qo">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa VII</small>
+                            </a>
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa VII</small>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=374R_mQJ8GU">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa VII</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=OZ1xiu9Qlmg">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa VII</small>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa VIII - De Angelis<br/><small> - op feesten</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=mBoEf3cqMRo">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa VIII</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=Ny5s89sqf5A">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa VIII</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=ehK1juwbtS0">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa VIII</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=jln3fAv8ZBU">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa VIII</small>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa IX - Cum jubilo<br/><small> - op hoogfeesten en feesten van Maria</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=aHJbHXp8RsI">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa IX</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=wvp3df9e5Qk">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa IX</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=pO87NUfBGf4">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa IX</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=EGJhMGk6PZw">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa IX</small>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa X - Alme Pater<br/><small> - op feesten en gedachtenissen van Maria</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=ySXikN8wJOE">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa X</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=2PDJXG3wurU">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa X</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=_b6IjvHPxjY">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa X</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=bPdP7BLWYos">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa X</small>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa XI - Orbis factor<br/><small> - op zondagen</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=rB5HAywTyyQ">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa XI</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=V7tdRKuLfto">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa XI</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=-KkyiclySVM">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa XI</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=V6y-7kZ8tas">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa XI</small>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa XII - Pater cuncta<br/><small> - op gedachtenissen</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=2aGAkGjmzlE">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa XII</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=msPPHJNSin8">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa XII</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=muil1ZqIvBs">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa XII</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=yFkL2PjGEn0">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa XII</small>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa XIII - Stelliferi Conditor orbis <br/><small> - op gedachtenissen</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa XIII</small>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=aNhtao4UeZQ">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa XIII</small>
+                            </a>
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa XIII</small>
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa XIII</small>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa XIV - Jesu Redemptor<br/><small> - op gedachtenissen</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=pqDIEjQfdNk">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa I</small>
+                            </a>
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa I</small>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=sw1qfp00Pgk">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa I</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=HErBFVgnn9E">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa I</small>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa XV - Dominator Deus<br/><small> - op weekdagen in de kersttijd</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=IbGEIHolmOU">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa XV</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://youtu.be/xDYxgHfI5SI">
+                                <img src="img/kyriale.png">Gloria<br/><small>Missa XV</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://youtu.be/aPHtZgkWSIM">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa XV</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://youtu.be/YQULcS2JI8I">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa XV</small>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa XVI<br/><small> - op weekdagen in de tijd doorheen het jaar</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=Gzqnqan7r8w">
+                                <img src="img/kyriale.png">Kyrie<br/><small>Missa XVI</small>
+                            </a>
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa XVI</small>
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa XVI</small>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa XVII<br/><small> - op zondagen in advent en veertigdagentijd</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=22W_JsYiwCc">
+                                <img src="img/kyriale.png">Kyrie A<br/><small>Missa XVII</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://youtu.be/qgLLnUnmeRQ">
+                                <img src="img/kyriale.png">Kyrie B<br/><small>Missa XVII</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=pqTJsbaacRE">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa XVII</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=5DqdLc1eZjU">
+                                <img src="img/kyriale.png">Agnus<br/><small>Missa XVII</small>
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Missa XVIII - Deus Genitor alme<br/><small> - op weekdagen in advent en veertigdagentijd</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=KcZfFfOjl8U">
+                                <img src="img/kyriale.png">Kyrie A<br/><small>Missa XVIII</small>
+                            </a>
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Kyrie B (requiem)<br/><small>Missa XVIII</small>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=BxZobRDmVDc">
+                                <img src="img/kyriale.png">Sanctus<br/><small>Missa XVIII</small>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=1o4QJBCiXjs">
+                                <img src="img/kyriale.png">Agnus A<br/><small>Missa XVIII</small>
+                            </a>
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Agnus B<br/><small>Missa XVIII</small>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Credo I - VII</h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=N4BZkv7Aa7o">
+                                <img src="img/kyriale.png">Credo I
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=TaRXKjmMRrs">
+                                <img src="img/kyriale.png">Credo II
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=Ac8dnH2UPdQ">
+                                <img src="img/kyriale.png">Credo III
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=Bycb5Fk7SZY">
+                                <img src="img/kyriale.png">Credo IV
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=22-Amg3XrAg">
+                                <img src="img/kyriale.png">Credo V
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=F7-iivVVYno">
+                                <img src="img/kyriale.png">Credo VI
+                            </a>
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Credo VII
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Kyrie I - XI<br/><small> - ad libitum</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Kyrie I
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Kyrie II
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Kyrie III
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=EMv4du5CQzk">
+                                <img src="img/kyriale.png">Kyrie IV
+                            </a>
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Kyrie V
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=zDupszwIGt0">
+                                <img src="img/kyriale.png">Kyrie VI
+                            </a>
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Kyrie VII
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Kyrie VIII
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Kyrie IX
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Kyrie X
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=el19a_tSbMs">
+                                <img src="img/kyriale.png">Kyrie XI
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Gloria I - IV<br/><small> - ad libitum</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Gloria I
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Gloria II
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Gloria III
+                        </li>
+                        <li>
+                            <a href="http://www.youtube.com/watch?v=PyHDnhE5AL4">
+                                <img src="img/kyriale.png">Gloria IV
+                            </a>
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Sanctus I - III<br/><small> - ad libitum</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Sanctus I
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Sanctus II
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Sanctus III
+                        </li>
+                    </ul>
+                </li>
+                <li>
+                    <h3>Agnus I - II<br/><small> - ad libitum</small></h3>
+                    <img src="img/kyriale.png">
+                    <ul data-role="listview">
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Agnus I
+                        </li>
+                        <li data-icon="delete">
+                                <img src="img/kyriale.png">Agnus II
+                        </li>
+                    </ul>
+                </li>
+              </ul>
+          </li>
+          <li>
+            <a href="#maria-antifonen">
+              <img src="img/kyriale.png"/>Maria-antifonen
+            </a>
+          </li>
+          <li>
             <a href="http://www.youtube.com/user/videostarninove">
               <img src="img/pastoor-penne.png"/>Pastoor Penne
             </a>
@@ -344,6 +995,51 @@
             </a>
           </li>
         </ul>
+      </div>
+      <!-- content -->      
+      
+    </div>
+    <!-- /page -->
+      
+    <!--
+        FILMPJES - MARIA-ANTIFONEN
+        -->
+        
+    <div data-role="page" id="maria-antifonen">
+
+      <div data-role="header">
+        <h1>Maria-antifonen</h1>
+      </div>
+      <!-- /header -->
+
+      <div data-role="content">
+          <ul data-role="listview">
+            <li>
+                <a href="http://www.youtube.com/watch?v=iq5CKlOyeMk">
+                    <img src="img/kyriale.png">Alma Redemptoris Mater<br/><small>van de eerste zondag van de Advent tot Maria Lichtmis</small>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youtube.com/watch?v=OAi6T7tQruE">
+                    <img src="img/kyriale.png">Ave Regina Caelorum<br/><small>van Maria Lichtmis tot Witte Donderdag</small>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youtube.com/watch?v=6-EJiI_yAas">
+                    <img src="img/kyriale.png">Regina Caeli<br/><small>in de paastijd</small>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youtube.com/watch?v=CAmydVsNMqM">
+                    <img src="img/kyriale.png">Salve Regina<br/><small>van Drievuldigheidszondag tot Christus Koning</small>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.youtube.com/watch?v=gSmykQ9DLOg">
+                    <img src="img/kyriale.png">Sub Tuum Praesidium<br/>
+                </a>
+            </li>
+         </ul>
       </div>
       <!-- content -->      
       
@@ -514,4 +1210,4 @@
 
   </body>
 </html>
-                							
+                																				
