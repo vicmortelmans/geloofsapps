@@ -1,0 +1,2740 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//prentenmissaal.com//NONSGML prentenmissaal//EN
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120101
+DTEND;VALUE=DATE:20120102
+SUMMARY:Octaafdag van Kerstmis
+DESCRIPTION:Octaafdag van Kerstmis
+TRANSP:TRANSPARENT
+UID:Z0101-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120102
+DTEND;VALUE=DATE:20120103
+SUMMARY:Feest van de Heilige Naam van Jezus
+DESCRIPTION:Feest van de Heilige Naam van Jezus
+TRANSP:TRANSPARENT
+UID:HNJ-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120103
+DTEND;VALUE=DATE:20120104
+SUMMARY:#liturgicalday#eo-Z0103
+DESCRIPTION:#liturgicalday#eo-Z0103
+TRANSP:TRANSPARENT
+UID:Z0103-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120104
+DTEND;VALUE=DATE:20120105
+SUMMARY:Vierde dag van januari
+DESCRIPTION:Vierde dag van januari
+TRANSP:TRANSPARENT
+UID:Z0104-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120105
+DTEND;VALUE=DATE:20120106
+SUMMARY:Vijfde dag van januari
+DESCRIPTION:Vijfde dag van januari
+TRANSP:TRANSPARENT
+UID:Z0105-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120107
+DTEND;VALUE=DATE:20120108
+SUMMARY:Zevende dag van januari
+DESCRIPTION:Zevende dag van januari
+TRANSP:TRANSPARENT
+UID:Z0107-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-07
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120108
+DTEND;VALUE=DATE:20120109
+SUMMARY:Heilige Familie
+DESCRIPTION:Heilige Familie
+TRANSP:TRANSPARENT
+UID:E011-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120109
+DTEND;VALUE=DATE:20120110
+SUMMARY:Negende dag van januari
+DESCRIPTION:Negende dag van januari
+TRANSP:TRANSPARENT
+UID:Z0109-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-09
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120110
+DTEND;VALUE=DATE:20120111
+SUMMARY:Tiende dag van januari
+DESCRIPTION:Tiende dag van januari
+TRANSP:TRANSPARENT
+UID:Z0110-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120111
+DTEND;VALUE=DATE:20120112
+SUMMARY:Elfde dag van januari
+DESCRIPTION:Elfde dag van januari
+TRANSP:TRANSPARENT
+UID:Z0111-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120112
+DTEND;VALUE=DATE:20120113
+SUMMARY:Twaalfde dag van januari
+DESCRIPTION:Twaalfde dag van januari
+TRANSP:TRANSPARENT
+UID:Z0112-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120113
+DTEND;VALUE=DATE:20120114
+SUMMARY:Doop van de Heer
+DESCRIPTION:Doop van de Heer
+TRANSP:TRANSPARENT
+UID:Z0113-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120114
+DTEND;VALUE=DATE:20120115
+SUMMARY:Zaterdag in de eerste week na Driekoningen
+DESCRIPTION:Zaterdag in de eerste week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E017-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120115
+DTEND;VALUE=DATE:20120116
+SUMMARY:Tweede zondag na Driekoningen
+DESCRIPTION:Tweede zondag na Driekoningen
+TRANSP:TRANSPARENT
+UID:E021-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120116
+DTEND;VALUE=DATE:20120117
+SUMMARY:Maandag in de tweede week na Driekoningen
+DESCRIPTION:Maandag in de tweede week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E022-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120117
+DTEND;VALUE=DATE:20120118
+SUMMARY:Dinsdag in de tweede week na Driekoningen
+DESCRIPTION:Dinsdag in de tweede week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E023-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120118
+DTEND;VALUE=DATE:20120119
+SUMMARY:Woensdag in de tweede week na Driekoningen
+DESCRIPTION:Woensdag in de tweede week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E024-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120119
+DTEND;VALUE=DATE:20120120
+SUMMARY:Donderdag in de tweede week na Driekoningen
+DESCRIPTION:Donderdag in de tweede week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E025-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120120
+DTEND;VALUE=DATE:20120121
+SUMMARY:Vrijdag in de tweede week na Driekoningen
+DESCRIPTION:Vrijdag in de tweede week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E026-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120121
+DTEND;VALUE=DATE:20120122
+SUMMARY:Zaterdag in de tweede week na Driekoningen
+DESCRIPTION:Zaterdag in de tweede week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E027-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120122
+DTEND;VALUE=DATE:20120123
+SUMMARY:Derde zondag na Driekoningen
+DESCRIPTION:Derde zondag na Driekoningen
+TRANSP:TRANSPARENT
+UID:E031-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120123
+DTEND;VALUE=DATE:20120124
+SUMMARY:Maandag in de derde week na Driekoningen
+DESCRIPTION:Maandag in de derde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E032-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120124
+DTEND;VALUE=DATE:20120125
+SUMMARY:Dinsdag in de derde week na Driekoningen
+DESCRIPTION:Dinsdag in de derde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E033-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120125
+DTEND;VALUE=DATE:20120126
+SUMMARY:Woensdag in de derde week na Driekoningen
+DESCRIPTION:Woensdag in de derde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E034-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120126
+DTEND;VALUE=DATE:20120127
+SUMMARY:Donderdag in de derde week na Driekoningen
+DESCRIPTION:Donderdag in de derde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E035-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120127
+DTEND;VALUE=DATE:20120128
+SUMMARY:Vrijdag in de derde week na Driekoningen
+DESCRIPTION:Vrijdag in de derde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E036-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120128
+DTEND;VALUE=DATE:20120129
+SUMMARY:Zaterdag in de derde week na Driekoningen
+DESCRIPTION:Zaterdag in de derde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E037-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120129
+DTEND;VALUE=DATE:20120130
+SUMMARY:Vierde zondag na Driekoningen
+DESCRIPTION:Vierde zondag na Driekoningen
+TRANSP:TRANSPARENT
+UID:E041-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120130
+DTEND;VALUE=DATE:20120131
+SUMMARY:Maandag in de vierde week na Driekoningen
+DESCRIPTION:Maandag in de vierde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E042-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120131
+DTEND;VALUE=DATE:20120201
+SUMMARY:Dinsdag in de vierde week na Driekoningen
+DESCRIPTION:Dinsdag in de vierde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E043-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-01-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120201
+DTEND;VALUE=DATE:20120202
+SUMMARY:Woensdag in de vierde week na Driekoningen
+DESCRIPTION:Woensdag in de vierde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E044-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120202
+DTEND;VALUE=DATE:20120203
+SUMMARY:Zuivering van de Heilige Maagd Maria
+DESCRIPTION:Zuivering van de Heilige Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0202-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120203
+DTEND;VALUE=DATE:20120204
+SUMMARY:Vrijdag in de vierde week na Driekoningen
+DESCRIPTION:Vrijdag in de vierde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E046-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120204
+DTEND;VALUE=DATE:20120205
+SUMMARY:Zaterdag in de vierde week na Driekoningen
+DESCRIPTION:Zaterdag in de vierde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:E047-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120205
+DTEND;VALUE=DATE:20120206
+SUMMARY:Septuagesima zondag
+DESCRIPTION:Septuagesima zondag
+TRANSP:TRANSPARENT
+UID:G011-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120206
+DTEND;VALUE=DATE:20120207
+SUMMARY:Maandag in de week van Septuagesima
+DESCRIPTION:Maandag in de week van Septuagesima
+TRANSP:TRANSPARENT
+UID:G012-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-06
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120207
+DTEND;VALUE=DATE:20120208
+SUMMARY:Dinsdag in de week van Septuagesima
+DESCRIPTION:Dinsdag in de week van Septuagesima
+TRANSP:TRANSPARENT
+UID:G013-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-07
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120208
+DTEND;VALUE=DATE:20120209
+SUMMARY:Woensdag in de week van Septuagesima
+DESCRIPTION:Woensdag in de week van Septuagesima
+TRANSP:TRANSPARENT
+UID:G014-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120209
+DTEND;VALUE=DATE:20120210
+SUMMARY:Donderdag in de week van Septuagesima
+DESCRIPTION:Donderdag in de week van Septuagesima
+TRANSP:TRANSPARENT
+UID:G015-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-09
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120210
+DTEND;VALUE=DATE:20120211
+SUMMARY:Vrijdag in de week van Septuagesima
+DESCRIPTION:Vrijdag in de week van Septuagesima
+TRANSP:TRANSPARENT
+UID:G016-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120211
+DTEND;VALUE=DATE:20120212
+SUMMARY:Zaterdag in de week van Septuagesima
+DESCRIPTION:Zaterdag in de week van Septuagesima
+TRANSP:TRANSPARENT
+UID:G017-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120212
+DTEND;VALUE=DATE:20120213
+SUMMARY:Sexagesima zondag
+DESCRIPTION:Sexagesima zondag
+TRANSP:TRANSPARENT
+UID:G021-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120213
+DTEND;VALUE=DATE:20120214
+SUMMARY:Maandag in de week van Sexagesima
+DESCRIPTION:Maandag in de week van Sexagesima
+TRANSP:TRANSPARENT
+UID:G022-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120214
+DTEND;VALUE=DATE:20120215
+SUMMARY:Dinsdag in de week van Sexagesima
+DESCRIPTION:Dinsdag in de week van Sexagesima
+TRANSP:TRANSPARENT
+UID:G023-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120215
+DTEND;VALUE=DATE:20120216
+SUMMARY:Woensdag in de week van Sexagesima
+DESCRIPTION:Woensdag in de week van Sexagesima
+TRANSP:TRANSPARENT
+UID:G024-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120216
+DTEND;VALUE=DATE:20120217
+SUMMARY:Donderdag in de week van Sexagesima
+DESCRIPTION:Donderdag in de week van Sexagesima
+TRANSP:TRANSPARENT
+UID:G025-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120217
+DTEND;VALUE=DATE:20120218
+SUMMARY:Vrijdag in de week van Sexagesima
+DESCRIPTION:Vrijdag in de week van Sexagesima
+TRANSP:TRANSPARENT
+UID:G026-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120218
+DTEND;VALUE=DATE:20120219
+SUMMARY:Zaterdag in de week van Sexagesima
+DESCRIPTION:Zaterdag in de week van Sexagesima
+TRANSP:TRANSPARENT
+UID:G027-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120219
+DTEND;VALUE=DATE:20120220
+SUMMARY:Quinquagesima zondag
+DESCRIPTION:Quinquagesima zondag
+TRANSP:TRANSPARENT
+UID:G031-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120220
+DTEND;VALUE=DATE:20120221
+SUMMARY:Maandag in de week van Quinquagesima
+DESCRIPTION:Maandag in de week van Quinquagesima
+TRANSP:TRANSPARENT
+UID:G032-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120221
+DTEND;VALUE=DATE:20120222
+SUMMARY:Dinsdag in de week van Quinquagesima
+DESCRIPTION:Dinsdag in de week van Quinquagesima
+TRANSP:TRANSPARENT
+UID:G033-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120223
+DTEND;VALUE=DATE:20120224
+SUMMARY:Donderdag na Aswoensdag
+DESCRIPTION:Donderdag na Aswoensdag
+TRANSP:TRANSPARENT
+UID:L005-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120224
+DTEND;VALUE=DATE:20120225
+SUMMARY:Vrijdag na Aswoensdag
+DESCRIPTION:Vrijdag na Aswoensdag
+TRANSP:TRANSPARENT
+UID:L006-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120225
+DTEND;VALUE=DATE:20120226
+SUMMARY:St. Matthias Apostel
+DESCRIPTION:St. Matthias Apostel
+TRANSP:TRANSPARENT
+UID:MAT-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120227
+DTEND;VALUE=DATE:20120228
+SUMMARY:Maandag in de eerste week van de Vasten
+DESCRIPTION:Maandag in de eerste week van de Vasten
+TRANSP:TRANSPARENT
+UID:L012-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120228
+DTEND;VALUE=DATE:20120229
+SUMMARY:Dinsdag in de eerste week van de Vasten
+DESCRIPTION:Dinsdag in de eerste week van de Vasten
+TRANSP:TRANSPARENT
+UID:L013-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120229
+DTEND;VALUE=DATE:20120301
+SUMMARY:Quatertemperwoensdag in de Vasten
+DESCRIPTION:Quatertemperwoensdag in de Vasten
+TRANSP:TRANSPARENT
+UID:L014-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-02-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120301
+DTEND;VALUE=DATE:20120302
+SUMMARY:Donderdag in de eerste week van de Vasten
+DESCRIPTION:Donderdag in de eerste week van de Vasten
+TRANSP:TRANSPARENT
+UID:L015-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120302
+DTEND;VALUE=DATE:20120303
+SUMMARY:Quatertempervrijdag in de Vasten
+DESCRIPTION:Quatertempervrijdag in de Vasten
+TRANSP:TRANSPARENT
+UID:L016-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120303
+DTEND;VALUE=DATE:20120304
+SUMMARY:Quatertemperzaterdag in de Vasten
+DESCRIPTION:Quatertemperzaterdag in de Vasten
+TRANSP:TRANSPARENT
+UID:L017-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120305
+DTEND;VALUE=DATE:20120306
+SUMMARY:Maandag in de tweede week van de Vasten
+DESCRIPTION:Maandag in de tweede week van de Vasten
+TRANSP:TRANSPARENT
+UID:L022-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120306
+DTEND;VALUE=DATE:20120307
+SUMMARY:Dinsdag in de tweede week van de Vasten
+DESCRIPTION:Dinsdag in de tweede week van de Vasten
+TRANSP:TRANSPARENT
+UID:L023-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-06
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120307
+DTEND;VALUE=DATE:20120308
+SUMMARY:Woensdag in de tweede week van de Vasten
+DESCRIPTION:Woensdag in de tweede week van de Vasten
+TRANSP:TRANSPARENT
+UID:L024-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-07
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120308
+DTEND;VALUE=DATE:20120309
+SUMMARY:Donderdag in de tweede week van de Vasten
+DESCRIPTION:Donderdag in de tweede week van de Vasten
+TRANSP:TRANSPARENT
+UID:L025-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120309
+DTEND;VALUE=DATE:20120310
+SUMMARY:Vrijdag in de tweede week van de Vasten
+DESCRIPTION:Vrijdag in de tweede week van de Vasten
+TRANSP:TRANSPARENT
+UID:L026-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-09
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120310
+DTEND;VALUE=DATE:20120311
+SUMMARY:Zaterdag in de tweede week van de Vasten
+DESCRIPTION:Zaterdag in de tweede week van de Vasten
+TRANSP:TRANSPARENT
+UID:L027-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120312
+DTEND;VALUE=DATE:20120313
+SUMMARY:Maandag in de derde week van de Vasten
+DESCRIPTION:Maandag in de derde week van de Vasten
+TRANSP:TRANSPARENT
+UID:L032-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120313
+DTEND;VALUE=DATE:20120314
+SUMMARY:Dinsdag in de derde week van de Vasten
+DESCRIPTION:Dinsdag in de derde week van de Vasten
+TRANSP:TRANSPARENT
+UID:L033-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120314
+DTEND;VALUE=DATE:20120315
+SUMMARY:Woensdag in de derde week van de Vasten
+DESCRIPTION:Woensdag in de derde week van de Vasten
+TRANSP:TRANSPARENT
+UID:L034-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120315
+DTEND;VALUE=DATE:20120316
+SUMMARY:Donderdag in de derde week van de Vasten
+DESCRIPTION:Donderdag in de derde week van de Vasten
+TRANSP:TRANSPARENT
+UID:L035-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120316
+DTEND;VALUE=DATE:20120317
+SUMMARY:Vrijdag in de derde week van de Vasten
+DESCRIPTION:Vrijdag in de derde week van de Vasten
+TRANSP:TRANSPARENT
+UID:L036-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120317
+DTEND;VALUE=DATE:20120318
+SUMMARY:Zaterdag in de derde week van de Vasten
+DESCRIPTION:Zaterdag in de derde week van de Vasten
+TRANSP:TRANSPARENT
+UID:L037-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120320
+DTEND;VALUE=DATE:20120321
+SUMMARY:Dinsdag in de vierde week van de Vasten
+DESCRIPTION:Dinsdag in de vierde week van de Vasten
+TRANSP:TRANSPARENT
+UID:L043-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120321
+DTEND;VALUE=DATE:20120322
+SUMMARY:Woensdag in de vierde week van de Vasten
+DESCRIPTION:Woensdag in de vierde week van de Vasten
+TRANSP:TRANSPARENT
+UID:L044-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120322
+DTEND;VALUE=DATE:20120323
+SUMMARY:Donderdag in de vierde week van de Vasten
+DESCRIPTION:Donderdag in de vierde week van de Vasten
+TRANSP:TRANSPARENT
+UID:L045-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120323
+DTEND;VALUE=DATE:20120324
+SUMMARY:Vrijdag in de vierde week van de Vasten
+DESCRIPTION:Vrijdag in de vierde week van de Vasten
+TRANSP:TRANSPARENT
+UID:L046-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120324
+DTEND;VALUE=DATE:20120325
+SUMMARY:Zaterdag in de vierde week van de Vasten
+DESCRIPTION:Zaterdag in de vierde week van de Vasten
+TRANSP:TRANSPARENT
+UID:L047-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120326
+DTEND;VALUE=DATE:20120327
+SUMMARY:Maandag in de Passieweek
+DESCRIPTION:Maandag in de Passieweek
+TRANSP:TRANSPARENT
+UID:L052-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120327
+DTEND;VALUE=DATE:20120328
+SUMMARY:Dinsdag in de Passieweek
+DESCRIPTION:Dinsdag in de Passieweek
+TRANSP:TRANSPARENT
+UID:L053-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120328
+DTEND;VALUE=DATE:20120329
+SUMMARY:Woensdag in de Passieweek
+DESCRIPTION:Woensdag in de Passieweek
+TRANSP:TRANSPARENT
+UID:L054-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120329
+DTEND;VALUE=DATE:20120330
+SUMMARY:Donderdag in de Passieweek
+DESCRIPTION:Donderdag in de Passieweek
+TRANSP:TRANSPARENT
+UID:L055-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120330
+DTEND;VALUE=DATE:20120331
+SUMMARY:Vrijdag in de Passieweek
+DESCRIPTION:Vrijdag in de Passieweek
+TRANSP:TRANSPARENT
+UID:L056-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120331
+DTEND;VALUE=DATE:20120401
+SUMMARY:Zaterdag in de Passieweek
+DESCRIPTION:Zaterdag in de Passieweek
+TRANSP:TRANSPARENT
+UID:L057-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-03-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120422
+DTEND;VALUE=DATE:20120423
+SUMMARY:Tweede zondag na Pasen
+DESCRIPTION:Tweede zondag na Pasen
+TRANSP:TRANSPARENT
+UID:P031-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-04-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120423
+DTEND;VALUE=DATE:20120424
+SUMMARY:Maandag in de tweede week na Pasen
+DESCRIPTION:Maandag in de tweede week na Pasen
+TRANSP:TRANSPARENT
+UID:P032-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-04-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120424
+DTEND;VALUE=DATE:20120425
+SUMMARY:Dinsdag in de tweede week na Pasen
+DESCRIPTION:Dinsdag in de tweede week na Pasen
+TRANSP:TRANSPARENT
+UID:P033-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-04-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120426
+DTEND;VALUE=DATE:20120427
+SUMMARY:Donderdag in de tweede week na Pasen
+DESCRIPTION:Donderdag in de tweede week na Pasen
+TRANSP:TRANSPARENT
+UID:P035-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-04-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120427
+DTEND;VALUE=DATE:20120428
+SUMMARY:Vrijdag in de tweede week na Pasen
+DESCRIPTION:Vrijdag in de tweede week na Pasen
+TRANSP:TRANSPARENT
+UID:P036-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-04-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120428
+DTEND;VALUE=DATE:20120429
+SUMMARY:Zaterdag in de tweede week na Pasen
+DESCRIPTION:Zaterdag in de tweede week na Pasen
+TRANSP:TRANSPARENT
+UID:P037-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-04-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120429
+DTEND;VALUE=DATE:20120430
+SUMMARY:Derde zondag na Pasen
+DESCRIPTION:Derde zondag na Pasen
+TRANSP:TRANSPARENT
+UID:P041-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-04-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120430
+DTEND;VALUE=DATE:20120501
+SUMMARY:Maandag in de derde week na Pasen
+DESCRIPTION:Maandag in de derde week na Pasen
+TRANSP:TRANSPARENT
+UID:P042-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-04-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120502
+DTEND;VALUE=DATE:20120503
+SUMMARY:Woensdag in de derde week na Pasen
+DESCRIPTION:Woensdag in de derde week na Pasen
+TRANSP:TRANSPARENT
+UID:P044-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120503
+DTEND;VALUE=DATE:20120504
+SUMMARY:Donderdag in de derde week na Pasen
+DESCRIPTION:Donderdag in de derde week na Pasen
+TRANSP:TRANSPARENT
+UID:P045-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120504
+DTEND;VALUE=DATE:20120505
+SUMMARY:Vrijdag in de derde week na Pasen
+DESCRIPTION:Vrijdag in de derde week na Pasen
+TRANSP:TRANSPARENT
+UID:P046-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120505
+DTEND;VALUE=DATE:20120506
+SUMMARY:Zaterdag in de derde week na Pasen
+DESCRIPTION:Zaterdag in de derde week na Pasen
+TRANSP:TRANSPARENT
+UID:P047-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120506
+DTEND;VALUE=DATE:20120507
+SUMMARY:Vierde zondag na Pasen
+DESCRIPTION:Vierde zondag na Pasen
+TRANSP:TRANSPARENT
+UID:P051-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-06
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120507
+DTEND;VALUE=DATE:20120508
+SUMMARY:Maandag in de vierde week na Pasen
+DESCRIPTION:Maandag in de vierde week na Pasen
+TRANSP:TRANSPARENT
+UID:P052-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-07
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120508
+DTEND;VALUE=DATE:20120509
+SUMMARY:Dinsdag in de vierde week na Pasen
+DESCRIPTION:Dinsdag in de vierde week na Pasen
+TRANSP:TRANSPARENT
+UID:P053-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120509
+DTEND;VALUE=DATE:20120510
+SUMMARY:Woensdag in de vierde week na Pasen
+DESCRIPTION:Woensdag in de vierde week na Pasen
+TRANSP:TRANSPARENT
+UID:P054-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-09
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120510
+DTEND;VALUE=DATE:20120511
+SUMMARY:#liturgicalday#eo-0510
+DESCRIPTION:#liturgicalday#eo-0510
+TRANSP:TRANSPARENT
+UID:0510-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120511
+DTEND;VALUE=DATE:20120512
+SUMMARY:HH. Filippus en Jakobus, apostelen
+DESCRIPTION:HH. Filippus en Jakobus, apostelen
+TRANSP:TRANSPARENT
+UID:Z0511-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120512
+DTEND;VALUE=DATE:20120513
+SUMMARY:Zaterdag in de vierde week na Pasen
+DESCRIPTION:Zaterdag in de vierde week na Pasen
+TRANSP:TRANSPARENT
+UID:P057-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120513
+DTEND;VALUE=DATE:20120514
+SUMMARY:Vijfde zondag na Pasen
+DESCRIPTION:Vijfde zondag na Pasen
+TRANSP:TRANSPARENT
+UID:P061-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120514
+DTEND;VALUE=DATE:20120515
+SUMMARY:Kruisdag
+DESCRIPTION:Kruisdag
+TRANSP:TRANSPARENT
+UID:P062-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120515
+DTEND;VALUE=DATE:20120516
+SUMMARY:Kruisdag
+DESCRIPTION:Kruisdag
+TRANSP:TRANSPARENT
+UID:P063-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120516
+DTEND;VALUE=DATE:20120517
+SUMMARY:Vigilie van de Hemelvaart van de Heer
+DESCRIPTION:Vigilie van de Hemelvaart van de Heer
+TRANSP:TRANSPARENT
+UID:Q064-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120516
+DTEND;VALUE=DATE:20120517
+SUMMARY:Kruisdag
+DESCRIPTION:Kruisdag
+TRANSP:TRANSPARENT
+UID:P064-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120518
+DTEND;VALUE=DATE:20120519
+SUMMARY:Vrijdag na de Hemelvaart van de Heer
+DESCRIPTION:Vrijdag na de Hemelvaart van de Heer
+TRANSP:TRANSPARENT
+UID:Q066-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120519
+DTEND;VALUE=DATE:20120520
+SUMMARY:Zaterdag na de Hemelvaart van de Heer
+DESCRIPTION:Zaterdag na de Hemelvaart van de Heer
+TRANSP:TRANSPARENT
+UID:Q067-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120520
+DTEND;VALUE=DATE:20120521
+SUMMARY:Zondag na de Hemelvaart van de Heer
+DESCRIPTION:Zondag na de Hemelvaart van de Heer
+TRANSP:TRANSPARENT
+UID:Q071-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120521
+DTEND;VALUE=DATE:20120522
+SUMMARY:Maandag in de week na de Hemelvaart van de Heer
+DESCRIPTION:Maandag in de week na de Hemelvaart van de Heer
+TRANSP:TRANSPARENT
+UID:Q072-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120522
+DTEND;VALUE=DATE:20120523
+SUMMARY:Dinsdag in de week na de Hemelvaart van de Heer
+DESCRIPTION:Dinsdag in de week na de Hemelvaart van de Heer
+TRANSP:TRANSPARENT
+UID:Q073-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120523
+DTEND;VALUE=DATE:20120524
+SUMMARY:Woensdag in de week na de Hemelvaart van de Heer
+DESCRIPTION:Woensdag in de week na de Hemelvaart van de Heer
+TRANSP:TRANSPARENT
+UID:Q074-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120524
+DTEND;VALUE=DATE:20120525
+SUMMARY:Vrijdag in de week na de Hemelvaart van de Heer
+DESCRIPTION:Vrijdag in de week na de Hemelvaart van de Heer
+TRANSP:TRANSPARENT
+UID:Q075-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120525
+DTEND;VALUE=DATE:20120526
+SUMMARY:Zaterdag in de week na de Hemelvaart van de Heer
+DESCRIPTION:Zaterdag in de week na de Hemelvaart van de Heer
+TRANSP:TRANSPARENT
+UID:Q076-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-05-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120610
+DTEND;VALUE=DATE:20120611
+SUMMARY:Tweede zondag na Pinksteren
+DESCRIPTION:Tweede zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y021-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120611
+DTEND;VALUE=DATE:20120612
+SUMMARY:Maandag in de tweede week na Pinksteren
+DESCRIPTION:Maandag in de tweede week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y022-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120612
+DTEND;VALUE=DATE:20120613
+SUMMARY:Dinsdag in de tweede week na Pinksteren
+DESCRIPTION:Dinsdag in de tweede week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y023-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120613
+DTEND;VALUE=DATE:20120614
+SUMMARY:Woensdag in de tweede week na Pinksteren
+DESCRIPTION:Woensdag in de tweede week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y024-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120614
+DTEND;VALUE=DATE:20120615
+SUMMARY:Donderdag in de tweede week na Pinksteren
+DESCRIPTION:Donderdag in de tweede week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y025-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120616
+DTEND;VALUE=DATE:20120617
+SUMMARY:Zaterdag in de tweede week na Pinksteren
+DESCRIPTION:Zaterdag in de tweede week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y027-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120617
+DTEND;VALUE=DATE:20120618
+SUMMARY:Derde zondag na Pinksteren
+DESCRIPTION:Derde zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y031-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120618
+DTEND;VALUE=DATE:20120619
+SUMMARY:Maandag in de derde week na Pinksteren
+DESCRIPTION:Maandag in de derde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y032-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120619
+DTEND;VALUE=DATE:20120620
+SUMMARY:Dinsdag in de derde week na Pinksteren
+DESCRIPTION:Dinsdag in de derde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y033-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120620
+DTEND;VALUE=DATE:20120621
+SUMMARY:Woensdag in de derde week na Pinksteren
+DESCRIPTION:Woensdag in de derde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y034-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120621
+DTEND;VALUE=DATE:20120622
+SUMMARY:Donderdag in de derde week na Pinksteren
+DESCRIPTION:Donderdag in de derde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y035-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120622
+DTEND;VALUE=DATE:20120623
+SUMMARY:Vrijdag in de derde week na Pinksteren
+DESCRIPTION:Vrijdag in de derde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y036-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120623
+DTEND;VALUE=DATE:20120624
+SUMMARY:Vigilie van de Geboorte van de H. Johannes de Doper
+DESCRIPTION:Vigilie van de Geboorte van de H. Johannes de Doper
+TRANSP:TRANSPARENT
+UID:Z0623-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120625
+DTEND;VALUE=DATE:20120626
+SUMMARY:Maandag in de vierde week na Pinksteren
+DESCRIPTION:Maandag in de vierde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y042-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120626
+DTEND;VALUE=DATE:20120627
+SUMMARY:Dinsdag in de vierde week na Pinksteren
+DESCRIPTION:Dinsdag in de vierde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y043-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120627
+DTEND;VALUE=DATE:20120628
+SUMMARY:Woensdag in de vierde week na Pinksteren
+DESCRIPTION:Woensdag in de vierde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y044-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120628
+DTEND;VALUE=DATE:20120629
+SUMMARY:Vigilie van de HH. Petrus en Paulus
+DESCRIPTION:Vigilie van de HH. Petrus en Paulus
+TRANSP:TRANSPARENT
+UID:Z0628-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120630
+DTEND;VALUE=DATE:20120701
+SUMMARY:Zaterdag in de vierde week na Pinksteren
+DESCRIPTION:Zaterdag in de vierde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y047-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-06-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120702
+DTEND;VALUE=DATE:20120703
+SUMMARY:Visitatie van de H. Maagd Maria aan Elizabeth
+DESCRIPTION:Visitatie van de H. Maagd Maria aan Elizabeth
+TRANSP:TRANSPARENT
+UID:Z0702-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120703
+DTEND;VALUE=DATE:20120704
+SUMMARY:Dinsdag in de vijfde week na Pinksteren
+DESCRIPTION:Dinsdag in de vijfde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y053-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120704
+DTEND;VALUE=DATE:20120705
+SUMMARY:Woensdag in de vijfde week na Pinksteren
+DESCRIPTION:Woensdag in de vijfde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y054-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120705
+DTEND;VALUE=DATE:20120706
+SUMMARY:Donderdag in de vijfde week na Pinksteren
+DESCRIPTION:Donderdag in de vijfde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y055-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120706
+DTEND;VALUE=DATE:20120707
+SUMMARY:Vrijdag in de vijfde week na Pinksteren
+DESCRIPTION:Vrijdag in de vijfde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y056-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-06
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120707
+DTEND;VALUE=DATE:20120708
+SUMMARY:Zaterdag in de vijfde week na Pinksteren
+DESCRIPTION:Zaterdag in de vijfde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y057-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-07
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120708
+DTEND;VALUE=DATE:20120709
+SUMMARY:Zesde zondag na Pinksteren
+DESCRIPTION:Zesde zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y061-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120709
+DTEND;VALUE=DATE:20120710
+SUMMARY:Maandag in de zesde week na Pinksteren
+DESCRIPTION:Maandag in de zesde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y062-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-09
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120710
+DTEND;VALUE=DATE:20120711
+SUMMARY:Dinsdag in de zesde week na Pinksteren
+DESCRIPTION:Dinsdag in de zesde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y063-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120711
+DTEND;VALUE=DATE:20120712
+SUMMARY:Woensdag in de zesde week na Pinksteren
+DESCRIPTION:Woensdag in de zesde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y064-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120712
+DTEND;VALUE=DATE:20120713
+SUMMARY:Donderdag in de zesde week na Pinksteren
+DESCRIPTION:Donderdag in de zesde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y065-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120713
+DTEND;VALUE=DATE:20120714
+SUMMARY:Vrijdag in de zesde week na Pinksteren
+DESCRIPTION:Vrijdag in de zesde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y066-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120714
+DTEND;VALUE=DATE:20120715
+SUMMARY:Zaterdag in de zesde week na Pinksteren
+DESCRIPTION:Zaterdag in de zesde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y067-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120715
+DTEND;VALUE=DATE:20120716
+SUMMARY:Zevende zondag na Pinksteren
+DESCRIPTION:Zevende zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y071-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120716
+DTEND;VALUE=DATE:20120717
+SUMMARY:Maandag in de zevende week na Pinksteren
+DESCRIPTION:Maandag in de zevende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y072-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120717
+DTEND;VALUE=DATE:20120718
+SUMMARY:Dinsdag in de zevende week na Pinksteren
+DESCRIPTION:Dinsdag in de zevende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y073-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120718
+DTEND;VALUE=DATE:20120719
+SUMMARY:Woensdag in de zevende week na Pinksteren
+DESCRIPTION:Woensdag in de zevende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y074-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120719
+DTEND;VALUE=DATE:20120720
+SUMMARY:Donderdag in de zevende week na Pinksteren
+DESCRIPTION:Donderdag in de zevende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y075-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120720
+DTEND;VALUE=DATE:20120721
+SUMMARY:Vrijdag in de zevende week na Pinksteren
+DESCRIPTION:Vrijdag in de zevende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y076-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120721
+DTEND;VALUE=DATE:20120722
+SUMMARY:Zaterdag in de zevende week na Pinksteren
+DESCRIPTION:Zaterdag in de zevende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y077-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120722
+DTEND;VALUE=DATE:20120723
+SUMMARY:Achtste zondag na Pinksteren
+DESCRIPTION:Achtste zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y081-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120723
+DTEND;VALUE=DATE:20120724
+SUMMARY:Maandag in de achtste week na Pinksteren
+DESCRIPTION:Maandag in de achtste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y082-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120724
+DTEND;VALUE=DATE:20120725
+SUMMARY:Dinsdag in de achtste week na Pinksteren
+DESCRIPTION:Dinsdag in de achtste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y083-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120725
+DTEND;VALUE=DATE:20120726
+SUMMARY:H. Jakobus, Apostel
+DESCRIPTION:H. Jakobus, Apostel
+TRANSP:TRANSPARENT
+UID:Z0725-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120726
+DTEND;VALUE=DATE:20120727
+SUMMARY:H. Anna, Moeder van de H. Maagd Maria
+DESCRIPTION:H. Anna, Moeder van de H. Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0726-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120727
+DTEND;VALUE=DATE:20120728
+SUMMARY:Vrijdag in de achtste week na Pinksteren
+DESCRIPTION:Vrijdag in de achtste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y086-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120728
+DTEND;VALUE=DATE:20120729
+SUMMARY:Zaterdag in de achtste week na Pinksteren
+DESCRIPTION:Zaterdag in de achtste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y087-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120729
+DTEND;VALUE=DATE:20120730
+SUMMARY:Negende zondag na Pinksteren
+DESCRIPTION:Negende zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y091-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120730
+DTEND;VALUE=DATE:20120731
+SUMMARY:Maandag in de negende week na Pinksteren
+DESCRIPTION:Maandag in de negende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y092-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120731
+DTEND;VALUE=DATE:20120801
+SUMMARY:Dinsdag in de negende week na Pinksteren
+DESCRIPTION:Dinsdag in de negende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y093-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-07-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120801
+DTEND;VALUE=DATE:20120802
+SUMMARY:Woensdag in de negende week na Pinksteren
+DESCRIPTION:Woensdag in de negende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y094-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120802
+DTEND;VALUE=DATE:20120803
+SUMMARY:Donderdag in de negende week na Pinksteren
+DESCRIPTION:Donderdag in de negende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y095-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120803
+DTEND;VALUE=DATE:20120804
+SUMMARY:Vrijdag in de negende week na Pinksteren
+DESCRIPTION:Vrijdag in de negende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y096-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120804
+DTEND;VALUE=DATE:20120805
+SUMMARY:Zaterdag in de negende week na Pinksteren
+DESCRIPTION:Zaterdag in de negende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y097-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120805
+DTEND;VALUE=DATE:20120806
+SUMMARY:Tiende zondag na Pinksteren
+DESCRIPTION:Tiende zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y101-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120806
+DTEND;VALUE=DATE:20120807
+SUMMARY:Gedaanteverandering van O.H. Jezus Christus
+DESCRIPTION:Gedaanteverandering van O.H. Jezus Christus
+TRANSP:TRANSPARENT
+UID:Z0806-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-06
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120807
+DTEND;VALUE=DATE:20120808
+SUMMARY:Dinsdag in de tiende week na Pinksteren
+DESCRIPTION:Dinsdag in de tiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y103-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-07
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120808
+DTEND;VALUE=DATE:20120809
+SUMMARY:Woensdag in de tiende week na Pinksteren
+DESCRIPTION:Woensdag in de tiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y104-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120809
+DTEND;VALUE=DATE:20120810
+SUMMARY:Donderdag in de tiende week na Pinksteren
+DESCRIPTION:Donderdag in de tiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y105-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-09
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120810
+DTEND;VALUE=DATE:20120811
+SUMMARY:H. Laurentius, Martelaar
+DESCRIPTION:H. Laurentius, Martelaar
+TRANSP:TRANSPARENT
+UID:Z0810-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120811
+DTEND;VALUE=DATE:20120812
+SUMMARY:Zaterdag in de tiende week na Pinksteren
+DESCRIPTION:Zaterdag in de tiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y107-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120812
+DTEND;VALUE=DATE:20120813
+SUMMARY:Elfde zondag na Pinksteren
+DESCRIPTION:Elfde zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y111-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120813
+DTEND;VALUE=DATE:20120814
+SUMMARY:Maandag in de Elfde week na Pinksteren
+DESCRIPTION:Maandag in de Elfde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y112-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120814
+DTEND;VALUE=DATE:20120815
+SUMMARY:Vigilie van de Hemelvaart van de H. Maagd Maria
+DESCRIPTION:Vigilie van de Hemelvaart van de H. Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0814-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120816
+DTEND;VALUE=DATE:20120817
+SUMMARY:H. Joachim, Vader van de H. Maagd Maria
+DESCRIPTION:H. Joachim, Vader van de H. Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0816-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120817
+DTEND;VALUE=DATE:20120818
+SUMMARY:Vrijdag in de Elfde week na Pinksteren
+DESCRIPTION:Vrijdag in de Elfde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y116-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120818
+DTEND;VALUE=DATE:20120819
+SUMMARY:Zaterdag in de Elfde week na Pinksteren
+DESCRIPTION:Zaterdag in de Elfde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y117-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120819
+DTEND;VALUE=DATE:20120820
+SUMMARY:Twaalfde zondag na Pinksteren
+DESCRIPTION:Twaalfde zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y121-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120820
+DTEND;VALUE=DATE:20120821
+SUMMARY:Maandag in de twaalfde week na Pinksteren
+DESCRIPTION:Maandag in de twaalfde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y122-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120821
+DTEND;VALUE=DATE:20120822
+SUMMARY:Dinsdag in de twaalfde week na Pinksteren
+DESCRIPTION:Dinsdag in de twaalfde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y123-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120822
+DTEND;VALUE=DATE:20120823
+SUMMARY:Onbevlekt Hart van de H.Maagd Maria
+DESCRIPTION:Onbevlekt Hart van de H.Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0822-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120823
+DTEND;VALUE=DATE:20120824
+SUMMARY:Donderdag in de twaalfde week na Pinksteren
+DESCRIPTION:Donderdag in de twaalfde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y125-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120824
+DTEND;VALUE=DATE:20120825
+SUMMARY:H. Bartholomeus, Apostel
+DESCRIPTION:H. Bartholomeus, Apostel
+TRANSP:TRANSPARENT
+UID:Z0824-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120825
+DTEND;VALUE=DATE:20120826
+SUMMARY:Zaterdag in de twaalfde week na Pinksteren
+DESCRIPTION:Zaterdag in de twaalfde week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y127-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120826
+DTEND;VALUE=DATE:20120827
+SUMMARY:Dertiende zondag na Pinksteren
+DESCRIPTION:Dertiende zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y131-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120827
+DTEND;VALUE=DATE:20120828
+SUMMARY:Maandag in de dertiende week na Pinksteren
+DESCRIPTION:Maandag in de dertiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y132-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120828
+DTEND;VALUE=DATE:20120829
+SUMMARY:Dinsdag in de dertiende week na Pinksteren
+DESCRIPTION:Dinsdag in de dertiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y133-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120829
+DTEND;VALUE=DATE:20120830
+SUMMARY:Woensdag in de dertiende week na Pinksteren
+DESCRIPTION:Woensdag in de dertiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y134-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120830
+DTEND;VALUE=DATE:20120831
+SUMMARY:Donderdag in de dertiende week na Pinksteren
+DESCRIPTION:Donderdag in de dertiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y135-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120831
+DTEND;VALUE=DATE:20120901
+SUMMARY:Vrijdag in de dertiende week na Pinksteren
+DESCRIPTION:Vrijdag in de dertiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y136-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-08-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120901
+DTEND;VALUE=DATE:20120902
+SUMMARY:Zaterdag in de dertiende week na Pinksteren
+DESCRIPTION:Zaterdag in de dertiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y137-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120902
+DTEND;VALUE=DATE:20120903
+SUMMARY:Veertiende zondag na Pinksteren
+DESCRIPTION:Veertiende zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y141-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120903
+DTEND;VALUE=DATE:20120904
+SUMMARY:Maandag in de veertiende week na Pinksteren
+DESCRIPTION:Maandag in de veertiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y142-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120904
+DTEND;VALUE=DATE:20120905
+SUMMARY:Dinsdag in de veertiende week na Pinksteren
+DESCRIPTION:Dinsdag in de veertiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y143-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120905
+DTEND;VALUE=DATE:20120906
+SUMMARY:Woensdag in de veertiende week na Pinksteren
+DESCRIPTION:Woensdag in de veertiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y144-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120906
+DTEND;VALUE=DATE:20120907
+SUMMARY:Donderdag in de veertiende week na Pinksteren
+DESCRIPTION:Donderdag in de veertiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y145-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-06
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120907
+DTEND;VALUE=DATE:20120908
+SUMMARY:Vrijdag in de veertiende week na Pinksteren
+DESCRIPTION:Vrijdag in de veertiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y146-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-07
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120908
+DTEND;VALUE=DATE:20120909
+SUMMARY:Geboorte van de H. Maagd Maria
+DESCRIPTION:Geboorte van de H. Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0908-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120909
+DTEND;VALUE=DATE:20120910
+SUMMARY:Vijftiende zondag na Pinksteren
+DESCRIPTION:Vijftiende zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y151-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-09
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120910
+DTEND;VALUE=DATE:20120911
+SUMMARY:Maandag in de vijftiende week na Pinksteren
+DESCRIPTION:Maandag in de vijftiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y152-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120911
+DTEND;VALUE=DATE:20120912
+SUMMARY:Dinsdag in de vijftiende week na Pinksteren
+DESCRIPTION:Dinsdag in de vijftiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y153-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120912
+DTEND;VALUE=DATE:20120913
+SUMMARY:Woensdag in de vijftiende week na Pinksteren
+DESCRIPTION:Woensdag in de vijftiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y154-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120913
+DTEND;VALUE=DATE:20120914
+SUMMARY:Donderdag in de vijftiende week na Pinksteren
+DESCRIPTION:Donderdag in de vijftiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y155-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120914
+DTEND;VALUE=DATE:20120915
+SUMMARY:Kruisverheffing
+DESCRIPTION:Kruisverheffing
+TRANSP:TRANSPARENT
+UID:Z0914-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120915
+DTEND;VALUE=DATE:20120916
+SUMMARY:Zeven Smarten van de H. Maagd Maria
+DESCRIPTION:Zeven Smarten van de H. Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0915-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120916
+DTEND;VALUE=DATE:20120917
+SUMMARY:Zestiende zondag na Pinksteren
+DESCRIPTION:Zestiende zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y161-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120917
+DTEND;VALUE=DATE:20120918
+SUMMARY:Maandag in de zestiende week na Pinksteren
+DESCRIPTION:Maandag in de zestiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y162-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120918
+DTEND;VALUE=DATE:20120919
+SUMMARY:Dinsdag in de zestiende week na Pinksteren
+DESCRIPTION:Dinsdag in de zestiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y163-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120919
+DTEND;VALUE=DATE:20120920
+SUMMARY:Quatertemperwoensdag in september
+DESCRIPTION:Quatertemperwoensdag in september
+TRANSP:TRANSPARENT
+UID:S4-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120920
+DTEND;VALUE=DATE:20120921
+SUMMARY:Donderdag in de zestiende week na Pinksteren
+DESCRIPTION:Donderdag in de zestiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y165-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120921
+DTEND;VALUE=DATE:20120922
+SUMMARY:Quatertempervrijdag in september
+DESCRIPTION:Quatertempervrijdag in september
+TRANSP:TRANSPARENT
+UID:S6-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120922
+DTEND;VALUE=DATE:20120923
+SUMMARY:Quatertemperzaterdag in september
+DESCRIPTION:Quatertemperzaterdag in september
+TRANSP:TRANSPARENT
+UID:S7-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120923
+DTEND;VALUE=DATE:20120924
+SUMMARY:Zeventiende zondag na Pinksteren
+DESCRIPTION:Zeventiende zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y171-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120924
+DTEND;VALUE=DATE:20120925
+SUMMARY:Maandag in de Zeventiende week na Pinksteren
+DESCRIPTION:Maandag in de Zeventiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y172-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120925
+DTEND;VALUE=DATE:20120926
+SUMMARY:Dinsdag in de Zeventiende week na Pinksteren
+DESCRIPTION:Dinsdag in de Zeventiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y173-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120926
+DTEND;VALUE=DATE:20120927
+SUMMARY:Woensdag in de Zeventiende week na Pinksteren
+DESCRIPTION:Woensdag in de Zeventiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y174-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120927
+DTEND;VALUE=DATE:20120928
+SUMMARY:Donderdag in de zeventiende week na Pinksteren
+DESCRIPTION:Donderdag in de zeventiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y175-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120928
+DTEND;VALUE=DATE:20120929
+SUMMARY:Vrijdag in de Zeventiende week na Pinksteren
+DESCRIPTION:Vrijdag in de Zeventiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y176-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20120930
+DTEND;VALUE=DATE:20121001
+SUMMARY:Achttiende zondag na Pinksteren
+DESCRIPTION:Achttiende zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y181-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-09-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121001
+DTEND;VALUE=DATE:20121002
+SUMMARY:Maandag in de achttiende week na Pinksteren
+DESCRIPTION:Maandag in de achttiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y182-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121002
+DTEND;VALUE=DATE:20121003
+SUMMARY:Dinsdag in de achttiende week na Pinksteren
+DESCRIPTION:Dinsdag in de achttiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y183-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121003
+DTEND;VALUE=DATE:20121004
+SUMMARY:Woensdag in de achttiende week na Pinksteren
+DESCRIPTION:Woensdag in de achttiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y184-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121004
+DTEND;VALUE=DATE:20121005
+SUMMARY:Donderdag in de achttiende week na Pinksteren
+DESCRIPTION:Donderdag in de achttiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y185-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121005
+DTEND;VALUE=DATE:20121006
+SUMMARY:Vrijdag in de achttiende week na Pinksteren
+DESCRIPTION:Vrijdag in de achttiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y186-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121006
+DTEND;VALUE=DATE:20121007
+SUMMARY:Zaterdag in de achttiende week na Pinksteren
+DESCRIPTION:Zaterdag in de achttiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y187-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-06
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121007
+DTEND;VALUE=DATE:20121008
+SUMMARY:Negentiende zondag na Pinksteren
+DESCRIPTION:Negentiende zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y191-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-07
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121008
+DTEND;VALUE=DATE:20121009
+SUMMARY:Maandag in de negentiende week na Pinksteren
+DESCRIPTION:Maandag in de negentiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y192-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121009
+DTEND;VALUE=DATE:20121010
+SUMMARY:Dinsdag in de negentiende week na Pinksteren
+DESCRIPTION:Dinsdag in de negentiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y193-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-09
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121010
+DTEND;VALUE=DATE:20121011
+SUMMARY:Woensdag in de negentiende week na Pinksteren
+DESCRIPTION:Woensdag in de negentiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y194-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121011
+DTEND;VALUE=DATE:20121012
+SUMMARY:Het moederschap van de H. Maagd Maria
+DESCRIPTION:Het moederschap van de H. Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z1011-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121012
+DTEND;VALUE=DATE:20121013
+SUMMARY:Vrijdag in de negentiende week na Pinksteren
+DESCRIPTION:Vrijdag in de negentiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y196-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121013
+DTEND;VALUE=DATE:20121014
+SUMMARY:Zaterdag in de negentiende week na Pinksteren
+DESCRIPTION:Zaterdag in de negentiende week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y197-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121014
+DTEND;VALUE=DATE:20121015
+SUMMARY:Twintigste zondag na Pinksteren
+DESCRIPTION:Twintigste zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y201-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121015
+DTEND;VALUE=DATE:20121016
+SUMMARY:Maandag in de twintigste week na Pinksteren
+DESCRIPTION:Maandag in de twintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y202-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121016
+DTEND;VALUE=DATE:20121017
+SUMMARY:Dinsdag in de twintigste week na Pinksteren
+DESCRIPTION:Dinsdag in de twintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y203-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121017
+DTEND;VALUE=DATE:20121018
+SUMMARY:Woensdag in de twintigste week na Pinksteren
+DESCRIPTION:Woensdag in de twintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y204-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121018
+DTEND;VALUE=DATE:20121019
+SUMMARY:H. Lucas, Evangelist
+DESCRIPTION:H. Lucas, Evangelist
+TRANSP:TRANSPARENT
+UID:Z1018-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121019
+DTEND;VALUE=DATE:20121020
+SUMMARY:Vrijdag in de twintigste week na Pinksteren
+DESCRIPTION:Vrijdag in de twintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y206-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121020
+DTEND;VALUE=DATE:20121021
+SUMMARY:Zaterdag in de twintigste week na Pinksteren
+DESCRIPTION:Zaterdag in de twintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y207-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121021
+DTEND;VALUE=DATE:20121022
+SUMMARY:Eentwintigste zondag na Pinksteren
+DESCRIPTION:Eentwintigste zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y211-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121022
+DTEND;VALUE=DATE:20121023
+SUMMARY:Maandag in de eentwintigste week na Pinksteren
+DESCRIPTION:Maandag in de eentwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y212-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121023
+DTEND;VALUE=DATE:20121024
+SUMMARY:Dinsdag in de eentwintigste week na Pinksteren
+DESCRIPTION:Dinsdag in de eentwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y213-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121024
+DTEND;VALUE=DATE:20121025
+SUMMARY:Woensdag in de eentwintigste week na Pinksteren
+DESCRIPTION:Woensdag in de eentwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y214-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121025
+DTEND;VALUE=DATE:20121026
+SUMMARY:Donderdag in de eentwintigste week na Pinksteren
+DESCRIPTION:Donderdag in de eentwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y215-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121026
+DTEND;VALUE=DATE:20121027
+SUMMARY:Vrijdag in de eentwintigste week na Pinksteren
+DESCRIPTION:Vrijdag in de eentwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y216-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121027
+DTEND;VALUE=DATE:20121028
+SUMMARY:Zaterdag in de eentwintigste week na Pinksteren
+DESCRIPTION:Zaterdag in de eentwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y217-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121029
+DTEND;VALUE=DATE:20121030
+SUMMARY:Maandag in de tweeëntwintigste week na Pinksteren
+DESCRIPTION:Maandag in de tweeëntwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y222-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121030
+DTEND;VALUE=DATE:20121031
+SUMMARY:Dinsdag in de tweeëntwintigste week na Pinksteren
+DESCRIPTION:Dinsdag in de tweeëntwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y223-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121031
+DTEND;VALUE=DATE:20121101
+SUMMARY:Woensdag in de tweeëntwintigste week na Pinksteren
+DESCRIPTION:Woensdag in de tweeëntwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y224-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-10-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121103
+DTEND;VALUE=DATE:20121104
+SUMMARY:Zaterdag in de tweeëntwintigste week na Pinksteren
+DESCRIPTION:Zaterdag in de tweeëntwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y227-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121104
+DTEND;VALUE=DATE:20121105
+SUMMARY:Vierde zondag na Driekoningen
+DESCRIPTION:Vierde zondag na Driekoningen
+TRANSP:TRANSPARENT
+UID:F041-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121105
+DTEND;VALUE=DATE:20121106
+SUMMARY:Maandag in de drieëntwintigste week na Pinksteren
+DESCRIPTION:Maandag in de drieëntwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y232-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121106
+DTEND;VALUE=DATE:20121107
+SUMMARY:Dinsdag in de drieëntwintigste week na Pinksteren
+DESCRIPTION:Dinsdag in de drieëntwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y233-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-06
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121107
+DTEND;VALUE=DATE:20121108
+SUMMARY:Woensdag in de drieëntwintigste week na Pinksteren
+DESCRIPTION:Woensdag in de drieëntwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y234-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-07
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121108
+DTEND;VALUE=DATE:20121109
+SUMMARY:Donderdag in de drieëntwintigste week na Pinksteren
+DESCRIPTION:Donderdag in de drieëntwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y235-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121109
+DTEND;VALUE=DATE:20121110
+SUMMARY:Wijding van de Aartsbasieliek van de Allerheiligste Verlosser
+DESCRIPTION:Wijding van de Aartsbasieliek van de Allerheiligste Verlosser
+TRANSP:TRANSPARENT
+UID:Z1109-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-09
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121110
+DTEND;VALUE=DATE:20121111
+SUMMARY:Zaterdag in de drieëntwintigste week na Pinksteren
+DESCRIPTION:Zaterdag in de drieëntwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:Y237-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121111
+DTEND;VALUE=DATE:20121112
+SUMMARY:Vijfde zondag na Driekoningen
+DESCRIPTION:Vijfde zondag na Driekoningen
+TRANSP:TRANSPARENT
+UID:F051-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121112
+DTEND;VALUE=DATE:20121113
+SUMMARY:Maandag in de vijfde week na Driekoningen
+DESCRIPTION:Maandag in de vijfde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:F052-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121113
+DTEND;VALUE=DATE:20121114
+SUMMARY:Dinsdag in de vijfde week na Driekoningen
+DESCRIPTION:Dinsdag in de vijfde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:F053-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121114
+DTEND;VALUE=DATE:20121115
+SUMMARY:Woensdag in de vijfde week na Driekoningen
+DESCRIPTION:Woensdag in de vijfde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:F054-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121115
+DTEND;VALUE=DATE:20121116
+SUMMARY:Donderdag in de vijfde week na Driekoningen
+DESCRIPTION:Donderdag in de vijfde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:F055-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121116
+DTEND;VALUE=DATE:20121117
+SUMMARY:Vrijdag in de vijfde week na Driekoningen
+DESCRIPTION:Vrijdag in de vijfde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:F056-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121117
+DTEND;VALUE=DATE:20121118
+SUMMARY:Zaterdag in de vijfde week na Driekoningen
+DESCRIPTION:Zaterdag in de vijfde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:F057-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121118
+DTEND;VALUE=DATE:20121119
+SUMMARY:Zesde zondag na Driekoningen
+DESCRIPTION:Zesde zondag na Driekoningen
+TRANSP:TRANSPARENT
+UID:F061-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121119
+DTEND;VALUE=DATE:20121120
+SUMMARY:Maandag in de zesde week na Driekoningen
+DESCRIPTION:Maandag in de zesde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:F062-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121120
+DTEND;VALUE=DATE:20121121
+SUMMARY:Dinsdag in de zesde week na Driekoningen
+DESCRIPTION:Dinsdag in de zesde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:F063-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121121
+DTEND;VALUE=DATE:20121122
+SUMMARY:Woensdag in de zesde week na Driekoningen
+DESCRIPTION:Woensdag in de zesde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:F064-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121122
+DTEND;VALUE=DATE:20121123
+SUMMARY:Donderdag in de zesde week na Driekoningen
+DESCRIPTION:Donderdag in de zesde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:F065-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121123
+DTEND;VALUE=DATE:20121124
+SUMMARY:Vrijdag in de zesde week na Driekoningen
+DESCRIPTION:Vrijdag in de zesde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:F066-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121124
+DTEND;VALUE=DATE:20121125
+SUMMARY:Zaterdag in de zesde week na Driekoningen
+DESCRIPTION:Zaterdag in de zesde week na Driekoningen
+TRANSP:TRANSPARENT
+UID:F067-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121125
+DTEND;VALUE=DATE:20121126
+SUMMARY:Vierentwintigste en laatste zondag na Pinksteren
+DESCRIPTION:Vierentwintigste en laatste zondag na Pinksteren
+TRANSP:TRANSPARENT
+UID:24S1-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121126
+DTEND;VALUE=DATE:20121127
+SUMMARY:Maandag in de vierentwintigste week na Pinksteren
+DESCRIPTION:Maandag in de vierentwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:24S2-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121127
+DTEND;VALUE=DATE:20121128
+SUMMARY:Dinsdag in het vierentwintigste week na Pinksteren
+DESCRIPTION:Dinsdag in het vierentwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:24S3-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121128
+DTEND;VALUE=DATE:20121129
+SUMMARY:Woensdag in de vierentwintigste week na Pinksteren
+DESCRIPTION:Woensdag in de vierentwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:24S4-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121129
+DTEND;VALUE=DATE:20121130
+SUMMARY:Donderdag in de vierentwintigste week na Pinksteren
+DESCRIPTION:Donderdag in de vierentwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:24S5-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121130
+DTEND;VALUE=DATE:20121201
+SUMMARY:H. Andreas, Apostel
+DESCRIPTION:H. Andreas, Apostel
+TRANSP:TRANSPARENT
+UID:Z1130-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-11-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121201
+DTEND;VALUE=DATE:20121202
+SUMMARY:Zaterdag in de vierentwintigste week na Pinksteren
+DESCRIPTION:Zaterdag in de vierentwintigste week na Pinksteren
+TRANSP:TRANSPARENT
+UID:24S7-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121203
+DTEND;VALUE=DATE:20121204
+SUMMARY:Maandag in de eerste week van de Advent
+DESCRIPTION:Maandag in de eerste week van de Advent
+TRANSP:TRANSPARENT
+UID:A012-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121204
+DTEND;VALUE=DATE:20121205
+SUMMARY:Dinsdag in de eerste week van de Advent
+DESCRIPTION:Dinsdag in de eerste week van de Advent
+TRANSP:TRANSPARENT
+UID:A013-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121205
+DTEND;VALUE=DATE:20121206
+SUMMARY:Woensdag in de eerste week van de Advent
+DESCRIPTION:Woensdag in de eerste week van de Advent
+TRANSP:TRANSPARENT
+UID:A014-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121206
+DTEND;VALUE=DATE:20121207
+SUMMARY:Donderdag in de eerste week van de Advent
+DESCRIPTION:Donderdag in de eerste week van de Advent
+TRANSP:TRANSPARENT
+UID:A015-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-06
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121207
+DTEND;VALUE=DATE:20121208
+SUMMARY:Vrijdag in de eerste week van de Advent
+DESCRIPTION:Vrijdag in de eerste week van de Advent
+TRANSP:TRANSPARENT
+UID:A016-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-07
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121210
+DTEND;VALUE=DATE:20121211
+SUMMARY:Maandag in de tweede week van de Advent
+DESCRIPTION:Maandag in de tweede week van de Advent
+TRANSP:TRANSPARENT
+UID:A022-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121211
+DTEND;VALUE=DATE:20121212
+SUMMARY:Dinsdag in de tweede week van de Advent
+DESCRIPTION:Dinsdag in de tweede week van de Advent
+TRANSP:TRANSPARENT
+UID:A023-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121212
+DTEND;VALUE=DATE:20121213
+SUMMARY:Woensdag in de tweede week van de Advent
+DESCRIPTION:Woensdag in de tweede week van de Advent
+TRANSP:TRANSPARENT
+UID:A024-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121213
+DTEND;VALUE=DATE:20121214
+SUMMARY:Donderdag in de tweede week van de Advent
+DESCRIPTION:Donderdag in de tweede week van de Advent
+TRANSP:TRANSPARENT
+UID:A025-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121214
+DTEND;VALUE=DATE:20121215
+SUMMARY:Vrijdag in de tweede week van de Advent
+DESCRIPTION:Vrijdag in de tweede week van de Advent
+TRANSP:TRANSPARENT
+UID:A026-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121215
+DTEND;VALUE=DATE:20121216
+SUMMARY:Zaterdag in de tweede week van de Advent
+DESCRIPTION:Zaterdag in de tweede week van de Advent
+TRANSP:TRANSPARENT
+UID:A027-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121217
+DTEND;VALUE=DATE:20121218
+SUMMARY:Maandag in de derde week van de Advent
+DESCRIPTION:Maandag in de derde week van de Advent
+TRANSP:TRANSPARENT
+UID:D032-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121218
+DTEND;VALUE=DATE:20121219
+SUMMARY:Dinsdag in de derde week van de Advent
+DESCRIPTION:Dinsdag in de derde week van de Advent
+TRANSP:TRANSPARENT
+UID:D033-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121219
+DTEND;VALUE=DATE:20121220
+SUMMARY:Quatertemperwoensdag in Advent
+DESCRIPTION:Quatertemperwoensdag in Advent
+TRANSP:TRANSPARENT
+UID:A034-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121220
+DTEND;VALUE=DATE:20121221
+SUMMARY:Donderdag in de derde week van de Advent
+DESCRIPTION:Donderdag in de derde week van de Advent
+TRANSP:TRANSPARENT
+UID:D035-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121221
+DTEND;VALUE=DATE:20121222
+SUMMARY:Quatertempervrijdag in Advent
+DESCRIPTION:Quatertempervrijdag in Advent
+TRANSP:TRANSPARENT
+UID:A036-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121222
+DTEND;VALUE=DATE:20121223
+SUMMARY:Quatertemperzaterdag in de Advent
+DESCRIPTION:Quatertemperzaterdag in de Advent
+TRANSP:TRANSPARENT
+UID:A037-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121226
+DTEND;VALUE=DATE:20121227
+SUMMARY:H. Stefanus, martelaar
+DESCRIPTION:H. Stefanus, martelaar
+TRANSP:TRANSPARENT
+UID:Z1226-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121227
+DTEND;VALUE=DATE:20121228
+SUMMARY:H. Johannes, apostel en evangelist
+DESCRIPTION:H. Johannes, apostel en evangelist
+TRANSP:TRANSPARENT
+UID:Z1227-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121228
+DTEND;VALUE=DATE:20121229
+SUMMARY:HH. Onnozele Kinderen, martelaren
+DESCRIPTION:HH. Onnozele Kinderen, martelaren
+TRANSP:TRANSPARENT
+UID:Z1228-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121229
+DTEND;VALUE=DATE:20121230
+SUMMARY:Vijfde dag in het octaaf van Kerstmis
+DESCRIPTION:Vijfde dag in het octaaf van Kerstmis
+TRANSP:TRANSPARENT
+UID:B5-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121230
+DTEND;VALUE=DATE:20121231
+SUMMARY:Zondag in het octaaf van Kerstmis
+DESCRIPTION:Zondag in het octaaf van Kerstmis
+TRANSP:TRANSPARENT
+UID:C1-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20121231
+DTEND;VALUE=DATE:20130101
+SUMMARY:Zevende dag in het octaaf van Kerstmis
+DESCRIPTION:Zevende dag in het octaaf van Kerstmis
+TRANSP:TRANSPARENT
+UID:B7-2012-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2012-12-31
+END:VEVENT
+END:VCALENDAR
