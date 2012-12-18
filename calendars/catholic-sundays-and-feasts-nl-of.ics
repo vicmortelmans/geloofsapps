@@ -2,435 +2,2118 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//prentenmissaal.com//NONSGML prentenmissaal//EN
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120101
-DTEND;VALUE=DATE:20120102
+DTSTART;VALUE=DATE:20130101
+DTEND;VALUE=DATE:20130102
 SUMMARY:Maria, Moeder van God
 DESCRIPTION:Maria, Moeder van God
 TRANSP:TRANSPARENT
-UID:Z0101-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-01-01
+UID:Z0101-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-01-01
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120108
-DTEND;VALUE=DATE:20120109
+DTSTART;VALUE=DATE:20130106
+DTEND;VALUE=DATE:20130107
 SUMMARY:Openbaring van de Heer
 DESCRIPTION:Openbaring van de Heer
 TRANSP:TRANSPARENT
-UID:EPI-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-01-08
+UID:EPI-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-01-06
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120222
-DTEND;VALUE=DATE:20120223
+DTSTART;VALUE=DATE:20130213
+DTEND;VALUE=DATE:20130214
 SUMMARY:Aswoensdag
 DESCRIPTION:Aswoensdag
 TRANSP:TRANSPARENT
-UID:L004-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-02-22
+UID:L004-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-02-13
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120226
-DTEND;VALUE=DATE:20120227
+DTSTART;VALUE=DATE:20130217
+DTEND;VALUE=DATE:20130218
 SUMMARY:Eerste zondag van de Veertigdagentijd
 DESCRIPTION:Eerste zondag van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L011-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-02-26
+UID:L011-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-02-17
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120304
-DTEND;VALUE=DATE:20120305
+DTSTART;VALUE=DATE:20130224
+DTEND;VALUE=DATE:20130225
 SUMMARY:Tweede zondag van de Veertigdagentijd
 DESCRIPTION:Tweede zondag van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L021-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-03-04
+UID:L021-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-02-24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120311
-DTEND;VALUE=DATE:20120312
+DTSTART;VALUE=DATE:20130303
+DTEND;VALUE=DATE:20130304
 SUMMARY:Derde zondag van de Veertigdagentijd
 DESCRIPTION:Derde zondag van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L031-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-03-11
+UID:L031-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-03-03
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120318
-DTEND;VALUE=DATE:20120319
+DTSTART;VALUE=DATE:20130310
+DTEND;VALUE=DATE:20130311
 SUMMARY:Vierde Zondag van de Veertigdagentijd
 DESCRIPTION:Vierde Zondag van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L041-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-03-18
+UID:L041-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-03-10
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120319
-DTEND;VALUE=DATE:20120320
-SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
-DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria
-TRANSP:TRANSPARENT
-UID:Z0319-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-03-19
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120325
-DTEND;VALUE=DATE:20120326
+DTSTART;VALUE=DATE:20130317
+DTEND;VALUE=DATE:20130318
 SUMMARY:Vijfde zondag van de Veertigdagentijd
 DESCRIPTION:Vijfde zondag van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L051-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-03-25
+UID:L051-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-03-17
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120401
-DTEND;VALUE=DATE:20120402
+DTSTART;VALUE=DATE:20130319
+DTEND;VALUE=DATE:20130320
+SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
+DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0319-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-03-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130324
+DTEND;VALUE=DATE:20130325
 SUMMARY:Palmzondag
 DESCRIPTION:Palmzondag
 TRANSP:TRANSPARENT
-UID:L061-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-01
+UID:L061-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-03-24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120402
-DTEND;VALUE=DATE:20120403
+DTSTART;VALUE=DATE:20130325
+DTEND;VALUE=DATE:20130326
 SUMMARY:Maandag van de Goede Week
 DESCRIPTION:Maandag van de Goede Week
 TRANSP:TRANSPARENT
-UID:L062-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-02
+UID:L062-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-03-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120403
-DTEND;VALUE=DATE:20120404
+DTSTART;VALUE=DATE:20130326
+DTEND;VALUE=DATE:20130327
 SUMMARY:Dinsdag van de Goede Week
 DESCRIPTION:Dinsdag van de Goede Week
 TRANSP:TRANSPARENT
-UID:L063-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-03
+UID:L063-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-03-26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120404
-DTEND;VALUE=DATE:20120405
+DTSTART;VALUE=DATE:20130327
+DTEND;VALUE=DATE:20130328
 SUMMARY:Woensdag van de Goede Week
 DESCRIPTION:Woensdag van de Goede Week
 TRANSP:TRANSPARENT
-UID:L064-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-04
+UID:L064-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-03-27
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120405
-DTEND;VALUE=DATE:20120406
+DTSTART;VALUE=DATE:20130328
+DTEND;VALUE=DATE:20130329
 SUMMARY:Witte Donderdag
 DESCRIPTION:Witte Donderdag
 TRANSP:TRANSPARENT
-UID:P005-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-05
+UID:P005-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-03-28
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120406
-DTEND;VALUE=DATE:20120407
+DTSTART;VALUE=DATE:20130329
+DTEND;VALUE=DATE:20130330
 SUMMARY:Goede Vrijdag
 DESCRIPTION:Goede Vrijdag
 TRANSP:TRANSPARENT
-UID:P006-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-06
+UID:P006-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-03-29
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120407
-DTEND;VALUE=DATE:20120408
+DTSTART;VALUE=DATE:20130330
+DTEND;VALUE=DATE:20130331
 SUMMARY:Paaswake
 DESCRIPTION:Paaswake
 TRANSP:TRANSPARENT
-UID:P007-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-07
+UID:P007-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-03-30
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120408
-DTEND;VALUE=DATE:20120409
+DTSTART;VALUE=DATE:20130331
+DTEND;VALUE=DATE:20130401
 SUMMARY:Paaszondag
 DESCRIPTION:Paaszondag
 TRANSP:TRANSPARENT
-UID:P011-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-08
+UID:P011-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-03-31
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120409
-DTEND;VALUE=DATE:20120410
+DTSTART;VALUE=DATE:20130401
+DTEND;VALUE=DATE:20130402
 SUMMARY:Maandag onder het octaaf van Pasen
 DESCRIPTION:Maandag onder het octaaf van Pasen
 TRANSP:TRANSPARENT
-UID:P012-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-09
+UID:P012-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-04-01
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120410
-DTEND;VALUE=DATE:20120411
+DTSTART;VALUE=DATE:20130402
+DTEND;VALUE=DATE:20130403
 SUMMARY:Dinsdag onder het octaaf van Pasen
 DESCRIPTION:Dinsdag onder het octaaf van Pasen
 TRANSP:TRANSPARENT
-UID:P013-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-10
+UID:P013-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-04-02
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120411
-DTEND;VALUE=DATE:20120412
+DTSTART;VALUE=DATE:20130403
+DTEND;VALUE=DATE:20130404
 SUMMARY:Woensdag onder het octaaf van Pasen
 DESCRIPTION:Woensdag onder het octaaf van Pasen
 TRANSP:TRANSPARENT
-UID:P014-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-11
+UID:P014-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-04-03
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120412
-DTEND;VALUE=DATE:20120413
+DTSTART;VALUE=DATE:20130404
+DTEND;VALUE=DATE:20130405
 SUMMARY:Donderdag onder het octaaf van Pasen
 DESCRIPTION:Donderdag onder het octaaf van Pasen
 TRANSP:TRANSPARENT
-UID:P015-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-12
+UID:P015-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-04-04
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120413
-DTEND;VALUE=DATE:20120414
+DTSTART;VALUE=DATE:20130405
+DTEND;VALUE=DATE:20130406
 SUMMARY:Vrijdag onder het octaaf van Pasen
 DESCRIPTION:Vrijdag onder het octaaf van Pasen
 TRANSP:TRANSPARENT
-UID:P016-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-13
+UID:P016-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-04-05
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120414
-DTEND;VALUE=DATE:20120415
+DTSTART;VALUE=DATE:20130406
+DTEND;VALUE=DATE:20130407
 SUMMARY:Zaterdag onder het octaaf van Pasen
 DESCRIPTION:Zaterdag onder het octaaf van Pasen
 TRANSP:TRANSPARENT
-UID:P017-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-14
+UID:P017-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-04-06
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120415
-DTEND;VALUE=DATE:20120416
+DTSTART;VALUE=DATE:20130407
+DTEND;VALUE=DATE:20130408
 SUMMARY:Tweede zondag van Pasen
 DESCRIPTION:Tweede zondag van Pasen
 TRANSP:TRANSPARENT
-UID:P021-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-15
+UID:P021-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-04-07
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120422
-DTEND;VALUE=DATE:20120423
+DTSTART;VALUE=DATE:20130414
+DTEND;VALUE=DATE:20130415
 SUMMARY:Derde zondag van Pasen
 DESCRIPTION:Derde zondag van Pasen
 TRANSP:TRANSPARENT
-UID:P031-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-22
+UID:P031-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-04-14
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120429
-DTEND;VALUE=DATE:20120430
+DTSTART;VALUE=DATE:20130421
+DTEND;VALUE=DATE:20130422
 SUMMARY:Vierde zondag van Pasen
 DESCRIPTION:Vierde zondag van Pasen
 TRANSP:TRANSPARENT
-UID:P041-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-04-29
+UID:P041-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-04-21
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120506
-DTEND;VALUE=DATE:20120507
+DTSTART;VALUE=DATE:20130428
+DTEND;VALUE=DATE:20130429
 SUMMARY:Vijfde zondag van Pasen
 DESCRIPTION:Vijfde zondag van Pasen
 TRANSP:TRANSPARENT
-UID:P051-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-05-06
+UID:P051-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-04-28
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120513
-DTEND;VALUE=DATE:20120514
+DTSTART;VALUE=DATE:20130505
+DTEND;VALUE=DATE:20130506
 SUMMARY:Zesde zondag van Pasen
 DESCRIPTION:Zesde zondag van Pasen
 TRANSP:TRANSPARENT
-UID:P061-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-05-13
+UID:P061-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-05-05
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120517
-DTEND;VALUE=DATE:20120518
+DTSTART;VALUE=DATE:20130509
+DTEND;VALUE=DATE:20130510
 SUMMARY:Hemelvaart van de Heer
 DESCRIPTION:Hemelvaart van de Heer
 TRANSP:TRANSPARENT
-UID:P065-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-05-17
+UID:P065-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-05-09
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120520
-DTEND;VALUE=DATE:20120521
+DTSTART;VALUE=DATE:20130512
+DTEND;VALUE=DATE:20130513
 SUMMARY:Zevende zondag van Pasen
 DESCRIPTION:Zevende zondag van Pasen
 TRANSP:TRANSPARENT
-UID:P071-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-05-20
+UID:P071-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-05-12
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120527
-DTEND;VALUE=DATE:20120528
+DTSTART;VALUE=DATE:20130519
+DTEND;VALUE=DATE:20130520
 SUMMARY:Pinksteren
 DESCRIPTION:Pinksteren
 TRANSP:TRANSPARENT
-UID:P081-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-05-27
+UID:P081-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-05-19
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120603
-DTEND;VALUE=DATE:20120604
+DTSTART;VALUE=DATE:20130526
+DTEND;VALUE=DATE:20130527
 SUMMARY:Heilige Drievuldigheid
 DESCRIPTION:Heilige Drievuldigheid
 TRANSP:TRANSPARENT
-UID:P091-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-06-03
+UID:P091-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-05-26
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120607
-DTEND;VALUE=DATE:20120608
+DTSTART;VALUE=DATE:20130530
+DTEND;VALUE=DATE:20130531
 SUMMARY:Sacramentsdag
 DESCRIPTION:Sacramentsdag
 TRANSP:TRANSPARENT
-UID:P095-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-06-07
+UID:P095-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-05-30
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120615
-DTEND;VALUE=DATE:20120616
+DTSTART;VALUE=DATE:20130607
+DTEND;VALUE=DATE:20130608
 SUMMARY:Heilig Hart van Jezus
 DESCRIPTION:Heilig Hart van Jezus
 TRANSP:TRANSPARENT
-UID:P106-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-06-15
+UID:P106-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-06-07
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120624
-DTEND;VALUE=DATE:20120625
+DTSTART;VALUE=DATE:20130624
+DTEND;VALUE=DATE:20130625
 SUMMARY:Geboorte van de H. Johannes de Doper
 DESCRIPTION:Geboorte van de H. Johannes de Doper
 TRANSP:TRANSPARENT
-UID:Z0624-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-06-24
+UID:Z0624-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-06-24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120629
-DTEND;VALUE=DATE:20120630
+DTSTART;VALUE=DATE:20130629
+DTEND;VALUE=DATE:20130630
 SUMMARY:HH. Petrus en Paulus, apostelen
 DESCRIPTION:HH. Petrus en Paulus, apostelen
 TRANSP:TRANSPARENT
-UID:Z0629-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-06-29
+UID:Z0629-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-06-29
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20120815
-DTEND;VALUE=DATE:20120816
+DTSTART;VALUE=DATE:20130815
+DTEND;VALUE=DATE:20130816
 SUMMARY:Tenhemelopneming van de H. Maagd Maria
 DESCRIPTION:Tenhemelopneming van de H. Maagd Maria
 TRANSP:TRANSPARENT
-UID:Z0815-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-08-15
+UID:Z0815-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-08-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20121101
-DTEND;VALUE=DATE:20121102
+DTSTART;VALUE=DATE:20131101
+DTEND;VALUE=DATE:20131102
 SUMMARY:Allerheiligen
 DESCRIPTION:Allerheiligen
 TRANSP:TRANSPARENT
-UID:Z1101-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-11-01
+UID:Z1101-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-11-01
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20121102
-DTEND;VALUE=DATE:20121103
+DTSTART;VALUE=DATE:20131102
+DTEND;VALUE=DATE:20131103
 SUMMARY:Allerzielen
 DESCRIPTION:Allerzielen
 TRANSP:TRANSPARENT
-UID:Z1102-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-11-02
+UID:Z1102-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-11-02
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20121125
-DTEND;VALUE=DATE:20121126
+DTSTART;VALUE=DATE:20131124
+DTEND;VALUE=DATE:20131125
 SUMMARY:Christus Koning
 DESCRIPTION:Christus Koning
 TRANSP:TRANSPARENT
-UID:Y341-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-11-25
+UID:Y341-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-11-24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20121202
-DTEND;VALUE=DATE:20121203
+DTSTART;VALUE=DATE:20131201
+DTEND;VALUE=DATE:20131202
 SUMMARY:Eerste zondag van de Advent
 DESCRIPTION:Eerste zondag van de Advent
 TRANSP:TRANSPARENT
-UID:A011-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-12-02
+UID:A011-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-12-01
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20121208
-DTEND;VALUE=DATE:20121209
-SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
-DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria
-TRANSP:TRANSPARENT
-UID:Z1208-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-12-08
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20121209
-DTEND;VALUE=DATE:20121210
+DTSTART;VALUE=DATE:20131208
+DTEND;VALUE=DATE:20131209
 SUMMARY:Tweede zondag van de Advent
 DESCRIPTION:Tweede zondag van de Advent
 TRANSP:TRANSPARENT
-UID:A021-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-12-09
+UID:A021-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-12-08
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20121216
-DTEND;VALUE=DATE:20121217
+DTSTART;VALUE=DATE:20131215
+DTEND;VALUE=DATE:20131216
 SUMMARY:Derde zondag van de Advent
 DESCRIPTION:Derde zondag van de Advent
 TRANSP:TRANSPARENT
-UID:A031-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-12-16
+UID:A031-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-12-15
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20121223
-DTEND;VALUE=DATE:20121224
+DTSTART;VALUE=DATE:20131222
+DTEND;VALUE=DATE:20131223
 SUMMARY:Vierde zondag van de Advent
 DESCRIPTION:Vierde zondag van de Advent
 TRANSP:TRANSPARENT
-UID:A041-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-12-23
+UID:A041-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-12-22
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20121224
-DTEND;VALUE=DATE:20121225
-SUMMARY:Vigilie van Kerstmis
-DESCRIPTION:Vigilie van Kerstmis
+DTSTART;VALUE=DATE:20131224
+DTEND;VALUE=DATE:20131225
+SUMMARY:#liturgicalday#of-Z1224A043
+DESCRIPTION:#liturgicalday#of-Z1224A043
 TRANSP:TRANSPARENT
-UID:Z1224-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-12-24
+UID:Z1224A043-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-12-24
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20121224
-DTEND;VALUE=DATE:20121225
-SUMMARY:Maandag van de vierde week van de Advent
-DESCRIPTION:Maandag van de vierde week van de Advent
-TRANSP:TRANSPARENT
-UID:A042-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-12-24
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20121225
-DTEND;VALUE=DATE:20121226
+DTSTART;VALUE=DATE:20131225
+DTEND;VALUE=DATE:20131226
 SUMMARY:Kerstmis
 DESCRIPTION:Kerstmis
 TRANSP:TRANSPARENT
-UID:Z1225-2012-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2012-12-25
+UID:Z1225-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-12-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140101
+DTEND;VALUE=DATE:20140102
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God
+TRANSP:TRANSPARENT
+UID:Z0101-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-01-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140105
+DTEND;VALUE=DATE:20140106
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer
+TRANSP:TRANSPARENT
+UID:EPI-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-01-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140305
+DTEND;VALUE=DATE:20140306
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag
+TRANSP:TRANSPARENT
+UID:L004-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-03-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140309
+DTEND;VALUE=DATE:20140310
+SUMMARY:Eerste zondag van de Veertigdagentijd
+DESCRIPTION:Eerste zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L011-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-03-09
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140316
+DTEND;VALUE=DATE:20140317
+SUMMARY:Tweede zondag van de Veertigdagentijd
+DESCRIPTION:Tweede zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L021-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-03-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140319
+DTEND;VALUE=DATE:20140320
+SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
+DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0319-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-03-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140323
+DTEND;VALUE=DATE:20140324
+SUMMARY:Derde zondag van de Veertigdagentijd
+DESCRIPTION:Derde zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L031-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-03-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140325
+DTEND;VALUE=DATE:20140326
+SUMMARY:Aankondiging van de Heer
+DESCRIPTION:Aankondiging van de Heer
+TRANSP:TRANSPARENT
+UID:Z0325-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-03-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140330
+DTEND;VALUE=DATE:20140331
+SUMMARY:Vierde Zondag van de Veertigdagentijd
+DESCRIPTION:Vierde Zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L041-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-03-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140406
+DTEND;VALUE=DATE:20140407
+SUMMARY:Vijfde zondag van de Veertigdagentijd
+DESCRIPTION:Vijfde zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L051-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-06
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140413
+DTEND;VALUE=DATE:20140414
+SUMMARY:Palmzondag
+DESCRIPTION:Palmzondag
+TRANSP:TRANSPARENT
+UID:L061-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140414
+DTEND;VALUE=DATE:20140415
+SUMMARY:Maandag van de Goede Week
+DESCRIPTION:Maandag van de Goede Week
+TRANSP:TRANSPARENT
+UID:L062-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140415
+DTEND;VALUE=DATE:20140416
+SUMMARY:Dinsdag van de Goede Week
+DESCRIPTION:Dinsdag van de Goede Week
+TRANSP:TRANSPARENT
+UID:L063-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140416
+DTEND;VALUE=DATE:20140417
+SUMMARY:Woensdag van de Goede Week
+DESCRIPTION:Woensdag van de Goede Week
+TRANSP:TRANSPARENT
+UID:L064-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140417
+DTEND;VALUE=DATE:20140418
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag
+TRANSP:TRANSPARENT
+UID:P005-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140418
+DTEND;VALUE=DATE:20140419
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag
+TRANSP:TRANSPARENT
+UID:P006-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140419
+DTEND;VALUE=DATE:20140420
+SUMMARY:Paaswake
+DESCRIPTION:Paaswake
+TRANSP:TRANSPARENT
+UID:P007-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140420
+DTEND;VALUE=DATE:20140421
+SUMMARY:Paaszondag
+DESCRIPTION:Paaszondag
+TRANSP:TRANSPARENT
+UID:P011-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140421
+DTEND;VALUE=DATE:20140422
+SUMMARY:Maandag onder het octaaf van Pasen
+DESCRIPTION:Maandag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P012-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140422
+DTEND;VALUE=DATE:20140423
+SUMMARY:Dinsdag onder het octaaf van Pasen
+DESCRIPTION:Dinsdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P013-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140423
+DTEND;VALUE=DATE:20140424
+SUMMARY:Woensdag onder het octaaf van Pasen
+DESCRIPTION:Woensdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P014-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140424
+DTEND;VALUE=DATE:20140425
+SUMMARY:Donderdag onder het octaaf van Pasen
+DESCRIPTION:Donderdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P015-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140425
+DTEND;VALUE=DATE:20140426
+SUMMARY:Vrijdag onder het octaaf van Pasen
+DESCRIPTION:Vrijdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P016-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140426
+DTEND;VALUE=DATE:20140427
+SUMMARY:Zaterdag onder het octaaf van Pasen
+DESCRIPTION:Zaterdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P017-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140427
+DTEND;VALUE=DATE:20140428
+SUMMARY:Tweede zondag van Pasen
+DESCRIPTION:Tweede zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P021-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140504
+DTEND;VALUE=DATE:20140505
+SUMMARY:Derde zondag van Pasen
+DESCRIPTION:Derde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P031-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-05-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140511
+DTEND;VALUE=DATE:20140512
+SUMMARY:Vierde zondag van Pasen
+DESCRIPTION:Vierde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P041-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-05-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140518
+DTEND;VALUE=DATE:20140519
+SUMMARY:Vijfde zondag van Pasen
+DESCRIPTION:Vijfde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P051-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-05-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140525
+DTEND;VALUE=DATE:20140526
+SUMMARY:Zesde zondag van Pasen
+DESCRIPTION:Zesde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P061-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-05-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140529
+DTEND;VALUE=DATE:20140530
+SUMMARY:Hemelvaart van de Heer
+DESCRIPTION:Hemelvaart van de Heer
+TRANSP:TRANSPARENT
+UID:P065-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-05-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140601
+DTEND;VALUE=DATE:20140602
+SUMMARY:Zevende zondag van Pasen
+DESCRIPTION:Zevende zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P071-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-06-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140608
+DTEND;VALUE=DATE:20140609
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren
+TRANSP:TRANSPARENT
+UID:P081-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-06-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140615
+DTEND;VALUE=DATE:20140616
+SUMMARY:Heilige Drievuldigheid
+DESCRIPTION:Heilige Drievuldigheid
+TRANSP:TRANSPARENT
+UID:P091-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-06-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140619
+DTEND;VALUE=DATE:20140620
+SUMMARY:Sacramentsdag
+DESCRIPTION:Sacramentsdag
+TRANSP:TRANSPARENT
+UID:P095-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-06-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140624
+DTEND;VALUE=DATE:20140625
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper
+TRANSP:TRANSPARENT
+UID:Z0624-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-06-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140627
+DTEND;VALUE=DATE:20140628
+SUMMARY:Heilig Hart van Jezus
+DESCRIPTION:Heilig Hart van Jezus
+TRANSP:TRANSPARENT
+UID:P106-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-06-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140629
+DTEND;VALUE=DATE:20140630
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen
+TRANSP:TRANSPARENT
+UID:Z0629-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-06-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140815
+DTEND;VALUE=DATE:20140816
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0815-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-08-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141101
+DTEND;VALUE=DATE:20141102
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen
+TRANSP:TRANSPARENT
+UID:Z1101-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-11-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141102
+DTEND;VALUE=DATE:20141103
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen
+TRANSP:TRANSPARENT
+UID:Z1102-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-11-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141123
+DTEND;VALUE=DATE:20141124
+SUMMARY:Christus Koning
+DESCRIPTION:Christus Koning
+TRANSP:TRANSPARENT
+UID:Y341-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-11-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141130
+DTEND;VALUE=DATE:20141201
+SUMMARY:Eerste zondag van de Advent
+DESCRIPTION:Eerste zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A011-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-11-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141207
+DTEND;VALUE=DATE:20141208
+SUMMARY:Tweede zondag van de Advent
+DESCRIPTION:Tweede zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A021-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-12-07
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141208
+DTEND;VALUE=DATE:20141209
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z1208-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-12-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141214
+DTEND;VALUE=DATE:20141215
+SUMMARY:Derde zondag van de Advent
+DESCRIPTION:Derde zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A031-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-12-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141221
+DTEND;VALUE=DATE:20141222
+SUMMARY:Vierde zondag van de Advent
+DESCRIPTION:Vierde zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A041-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-12-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141224
+DTEND;VALUE=DATE:20141225
+SUMMARY:#liturgicalday#of-Z1224A044
+DESCRIPTION:#liturgicalday#of-Z1224A044
+TRANSP:TRANSPARENT
+UID:Z1224A044-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-12-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141225
+DTEND;VALUE=DATE:20141226
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis
+TRANSP:TRANSPARENT
+UID:Z1225-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-12-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150101
+DTEND;VALUE=DATE:20150102
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God
+TRANSP:TRANSPARENT
+UID:Z0101-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-01-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150104
+DTEND;VALUE=DATE:20150105
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer
+TRANSP:TRANSPARENT
+UID:EPI-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-01-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150218
+DTEND;VALUE=DATE:20150219
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag
+TRANSP:TRANSPARENT
+UID:L004-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-02-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150222
+DTEND;VALUE=DATE:20150223
+SUMMARY:Eerste zondag van de Veertigdagentijd
+DESCRIPTION:Eerste zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L011-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-02-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150301
+DTEND;VALUE=DATE:20150302
+SUMMARY:Tweede zondag van de Veertigdagentijd
+DESCRIPTION:Tweede zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L021-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-03-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150308
+DTEND;VALUE=DATE:20150309
+SUMMARY:Derde zondag van de Veertigdagentijd
+DESCRIPTION:Derde zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L031-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-03-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150315
+DTEND;VALUE=DATE:20150316
+SUMMARY:Vierde Zondag van de Veertigdagentijd
+DESCRIPTION:Vierde Zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L041-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-03-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150319
+DTEND;VALUE=DATE:20150320
+SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
+DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0319-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-03-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150322
+DTEND;VALUE=DATE:20150323
+SUMMARY:Vijfde zondag van de Veertigdagentijd
+DESCRIPTION:Vijfde zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L051-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-03-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150325
+DTEND;VALUE=DATE:20150326
+SUMMARY:Aankondiging van de Heer
+DESCRIPTION:Aankondiging van de Heer
+TRANSP:TRANSPARENT
+UID:Z0325-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-03-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150329
+DTEND;VALUE=DATE:20150330
+SUMMARY:Palmzondag
+DESCRIPTION:Palmzondag
+TRANSP:TRANSPARENT
+UID:L061-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-03-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150330
+DTEND;VALUE=DATE:20150331
+SUMMARY:Maandag van de Goede Week
+DESCRIPTION:Maandag van de Goede Week
+TRANSP:TRANSPARENT
+UID:L062-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-03-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150331
+DTEND;VALUE=DATE:20150401
+SUMMARY:Dinsdag van de Goede Week
+DESCRIPTION:Dinsdag van de Goede Week
+TRANSP:TRANSPARENT
+UID:L063-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-03-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150401
+DTEND;VALUE=DATE:20150402
+SUMMARY:Woensdag van de Goede Week
+DESCRIPTION:Woensdag van de Goede Week
+TRANSP:TRANSPARENT
+UID:L064-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150402
+DTEND;VALUE=DATE:20150403
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag
+TRANSP:TRANSPARENT
+UID:P005-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150403
+DTEND;VALUE=DATE:20150404
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag
+TRANSP:TRANSPARENT
+UID:P006-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150404
+DTEND;VALUE=DATE:20150405
+SUMMARY:Paaswake
+DESCRIPTION:Paaswake
+TRANSP:TRANSPARENT
+UID:P007-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150405
+DTEND;VALUE=DATE:20150406
+SUMMARY:Paaszondag
+DESCRIPTION:Paaszondag
+TRANSP:TRANSPARENT
+UID:P011-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150406
+DTEND;VALUE=DATE:20150407
+SUMMARY:Maandag onder het octaaf van Pasen
+DESCRIPTION:Maandag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P012-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-06
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150407
+DTEND;VALUE=DATE:20150408
+SUMMARY:Dinsdag onder het octaaf van Pasen
+DESCRIPTION:Dinsdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P013-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-07
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150408
+DTEND;VALUE=DATE:20150409
+SUMMARY:Woensdag onder het octaaf van Pasen
+DESCRIPTION:Woensdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P014-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150409
+DTEND;VALUE=DATE:20150410
+SUMMARY:Donderdag onder het octaaf van Pasen
+DESCRIPTION:Donderdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P015-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-09
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150410
+DTEND;VALUE=DATE:20150411
+SUMMARY:Vrijdag onder het octaaf van Pasen
+DESCRIPTION:Vrijdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P016-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150411
+DTEND;VALUE=DATE:20150412
+SUMMARY:Zaterdag onder het octaaf van Pasen
+DESCRIPTION:Zaterdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P017-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150412
+DTEND;VALUE=DATE:20150413
+SUMMARY:Tweede zondag van Pasen
+DESCRIPTION:Tweede zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P021-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150419
+DTEND;VALUE=DATE:20150420
+SUMMARY:Derde zondag van Pasen
+DESCRIPTION:Derde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P031-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150426
+DTEND;VALUE=DATE:20150427
+SUMMARY:Vierde zondag van Pasen
+DESCRIPTION:Vierde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P041-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150503
+DTEND;VALUE=DATE:20150504
+SUMMARY:Vijfde zondag van Pasen
+DESCRIPTION:Vijfde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P051-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-05-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150510
+DTEND;VALUE=DATE:20150511
+SUMMARY:Zesde zondag van Pasen
+DESCRIPTION:Zesde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P061-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-05-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150514
+DTEND;VALUE=DATE:20150515
+SUMMARY:Hemelvaart van de Heer
+DESCRIPTION:Hemelvaart van de Heer
+TRANSP:TRANSPARENT
+UID:P065-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-05-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150517
+DTEND;VALUE=DATE:20150518
+SUMMARY:Zevende zondag van Pasen
+DESCRIPTION:Zevende zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P071-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-05-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150524
+DTEND;VALUE=DATE:20150525
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren
+TRANSP:TRANSPARENT
+UID:P081-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-05-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150531
+DTEND;VALUE=DATE:20150601
+SUMMARY:Heilige Drievuldigheid
+DESCRIPTION:Heilige Drievuldigheid
+TRANSP:TRANSPARENT
+UID:P091-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-05-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150604
+DTEND;VALUE=DATE:20150605
+SUMMARY:Sacramentsdag
+DESCRIPTION:Sacramentsdag
+TRANSP:TRANSPARENT
+UID:P095-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-06-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150612
+DTEND;VALUE=DATE:20150613
+SUMMARY:Heilig Hart van Jezus
+DESCRIPTION:Heilig Hart van Jezus
+TRANSP:TRANSPARENT
+UID:P106-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-06-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150624
+DTEND;VALUE=DATE:20150625
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper
+TRANSP:TRANSPARENT
+UID:Z0624-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-06-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150629
+DTEND;VALUE=DATE:20150630
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen
+TRANSP:TRANSPARENT
+UID:Z0629-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-06-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150815
+DTEND;VALUE=DATE:20150816
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0815-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-08-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151101
+DTEND;VALUE=DATE:20151102
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen
+TRANSP:TRANSPARENT
+UID:Z1101-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-11-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151102
+DTEND;VALUE=DATE:20151103
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen
+TRANSP:TRANSPARENT
+UID:Z1102-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-11-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151122
+DTEND;VALUE=DATE:20151123
+SUMMARY:Christus Koning
+DESCRIPTION:Christus Koning
+TRANSP:TRANSPARENT
+UID:Y341-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-11-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151129
+DTEND;VALUE=DATE:20151130
+SUMMARY:Eerste zondag van de Advent
+DESCRIPTION:Eerste zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A011-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-11-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151206
+DTEND;VALUE=DATE:20151207
+SUMMARY:Tweede zondag van de Advent
+DESCRIPTION:Tweede zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A021-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-12-06
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151208
+DTEND;VALUE=DATE:20151209
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z1208-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-12-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151213
+DTEND;VALUE=DATE:20151214
+SUMMARY:Derde zondag van de Advent
+DESCRIPTION:Derde zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A031-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-12-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151220
+DTEND;VALUE=DATE:20151221
+SUMMARY:Vierde zondag van de Advent
+DESCRIPTION:Vierde zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A041-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-12-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151224
+DTEND;VALUE=DATE:20151225
+SUMMARY:#liturgicalday#of-Z1224A045
+DESCRIPTION:#liturgicalday#of-Z1224A045
+TRANSP:TRANSPARENT
+UID:Z1224A045-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-12-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151225
+DTEND;VALUE=DATE:20151226
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis
+TRANSP:TRANSPARENT
+UID:Z1225-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-12-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160101
+DTEND;VALUE=DATE:20160102
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God
+TRANSP:TRANSPARENT
+UID:Z0101-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-01-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160103
+DTEND;VALUE=DATE:20160104
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer
+TRANSP:TRANSPARENT
+UID:EPI-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-01-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160210
+DTEND;VALUE=DATE:20160211
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag
+TRANSP:TRANSPARENT
+UID:L004-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-02-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160214
+DTEND;VALUE=DATE:20160215
+SUMMARY:Eerste zondag van de Veertigdagentijd
+DESCRIPTION:Eerste zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L011-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-02-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160221
+DTEND;VALUE=DATE:20160222
+SUMMARY:Tweede zondag van de Veertigdagentijd
+DESCRIPTION:Tweede zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L021-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-02-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160228
+DTEND;VALUE=DATE:20160229
+SUMMARY:Derde zondag van de Veertigdagentijd
+DESCRIPTION:Derde zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L031-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-02-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160306
+DTEND;VALUE=DATE:20160307
+SUMMARY:Vierde Zondag van de Veertigdagentijd
+DESCRIPTION:Vierde Zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L041-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-06
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160313
+DTEND;VALUE=DATE:20160314
+SUMMARY:Vijfde zondag van de Veertigdagentijd
+DESCRIPTION:Vijfde zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L051-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160319
+DTEND;VALUE=DATE:20160320
+SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
+DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0319-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160320
+DTEND;VALUE=DATE:20160321
+SUMMARY:Palmzondag
+DESCRIPTION:Palmzondag
+TRANSP:TRANSPARENT
+UID:L061-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160321
+DTEND;VALUE=DATE:20160322
+SUMMARY:Maandag van de Goede Week
+DESCRIPTION:Maandag van de Goede Week
+TRANSP:TRANSPARENT
+UID:L062-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160322
+DTEND;VALUE=DATE:20160323
+SUMMARY:Dinsdag van de Goede Week
+DESCRIPTION:Dinsdag van de Goede Week
+TRANSP:TRANSPARENT
+UID:L063-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160323
+DTEND;VALUE=DATE:20160324
+SUMMARY:Woensdag van de Goede Week
+DESCRIPTION:Woensdag van de Goede Week
+TRANSP:TRANSPARENT
+UID:L064-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160324
+DTEND;VALUE=DATE:20160325
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag
+TRANSP:TRANSPARENT
+UID:P005-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160325
+DTEND;VALUE=DATE:20160326
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag
+TRANSP:TRANSPARENT
+UID:P006-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160326
+DTEND;VALUE=DATE:20160327
+SUMMARY:Paaswake
+DESCRIPTION:Paaswake
+TRANSP:TRANSPARENT
+UID:P007-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160327
+DTEND;VALUE=DATE:20160328
+SUMMARY:Paaszondag
+DESCRIPTION:Paaszondag
+TRANSP:TRANSPARENT
+UID:P011-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160328
+DTEND;VALUE=DATE:20160329
+SUMMARY:Maandag onder het octaaf van Pasen
+DESCRIPTION:Maandag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P012-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160329
+DTEND;VALUE=DATE:20160330
+SUMMARY:Dinsdag onder het octaaf van Pasen
+DESCRIPTION:Dinsdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P013-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160330
+DTEND;VALUE=DATE:20160331
+SUMMARY:Woensdag onder het octaaf van Pasen
+DESCRIPTION:Woensdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P014-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160331
+DTEND;VALUE=DATE:20160401
+SUMMARY:Donderdag onder het octaaf van Pasen
+DESCRIPTION:Donderdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P015-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-03-31
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160401
+DTEND;VALUE=DATE:20160402
+SUMMARY:Vrijdag onder het octaaf van Pasen
+DESCRIPTION:Vrijdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P016-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-04-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160402
+DTEND;VALUE=DATE:20160403
+SUMMARY:Zaterdag onder het octaaf van Pasen
+DESCRIPTION:Zaterdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P017-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-04-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160403
+DTEND;VALUE=DATE:20160404
+SUMMARY:Tweede zondag van Pasen
+DESCRIPTION:Tweede zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P021-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-04-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160410
+DTEND;VALUE=DATE:20160411
+SUMMARY:Derde zondag van Pasen
+DESCRIPTION:Derde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P031-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-04-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160417
+DTEND;VALUE=DATE:20160418
+SUMMARY:Vierde zondag van Pasen
+DESCRIPTION:Vierde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P041-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-04-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160424
+DTEND;VALUE=DATE:20160425
+SUMMARY:Vijfde zondag van Pasen
+DESCRIPTION:Vijfde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P051-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-04-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160501
+DTEND;VALUE=DATE:20160502
+SUMMARY:Zesde zondag van Pasen
+DESCRIPTION:Zesde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P061-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-05-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160505
+DTEND;VALUE=DATE:20160506
+SUMMARY:Hemelvaart van de Heer
+DESCRIPTION:Hemelvaart van de Heer
+TRANSP:TRANSPARENT
+UID:P065-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-05-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160508
+DTEND;VALUE=DATE:20160509
+SUMMARY:Zevende zondag van Pasen
+DESCRIPTION:Zevende zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P071-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-05-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160515
+DTEND;VALUE=DATE:20160516
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren
+TRANSP:TRANSPARENT
+UID:P081-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-05-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160522
+DTEND;VALUE=DATE:20160523
+SUMMARY:Heilige Drievuldigheid
+DESCRIPTION:Heilige Drievuldigheid
+TRANSP:TRANSPARENT
+UID:P091-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-05-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160526
+DTEND;VALUE=DATE:20160527
+SUMMARY:Sacramentsdag
+DESCRIPTION:Sacramentsdag
+TRANSP:TRANSPARENT
+UID:P095-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-05-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160603
+DTEND;VALUE=DATE:20160604
+SUMMARY:Heilig Hart van Jezus
+DESCRIPTION:Heilig Hart van Jezus
+TRANSP:TRANSPARENT
+UID:P106-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-06-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160624
+DTEND;VALUE=DATE:20160625
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper
+TRANSP:TRANSPARENT
+UID:Z0624-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-06-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160629
+DTEND;VALUE=DATE:20160630
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen
+TRANSP:TRANSPARENT
+UID:Z0629-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-06-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160815
+DTEND;VALUE=DATE:20160816
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0815-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-08-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161101
+DTEND;VALUE=DATE:20161102
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen
+TRANSP:TRANSPARENT
+UID:Z1101-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-11-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161102
+DTEND;VALUE=DATE:20161103
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen
+TRANSP:TRANSPARENT
+UID:Z1102-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-11-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161120
+DTEND;VALUE=DATE:20161121
+SUMMARY:Christus Koning
+DESCRIPTION:Christus Koning
+TRANSP:TRANSPARENT
+UID:Y341-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-11-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161127
+DTEND;VALUE=DATE:20161128
+SUMMARY:Eerste zondag van de Advent
+DESCRIPTION:Eerste zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A011-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-11-27
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161204
+DTEND;VALUE=DATE:20161205
+SUMMARY:Tweede zondag van de Advent
+DESCRIPTION:Tweede zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A021-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-12-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161208
+DTEND;VALUE=DATE:20161209
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z1208-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-12-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161211
+DTEND;VALUE=DATE:20161212
+SUMMARY:Derde zondag van de Advent
+DESCRIPTION:Derde zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A031-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-12-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161218
+DTEND;VALUE=DATE:20161219
+SUMMARY:Vierde zondag van de Advent
+DESCRIPTION:Vierde zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A041-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-12-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161224
+DTEND;VALUE=DATE:20161225
+SUMMARY:#liturgicalday#of-Z1224A047
+DESCRIPTION:#liturgicalday#of-Z1224A047
+TRANSP:TRANSPARENT
+UID:Z1224A047-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-12-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161225
+DTEND;VALUE=DATE:20161226
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis
+TRANSP:TRANSPARENT
+UID:Z1225-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-12-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170101
+DTEND;VALUE=DATE:20170102
+SUMMARY:Maria, Moeder van God
+DESCRIPTION:Maria, Moeder van God
+TRANSP:TRANSPARENT
+UID:Z0101-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-01-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170108
+DTEND;VALUE=DATE:20170109
+SUMMARY:Openbaring van de Heer
+DESCRIPTION:Openbaring van de Heer
+TRANSP:TRANSPARENT
+UID:EPI-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-01-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170301
+DTEND;VALUE=DATE:20170302
+SUMMARY:Aswoensdag
+DESCRIPTION:Aswoensdag
+TRANSP:TRANSPARENT
+UID:L004-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-03-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170305
+DTEND;VALUE=DATE:20170306
+SUMMARY:Eerste zondag van de Veertigdagentijd
+DESCRIPTION:Eerste zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L011-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-03-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170312
+DTEND;VALUE=DATE:20170313
+SUMMARY:Tweede zondag van de Veertigdagentijd
+DESCRIPTION:Tweede zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L021-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-03-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170319
+DTEND;VALUE=DATE:20170320
+SUMMARY:Derde zondag van de Veertigdagentijd
+DESCRIPTION:Derde zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L031-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-03-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170325
+DTEND;VALUE=DATE:20170326
+SUMMARY:Aankondiging van de Heer
+DESCRIPTION:Aankondiging van de Heer
+TRANSP:TRANSPARENT
+UID:Z0325-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-03-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170326
+DTEND;VALUE=DATE:20170327
+SUMMARY:Vierde Zondag van de Veertigdagentijd
+DESCRIPTION:Vierde Zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L041-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-03-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170402
+DTEND;VALUE=DATE:20170403
+SUMMARY:Vijfde zondag van de Veertigdagentijd
+DESCRIPTION:Vijfde zondag van de Veertigdagentijd
+TRANSP:TRANSPARENT
+UID:L051-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170409
+DTEND;VALUE=DATE:20170410
+SUMMARY:Palmzondag
+DESCRIPTION:Palmzondag
+TRANSP:TRANSPARENT
+UID:L061-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-09
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170410
+DTEND;VALUE=DATE:20170411
+SUMMARY:Maandag van de Goede Week
+DESCRIPTION:Maandag van de Goede Week
+TRANSP:TRANSPARENT
+UID:L062-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170411
+DTEND;VALUE=DATE:20170412
+SUMMARY:Dinsdag van de Goede Week
+DESCRIPTION:Dinsdag van de Goede Week
+TRANSP:TRANSPARENT
+UID:L063-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170412
+DTEND;VALUE=DATE:20170413
+SUMMARY:Woensdag van de Goede Week
+DESCRIPTION:Woensdag van de Goede Week
+TRANSP:TRANSPARENT
+UID:L064-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-12
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170413
+DTEND;VALUE=DATE:20170414
+SUMMARY:Witte Donderdag
+DESCRIPTION:Witte Donderdag
+TRANSP:TRANSPARENT
+UID:P005-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-13
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170414
+DTEND;VALUE=DATE:20170415
+SUMMARY:Goede Vrijdag
+DESCRIPTION:Goede Vrijdag
+TRANSP:TRANSPARENT
+UID:P006-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170415
+DTEND;VALUE=DATE:20170416
+SUMMARY:Paaswake
+DESCRIPTION:Paaswake
+TRANSP:TRANSPARENT
+UID:P007-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170416
+DTEND;VALUE=DATE:20170417
+SUMMARY:Paaszondag
+DESCRIPTION:Paaszondag
+TRANSP:TRANSPARENT
+UID:P011-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-16
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170417
+DTEND;VALUE=DATE:20170418
+SUMMARY:Maandag onder het octaaf van Pasen
+DESCRIPTION:Maandag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P012-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170418
+DTEND;VALUE=DATE:20170419
+SUMMARY:Dinsdag onder het octaaf van Pasen
+DESCRIPTION:Dinsdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P013-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-18
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170419
+DTEND;VALUE=DATE:20170420
+SUMMARY:Woensdag onder het octaaf van Pasen
+DESCRIPTION:Woensdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P014-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-19
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170420
+DTEND;VALUE=DATE:20170421
+SUMMARY:Donderdag onder het octaaf van Pasen
+DESCRIPTION:Donderdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P015-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-20
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170421
+DTEND;VALUE=DATE:20170422
+SUMMARY:Vrijdag onder het octaaf van Pasen
+DESCRIPTION:Vrijdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P016-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170422
+DTEND;VALUE=DATE:20170423
+SUMMARY:Zaterdag onder het octaaf van Pasen
+DESCRIPTION:Zaterdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P017-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-22
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170423
+DTEND;VALUE=DATE:20170424
+SUMMARY:Tweede zondag van Pasen
+DESCRIPTION:Tweede zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P021-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170430
+DTEND;VALUE=DATE:20170501
+SUMMARY:Derde zondag van Pasen
+DESCRIPTION:Derde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P031-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-04-30
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170507
+DTEND;VALUE=DATE:20170508
+SUMMARY:Vierde zondag van Pasen
+DESCRIPTION:Vierde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P041-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-05-07
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170514
+DTEND;VALUE=DATE:20170515
+SUMMARY:Vijfde zondag van Pasen
+DESCRIPTION:Vijfde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P051-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-05-14
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170521
+DTEND;VALUE=DATE:20170522
+SUMMARY:Zesde zondag van Pasen
+DESCRIPTION:Zesde zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P061-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-05-21
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170525
+DTEND;VALUE=DATE:20170526
+SUMMARY:Hemelvaart van de Heer
+DESCRIPTION:Hemelvaart van de Heer
+TRANSP:TRANSPARENT
+UID:P065-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-05-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170528
+DTEND;VALUE=DATE:20170529
+SUMMARY:Zevende zondag van Pasen
+DESCRIPTION:Zevende zondag van Pasen
+TRANSP:TRANSPARENT
+UID:P071-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-05-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170604
+DTEND;VALUE=DATE:20170605
+SUMMARY:Pinksteren
+DESCRIPTION:Pinksteren
+TRANSP:TRANSPARENT
+UID:P081-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-06-04
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170611
+DTEND;VALUE=DATE:20170612
+SUMMARY:Heilige Drievuldigheid
+DESCRIPTION:Heilige Drievuldigheid
+TRANSP:TRANSPARENT
+UID:P091-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-06-11
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170615
+DTEND;VALUE=DATE:20170616
+SUMMARY:Sacramentsdag
+DESCRIPTION:Sacramentsdag
+TRANSP:TRANSPARENT
+UID:P095-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-06-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170623
+DTEND;VALUE=DATE:20170624
+SUMMARY:Heilig Hart van Jezus
+DESCRIPTION:Heilig Hart van Jezus
+TRANSP:TRANSPARENT
+UID:P106-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-06-23
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170624
+DTEND;VALUE=DATE:20170625
+SUMMARY:Geboorte van de H. Johannes de Doper
+DESCRIPTION:Geboorte van de H. Johannes de Doper
+TRANSP:TRANSPARENT
+UID:Z0624-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-06-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170629
+DTEND;VALUE=DATE:20170630
+SUMMARY:HH. Petrus en Paulus, apostelen
+DESCRIPTION:HH. Petrus en Paulus, apostelen
+TRANSP:TRANSPARENT
+UID:Z0629-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-06-29
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170815
+DTEND;VALUE=DATE:20170816
+SUMMARY:Tenhemelopneming van de H. Maagd Maria
+DESCRIPTION:Tenhemelopneming van de H. Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z0815-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-08-15
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171101
+DTEND;VALUE=DATE:20171102
+SUMMARY:Allerheiligen
+DESCRIPTION:Allerheiligen
+TRANSP:TRANSPARENT
+UID:Z1101-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-11-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171102
+DTEND;VALUE=DATE:20171103
+SUMMARY:Allerzielen
+DESCRIPTION:Allerzielen
+TRANSP:TRANSPARENT
+UID:Z1102-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-11-02
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171126
+DTEND;VALUE=DATE:20171127
+SUMMARY:Christus Koning
+DESCRIPTION:Christus Koning
+TRANSP:TRANSPARENT
+UID:Y341-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-11-26
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171203
+DTEND;VALUE=DATE:20171204
+SUMMARY:Eerste zondag van de Advent
+DESCRIPTION:Eerste zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A011-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-12-03
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171208
+DTEND;VALUE=DATE:20171209
+SUMMARY:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+DESCRIPTION:Onbevlekte Ontvangenis van de Heilige Maagd Maria
+TRANSP:TRANSPARENT
+UID:Z1208-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-12-08
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171210
+DTEND;VALUE=DATE:20171211
+SUMMARY:Tweede zondag van de Advent
+DESCRIPTION:Tweede zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A021-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-12-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171217
+DTEND;VALUE=DATE:20171218
+SUMMARY:Derde zondag van de Advent
+DESCRIPTION:Derde zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A031-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-12-17
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171224
+DTEND;VALUE=DATE:20171225
+SUMMARY:#liturgicalday#of-Z1224A041
+DESCRIPTION:#liturgicalday#of-Z1224A041
+TRANSP:TRANSPARENT
+UID:Z1224A041-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-12-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171225
+DTEND;VALUE=DATE:20171226
+SUMMARY:Kerstmis
+DESCRIPTION:Kerstmis
+TRANSP:TRANSPARENT
+UID:Z1225-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-12-25
 END:VEVENT
 END:VCALENDAR
