@@ -22,8 +22,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130103
 DTEND;VALUE=DATE:20130104
-SUMMARY:#liturgicalday#eo-Z0103
-DESCRIPTION:#liturgicalday#eo-Z0103
+SUMMARY:Derde dag van januari
+DESCRIPTION:Derde dag van januari
 TRANSP:TRANSPARENT
 UID:Z0103-2013-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-01-03
@@ -886,8 +886,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130510
 DTEND;VALUE=DATE:20130511
-SUMMARY:#liturgicalday#eo-0510
-DESCRIPTION:#liturgicalday#eo-0510
+SUMMARY:Vrijdag na de Hemelvaart van de Heer
+DESCRIPTION:Vrijdag na de Hemelvaart van de Heer
 TRANSP:TRANSPARENT
 UID:0510-2013-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-05-10
@@ -2767,8 +2767,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140103
 DTEND;VALUE=DATE:20140104
-SUMMARY:#liturgicalday#eo-Z0103
-DESCRIPTION:#liturgicalday#eo-Z0103
+SUMMARY:Derde dag van januari
+DESCRIPTION:Derde dag van januari
 TRANSP:TRANSPARENT
 UID:Z0103-2014-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-01-03
@@ -3640,8 +3640,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140510
 DTEND;VALUE=DATE:20140511
-SUMMARY:#liturgicalday#eo-0510
-DESCRIPTION:#liturgicalday#eo-0510
+SUMMARY:Zaterdag in de tweede week na Pasen
+DESCRIPTION:Zaterdag in de tweede week na Pasen
 TRANSP:TRANSPARENT
 UID:0510-2014-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-05-10
@@ -4090,8 +4090,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140718
 DTEND;VALUE=DATE:20140719
-SUMMARY:#liturgicalday#eo-Y056
-DESCRIPTION:#liturgicalday#eo-Y056
+SUMMARY:Vrijdag in de vijfde week na Pinksteren
+DESCRIPTION:Vrijdag in de vijfde week na Pinksteren
 TRANSP:TRANSPARENT
 UID:Y056-2014-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-07-18
@@ -5503,8 +5503,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150103
 DTEND;VALUE=DATE:20150104
-SUMMARY:#liturgicalday#eo-Z0103
-DESCRIPTION:#liturgicalday#eo-Z0103
+SUMMARY:Derde dag van januari
+DESCRIPTION:Derde dag van januari
 TRANSP:TRANSPARENT
 UID:Z0103-2015-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-01-03
@@ -6673,8 +6673,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150703
 DTEND;VALUE=DATE:20150704
-SUMMARY:#liturgicalday#eo-Y056
-DESCRIPTION:#liturgicalday#eo-Y056
+SUMMARY:Vrijdag in de vijfde week na Pinksteren
+DESCRIPTION:Vrijdag in de vijfde week na Pinksteren
 TRANSP:TRANSPARENT
 UID:Y056-2015-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-07-03
@@ -8221,8 +8221,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160103
 DTEND;VALUE=DATE:20160104
-SUMMARY:#liturgicalday#eo-Z0103
-DESCRIPTION:#liturgicalday#eo-Z0103
+SUMMARY:Derde dag van januari
+DESCRIPTION:Derde dag van januari
 TRANSP:TRANSPARENT
 UID:Z0103-2016-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-01-03
@@ -9094,8 +9094,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160510
 DTEND;VALUE=DATE:20160511
-SUMMARY:#liturgicalday#eo-0510
-DESCRIPTION:#liturgicalday#eo-0510
+SUMMARY:Dinsdag in de week na de Hemelvaart van de Heer
+DESCRIPTION:Dinsdag in de week na de Hemelvaart van de Heer
 TRANSP:TRANSPARENT
 UID:0510-2016-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-05-10
@@ -10075,8 +10075,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160916
 DTEND;VALUE=DATE:20160917
-SUMMARY:#liturgicalday#eo-Y176
-DESCRIPTION:#liturgicalday#eo-Y176
+SUMMARY:Vrijdag in de Zeventiende week na Pinksteren
+DESCRIPTION:Vrijdag in de Zeventiende week na Pinksteren
 TRANSP:TRANSPARENT
 UID:Y176-2016-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-09-16
@@ -10084,8 +10084,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160917
 DTEND;VALUE=DATE:20160918
-SUMMARY:#liturgicalday#eo-Y177
-DESCRIPTION:#liturgicalday#eo-Y177
+SUMMARY:Zaterdag in de Zeventiende week na Pinksteren
+DESCRIPTION:Zaterdag in de Zeventiende week na Pinksteren
 TRANSP:TRANSPARENT
 UID:Y177-2016-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-09-17
@@ -10957,8 +10957,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20170103
 DTEND;VALUE=DATE:20170104
-SUMMARY:#liturgicalday#eo-Z0103
-DESCRIPTION:#liturgicalday#eo-Z0103
+SUMMARY:Derde dag van januari
+DESCRIPTION:Derde dag van januari
 TRANSP:TRANSPARENT
 UID:Z0103-2017-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2017-01-03
@@ -11830,8 +11830,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20170510
 DTEND;VALUE=DATE:20170511
-SUMMARY:#liturgicalday#eo-0510
-DESCRIPTION:#liturgicalday#eo-0510
+SUMMARY:Woensdag in de derde week na Pasen
+DESCRIPTION:Woensdag in de derde week na Pasen
 TRANSP:TRANSPARENT
 UID:0510-2017-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2017-05-10
@@ -11956,10 +11956,19 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20170524
 DTEND;VALUE=DATE:20170525
-SUMMARY:#liturgicalday#eo-Q064P064
-DESCRIPTION:#liturgicalday#eo-Q064P064
+SUMMARY:Vigilie van de Hemelvaart van de Heer
+DESCRIPTION:Vigilie van de Hemelvaart van de Heer
 TRANSP:TRANSPARENT
-UID:Q064P064-2017-eo-nl@missale.net
+UID:Q064-2017-eo-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-05-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20170524
+DTEND;VALUE=DATE:20170525
+SUMMARY:Kruisdag
+DESCRIPTION:Kruisdag
+TRANSP:TRANSPARENT
+UID:P064-2017-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2017-05-24
 END:VEVENT
 BEGIN:VEVENT
@@ -12235,8 +12244,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20170714
 DTEND;VALUE=DATE:20170715
-SUMMARY:#liturgicalday#eo-Y056
-DESCRIPTION:#liturgicalday#eo-Y056
+SUMMARY:Vrijdag in de vijfde week na Pinksteren
+DESCRIPTION:Vrijdag in de vijfde week na Pinksteren
 TRANSP:TRANSPARENT
 UID:Y056-2017-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2017-07-14
@@ -12973,8 +12982,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20171006
 DTEND;VALUE=DATE:20171007
-SUMMARY:#liturgicalday#eo-Y176
-DESCRIPTION:#liturgicalday#eo-Y176
+SUMMARY:Vrijdag in de Zeventiende week na Pinksteren
+DESCRIPTION:Vrijdag in de Zeventiende week na Pinksteren
 TRANSP:TRANSPARENT
 UID:Y176-2017-eo-nl@missale.net
 URL:http://missale.net?lang=nl&date=2017-10-06

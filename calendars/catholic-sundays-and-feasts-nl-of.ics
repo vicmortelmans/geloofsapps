@@ -400,10 +400,19 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20131224
 DTEND;VALUE=DATE:20131225
-SUMMARY:#liturgicalday#of-Z1224A043
-DESCRIPTION:#liturgicalday#of-Z1224A043
+SUMMARY:Vigilie van Kerstmis
+DESCRIPTION:Vigilie van Kerstmis
 TRANSP:TRANSPARENT
-UID:Z1224A043-2013-of-nl@missale.net
+UID:Z1224-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-12-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20131224
+DTEND;VALUE=DATE:20131225
+SUMMARY:Dinsdag van de vierde week van de Advent
+DESCRIPTION:Dinsdag van de vierde week van de Advent
+TRANSP:TRANSPARENT
+UID:A043-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-12-24
 END:VEVENT
 BEGIN:VEVENT
@@ -832,10 +841,19 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20141224
 DTEND;VALUE=DATE:20141225
-SUMMARY:#liturgicalday#of-Z1224A044
-DESCRIPTION:#liturgicalday#of-Z1224A044
+SUMMARY:Vigilie van Kerstmis
+DESCRIPTION:Vigilie van Kerstmis
 TRANSP:TRANSPARENT
-UID:Z1224A044-2014-of-nl@missale.net
+UID:Z1224-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-12-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141224
+DTEND;VALUE=DATE:20141225
+SUMMARY:Woensdag van de vierde week van de Advent
+DESCRIPTION:Woensdag van de vierde week van de Advent
+TRANSP:TRANSPARENT
+UID:A044-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-12-24
 END:VEVENT
 BEGIN:VEVENT
@@ -1264,10 +1282,19 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20151224
 DTEND;VALUE=DATE:20151225
-SUMMARY:#liturgicalday#of-Z1224A045
-DESCRIPTION:#liturgicalday#of-Z1224A045
+SUMMARY:Vigilie van Kerstmis
+DESCRIPTION:Vigilie van Kerstmis
 TRANSP:TRANSPARENT
-UID:Z1224A045-2015-of-nl@missale.net
+UID:Z1224-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-12-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151224
+DTEND;VALUE=DATE:20151225
+SUMMARY:Donderdag van de vierde week van de Advent
+DESCRIPTION:Donderdag van de vierde week van de Advent
+TRANSP:TRANSPARENT
+UID:A045-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-12-24
 END:VEVENT
 BEGIN:VEVENT
@@ -1687,10 +1714,19 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161224
 DTEND;VALUE=DATE:20161225
-SUMMARY:#liturgicalday#of-Z1224A047
-DESCRIPTION:#liturgicalday#of-Z1224A047
+SUMMARY:Vigilie van Kerstmis
+DESCRIPTION:Vigilie van Kerstmis
 TRANSP:TRANSPARENT
-UID:Z1224A047-2016-of-nl@missale.net
+UID:Z1224-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-12-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20161224
+DTEND;VALUE=DATE:20161225
+SUMMARY:Zaterdag van de vierde week van de Advent
+DESCRIPTION:Zaterdag van de vierde week van de Advent
+TRANSP:TRANSPARENT
+UID:A047-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-12-24
 END:VEVENT
 BEGIN:VEVENT
@@ -2101,10 +2137,19 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20171224
 DTEND;VALUE=DATE:20171225
-SUMMARY:#liturgicalday#of-Z1224A041
-DESCRIPTION:#liturgicalday#of-Z1224A041
+SUMMARY:Vigilie van Kerstmis
+DESCRIPTION:Vigilie van Kerstmis
 TRANSP:TRANSPARENT
-UID:Z1224A041-2017-of-nl@missale.net
+UID:Z1224-2017-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2017-12-24
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20171224
+DTEND;VALUE=DATE:20171225
+SUMMARY:Vierde zondag van de Advent
+DESCRIPTION:Vierde zondag van de Advent
+TRANSP:TRANSPARENT
+UID:A041-2017-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2017-12-24
 END:VEVENT
 BEGIN:VEVENT

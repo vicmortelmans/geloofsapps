@@ -8311,8 +8311,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20151130
 DTEND;VALUE=DATE:20151201
-SUMMARY:#liturgicalday#of-Z1130+
-DESCRIPTION:#liturgicalday#of-Z1130+
+SUMMARY:H. Andreas, Apostel
+DESCRIPTION:H. Andreas, Apostel
 TRANSP:TRANSPARENT
 UID:Z1130+-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-11-30
@@ -11164,8 +11164,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161130
 DTEND;VALUE=DATE:20161201
-SUMMARY:#liturgicalday#of-Z1130+
-DESCRIPTION:#liturgicalday#of-Z1130+
+SUMMARY:H. Andreas, Apostel
+DESCRIPTION:H. Andreas, Apostel
 TRANSP:TRANSPARENT
 UID:Z1130+-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-11-30
