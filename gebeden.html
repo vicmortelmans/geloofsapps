@@ -2,60 +2,304 @@
 <html>
     <head>
         <title>Gebeden</title>
+        <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
-        <meta name="description" content="Mobiele apps, studiemateriaal en
+        <meta name="description"
+            content="Mobiele apps, studiemateriaal en
             informatiebronnen voor de katholieke gelovige met een smartphone of tablet." />
         <meta name="google-site-verification" content="AsngXlOa88G3VdZ1h9QSR-cRhM49YUCOiIecY2j6Hlw" />
         <link rel="stylesheet" href="js/jquery.mobile-1.2.0.min.css" />
         <link rel="icon" type="image/png" href="favicon.png" />
         <link rel="apple-touch-icon-precomposed" href="favicon114.png" />
-        <link rel="stylesheet" href="js/credomobiel.css" type="text/css"/>
+        <link rel="stylesheet" href="js/credomobiel.css" type="text/css" />
         <script src="js/jquery-1.8.2.min.js"></script>
         <script src="js/credomobiel.js"></script>
         <script src="js/jquery.mobile-1.2.0.min.js"></script>
     </head>
     <body>
-        
+
         <!--
         GEBEDEN
         -->
-        
+
         <div data-role="page">
-            
+
             <div data-role="header">
                 <a data-rel="back" data-icon="back">terug</a>
                 <h1>Gebeden</h1>
             </div>
             <!-- /header -->
-            
+
             <div data-role="content">
                 <div data-role="collapsible-set" data-inset="false">
                     <div data-role="collapsible">
-                        <h2>Kruisteken</h2>                        
-                        <p>In de Naam van de Vader en de Zoon en de heilige Geest.</p>
-                        <p>Amen</p>
+                        <h2>Kruisteken</h2>
+                        <div class="kruisteken nl">
+                            <p>In de naam van de Vader, de Zoon en de Heilige Geest.</p>
+                            <p>Amen</p>
+                        </div>
+                        <div class="kruisteken la hidden">
+                            <p>In nomine Patris et Filii et Spiritus Sancti</p>
+                            <p>Amen</p>
+                        </div>
+                        <fieldset data-role="controlgroup" data-type="horizontal"  data-mini="true">
+                            <input type="radio" name="kruisteken" id="nl" value="nl" checked="checked" />
+                            <label for="nl">Nederlands</label>
+                            <input type="radio" name="kruisteken" id="la" value="la" />
+                            <label for="la">Latijn</label>
+                        </fieldset>
                     </div>
                     <div data-role="collapsible">
-                        <h2>Onze Vader (Nederland)</h2>
-                        <p>Onze Vader, die in de hemel zijt,<br/>
-                        uw Naam worde geheiligd, <br/>
-                        uw Rijk kome, <br/>
-                        uw wil geschiede op aarde zoals in de hemel. <br/>
-                        Geef ons heden ons dagelijks brood, <br/>
-                        en vergeef ons onze schuld zoals ook wij aan anderen hun schuld vergeven. <br/>
-                        En leid ons niet in bekoring, <br/>
-                        maar verlos ons van het kwade.</p>
-                        <p>Want van U is het Koninkrijk en de kracht en de heerlijkheid in eeuwigheid.</p>
-                        <p>Amen</p>
+                        <h2>Onze Vader</h2>
+                        <div class="onzevader nl">
+                            <p>Onze Vader, <br />die in de hemel zijt,<br /> uw Naam worde geheiligd,
+                                <br /> uw Rijk kome, <br /> uw wil geschiede op aarde zoals in de
+                                hemel. <br /> Geef ons heden ons dagelijks brood, <br /> en vergeef
+                                ons onze schuld <br /> zoals ook wij aan anderen hun schuld vergeven.
+                                <br /> En leid ons niet in bekoring, <br /> maar verlos ons van het
+                                kwade.</p>
+                            <p>Want van U is het Koninkrijk en de kracht en de heerlijkheid in
+                                eeuwigheid.</p>
+                            <p>Amen</p>
+                        </div>
+                        <div class="onzevader vl hidden">
+                            <p>Onze Vader, <br />die in de hemelen zijt,<br /> geheiligd zij uw Naam, <br />
+                                uw Rijk kome, <br /> uw wil geschiede op aarde als in de hemel.
+                                <br /> Geef ons heden ons dagelijks brood, <br /> en vergeef ons
+                                onze schulden <br /> gelijk ook wij vergeven aan onze schuldenaren. <br />
+                                En leid ons niet in bekoring, <br /> maar verlos ons van het
+                                kwade.</p>
+                            <p>Want van U is het Koninkrijk en de kracht en de heerlijkheid in
+                                eeuwigheid.</p>
+                            <p>Amen</p>
+                        </div>
+                        <div class="onzevader la hidden">
+                            <p>Pater noster,<br /> Qui es in caelis,<br /> Sanctificetur nomen
+                                tuum.<br /> Adveniat regnum tuum.<br /> Fiat voluntas tua, sicut in
+                                caelo et in terra.<br /> Panem nostrum quotidianum da nobis
+                                hodie,<br /> Et dimitte nobis debita nostra,<br /> Sicut et nos
+                                dimittimus debitoribus nostris.<br /> Et ne nos inducas in
+                                tentationem:<br /> Sed libera nos a malo.</p>
+                            <p>Quia tuum est regnum, Et potestas, Et gloria in saecula.</p>
+                            <p>Amen</p>
+                        </div>
+                        <fieldset data-role="controlgroup" data-type="horizontal"  data-mini="true">
+                            <input type="radio" name="onzevader" id="nl" value="nl" checked="checked" />
+                            <label for="nl">Nederlands</label>
+                            <input type="radio" name="onzevader" id="vl" value="vl" />
+                            <label for="vl">Vlaams</label>
+                            <input type="radio" name="onzevader" id="la" value="la" />
+                            <label for="la">Latijn</label>
+                        </fieldset>
+                    </div>
+                    <div data-role="collapsible">
+                        <h2>Wees gegroet</h2>
+                        <div class="weesgegroet nl">
+                            <p>Wees gegroet Maria, vol van genade.<br/>
+                                De Heer is met U.<br/>
+                                Gij zijt de gezegende onder de vrouwen.<br/>
+                                En gezegend is Jezus,<br/>
+                                de Vrucht van Uw schoot.<br/>
+                                Heilige Maria, Moeder van God,<br/>
+                                bid voor ons, zondaars,<br/>
+                                nu en in het uur van onze dood. </p>
+                            <p>Amen</p>
+                        </div>
+                        <div class="weesgegroet vl hidden">
+                            <p>Wees gegroet Maria, vol van genade.<br/>
+                                De Heer is met U.<br/>
+                                Gezegend zijt Gij boven alle vrouwen,<br/>
+                                en gezegend is de vrucht van Uw lichaam,<br/>
+                                Jezus.<br/>
+                                Heilige Maria, Moeder Gods,<br/>
+                                bid voor ons, arme zondaars,<br/>
+                                nu en in het uur van onze dood.</p>
+                            <p>Amen</p>
+                        </div>
+                        <div class="weesgegroet la hidden">
+                            <p>Ave Maria, gratia plena,<br/>
+                                Dominus tecum.<br/>
+                                Benedicta tu in mulieribus,<br/>
+                                et benedictus Fructus ventris tui,<br/>
+                                Iesus.<br/>
+                                Sancta Maria, Mater Dei,<br/>
+                                ora pro nobis peccatoribus,<br/>
+                                nunc et in hora mortis nostrae.</p>
+                            <p>Amen</p>
+                        </div>
+                        <fieldset data-role="controlgroup" data-type="horizontal"  data-mini="true">
+                            <input type="radio" name="weesgegroet" id="nl" value="nl" checked="checked" />
+                            <label for="nl">Nederlands</label>
+                            <input type="radio" name="weesgegroet" id="vl" value="vl" />
+                            <label for="vl">Vlaams</label>
+                            <input type="radio" name="weesgegroet" id="la" value="la" />
+                            <label for="la">Latijn</label>
+                        </fieldset>
+                    </div>
+                    <div data-role="collapsible">
+                        <h2>Geloofsbelijdenis (Nicea-Konstantinopel)</h2>
+                        <div class="credo1 nl">
+                            <p>Ik geloof in één God de almachtige Vader<br/>
+                                Schepper van hemel en aarde, van al wat zichtbaar en onzichtbaar is.<br/>
+                                En in één Heer, Jezus Christus,<br/>
+                                eniggeboren Zoon van God,<br/>
+                                vóór alle tijden geboren uit de Vader.<br/>
+                                God uit God, licht uit licht, ware God uit de ware God.<br/>
+                                Geboren, niet geschapen, één in wezen met de Vader,<br/>
+                                en door wie alles geschapen is.<br/>
+                                Hij is voor ons, mensen, en omwille van ons heil uit de hemel neergedaald.<br/>
+                                Hij heeft het vlees aangenomen door de heilige Geest uit de Maagd Maria<br/>
+                                en is mens geworden.<br/>
+                                Hij werd voor ons gekruisigd,<br/>
+                                Hij heeft geleden onder Pontius Pilatus en is begraven<br/>
+                                Hij is verrezen op de derde dag, volgens de Schriften.<br/>
+                                Hij is opgevaren ten hemel: zit aan de rechterhand van de Vader.<br/>
+                                Hij zal wederkomen in heerlijkheid om te oordelen levenden en doden<br/>
+                                en aan zijn rijk komt geen einde.<br/>
+                                Ik geloof in de heilige Geest die Heer is en het leven geeft<br/>
+                                die voortkomt uit de Vader en de Zoon;<br/>
+                                die met de Vader en de Zoon tezamen wordt aanbeden en verheerlijkt;<br/>
+                                die gesproken heeft door de profeten.<br/>
+                                Ik geloof in de ene, heilige, katholieke en apostolische kerk.<br/>
+                                Ik belijd één doopsel tot vergeving van de zonden.<br/>
+                                Ik verwacht de opstanding van de doden<br/>
+                                en het leven van het komend rijk.</p>
+                            <p>Amen</p>
+                        </div>
+                        <div class="credo1 la hidden">
+                            <p>Credo in unum Deum.<br/>
+                                Patrem omnipotentem, factorem caeli et terrae, visibilium omnium et invisibilium.<br/>
+                                Et in unum Dominum Jesum Christum, Filium Dei unigenitum.<br/>
+                                Et ex Patre natum ante omnia saecula.<br/>
+                                Deum de Deo, Lumen de Lumine, Deum verum de Deo vero.<br/>
+                                Genitum non factum, consubstantialem Patri: per quem omnia facta sunt.<br/>
+                                Qui propter nos homines et propter nostram salutem descendit de caelis.<br/>
+                                Et incarnatus est de Spiritu Sancto ex Maria Virgine: et homo factus est.<br/>
+                                Crucifixus etiam pro nobis: sub Pontio Pilato, passus et sepultus est.<br/>
+                                Et resurrexit tertia die, secundum Scripturas.<br/>
+                                Et ascendit in caelum: sedet ad dexteram Patris.<br/>
+                                Et iterum venturus est cum gloria iudicare vivos et mortuos: cuius regni non erit finis.<br/>
+                                Et in Spiritum Sanctum, Dominum et vivificantem, qui ex Patre Filioque procedit.<br/>
+                                Qui cum Patre et Filio simul adoratur et conglorificatur: qui locutus est per prophetas.<br/>
+                                Et unam sanctam catholicam et apostolicam Ecclesiam.<br/>
+                                Confiteor unum baptisma in remissionem peccatorum.<br/>
+                                Et exspecto resurrectionem mortuorum.<br/>
+                                Et vitam venturi saeculi.</p>
+                            <p>Amen</p>
+                        </div>
+                        <fieldset data-role="controlgroup" data-type="horizontal"  data-mini="true">
+                            <input type="radio" name="credo1" id="nl" value="nl" checked="checked" />
+                            <label for="nl">Nederlands</label>
+                            <input type="radio" name="credo1" id="la" value="la" />
+                            <label for="la">Latijn</label>
+                        </fieldset>
+                    </div>
+                    <div data-role="collapsible">
+                        <h2>Geloofsbelijdenis (apostelen)</h2>
+                        <div class="credo2 nl">
+                            <p>Ik geloof in God de almachtige Vader, Schepper van hemel en aarde.<br/>
+                                En in Jezus Christus, Zijn enige Zoon, onze Heer,<br/>
+                                Die ontvangen is van de Heilige Geest, geboren uit de maagd Maria,<br/>
+                                Die geleden heeft onder Pontius Pilatus, is gekruisigd, gestorven en begraven,<br/>
+                                Die nedergedaald is ter helle, de derde dag verrezen uit de doden,<br/>
+                                Die opgestegen is ten hemel, zit aan de rechterhand van God, de almachtige Vader,<br/>
+                                Vandaar zal Hij komen oordelen de levenden en de doden.<br/>
+                                Ik geloof in de Heilige Geest;<br/>
+                                De Heilige katholieke Kerk, de gemeenschap van de heiligen;<br/>
+                                De vergeving van de zonden;<br/>
+                                De verrijzenis van het lichaam;<br/>
+                                En het eeuwig leven.</p>
+                            <p>Amen</p>
+                        </div>
+                        <div class="credo2 la hidden">
+                            <p>Credo in Deum Patrem omnipotentem, Creatorem caeli et terrae,<br/>
+                                et in Iesum Christum, Filium Eius unicum, Dominum nostrum,<br/>
+                                qui conceptus est de Spiritu Sancto, natus ex Maria Virgine,<br/>
+                                passus sub Pontio Pilato, crucifixus, mortuus, et sepultus,<br/>
+                                descendit ad ínferos, tertia die resurrexit a mortuis,<br/>
+                                ascendit ad caelos, sedet ad dexteram Patris omnipotentis,<br/>
+                                inde venturus est iudicare vivos et mortuos.<br/>
+                                Credo in Spiritum Sanctum,<br/>
+                                sanctam Ecclesiam catholicam, sanctorum communionem,<br/>
+                                remissionem peccatorum,<br/>
+                                carnis resurrectionem,<br/>
+                                vitam aeternam.</p>
+                            <p>Amen</p>
+                        </div>
+                        <fieldset data-role="controlgroup" data-type="horizontal"  data-mini="true">
+                            <input type="radio" name="credo2" id="nl" value="nl" checked="checked" />
+                            <label for="nl">Nederlands</label>
+                            <input type="radio" name="credo2" id="la" value="la" />
+                            <label for="la">Latijn</label>
+                        </fieldset>
+                    </div>
+                    <div data-role="collapsible">
+                        <h2>Tien Geboden van God</h2>
+                        <div class="tiengeboden nl">
+                            <p>Ik ben de Heer, uw God.<br/>
+                                1. Gij zult geen afgoden vereren, maar Mij alleen aanbidden en boven alles beminnen.<br/>
+                                2. Gij zult de naam van de Heer, uw God, niet zonder eerbied gebruiken.<br/>
+                                3. Wees gedachtig dat gij de dag des Heren heiligt.<br/>
+                                4. Eer uw vader en uw moeder.<br/>
+                                5. Gij zult niet doden.<br/>
+                                6. Gij zult geen onkuisheid doen.<br/>
+                                7. Gij zult niet stelen.<br/>
+                                8. Gij zult tegen uw naaste niet vals getuigen.<br/>
+                                9. Gij zult geen onkuisheid begeren.<br/>
+                                10. Gij zult niet onrechtvaardig begeren wat uw naaste toebehoort.</p>
+                            <p>Amen</p>
+                        </div>
+                        <div class="tiengeboden vl hidden">
+                            <p>1. Bovenal bemin één God<br/>
+                                2. Zweer niet ijdel, vloek noch spot<br/>
+                                3. Heilig steeds de dag des Heren<br/>
+                                4. Vader moeder zult gij eren<br/>
+                                5. Dood niet, geef geen ergernis<br/>
+                                6. Doe niets wat onkuisheid is<br/>
+                                7. Vlucht het stelen en bedriegen<br/>
+                                8. Ook de achterklap en het liegen<br/>
+                                9. Wees steeds kuis in uw gemoed<br/>
+                                10. Begeer nooit iemands goed</p>
+                            <p>Amen</p>
+                        </div>
+                        <fieldset data-role="controlgroup" data-type="horizontal"  data-mini="true">
+                            <input type="radio" name="tiengeboden" id="nl" value="nl" checked="checked" />
+                            <label for="nl">Nederlands</label>
+                            <input type="radio" name="tiengeboden" id="vl" value="vl" />
+                            <label for="vl">Vlaams</label>
+                        </fieldset>
+                    </div>
+                    <div data-role="collapsible">
+                        <h2>Vijf Geboden van de Heilige Kerk</h2>
+                        <div class="vijfgeboden nl">
+                            <p>1. De verplichte feestdagen te vieren als zondag,<br/>
+                                2. op zondagen en verplichte feestdagen de mis bij te wonen,<br/>
+                                3. zich te houden aan vasten- en onthoudingsdagen,<br/>
+                                4. ten minste eenmaal per jaar te biechten,<br/>
+                                5. in de Paastijd waardig te communiceren.</p>
+                        </div>
+                        <div class="vijfgeboden vl hidden">
+                            <p>1. Zon- en feestdag houdt in eer.<br/>
+                                2. Hoor wel Mis dan, elke keer.<br/>
+                                3. Boet, houd vasten ongeschonden.<br/>
+                                4. Biecht minstens eens per jaar uw zonden,<br/>
+                                5. En nut rond Pasen 't Brood des Heren.</p>
+                        </div>
+                        <fieldset data-role="controlgroup" data-type="horizontal"  data-mini="true">
+                            <input type="radio" name="vijfgeboden" id="nl" value="nl" checked="checked" />
+                            <label for="nl">Nederlands</label>
+                            <input type="radio" name="vijfgeboden" id="vl" value="vl" />
+                            <label for="vl">Vlaams</label>
+                        </fieldset>
                     </div>
                 </div>
                 <!-- collapsible set -->
             </div>
             <!-- content -->
-            
+
         </div>
         <!-- /page -->
-        
+
         <script type="text/javascript">
 
          var _gaq = _gaq || [];
@@ -69,6 +313,6 @@
          })();
        
        </script>
-        
+
     </body>
 </html>
