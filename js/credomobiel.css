@@ -1,0 +1,12 @@
+.base
+{
+    height:400px;
+    background-image:url('img/city_social.png');
+    background-repeat:repeat-x;
+    background-position:center bottom;
+    background-color:white;
+}
+.intro
+{
+    color:gray;
+}
