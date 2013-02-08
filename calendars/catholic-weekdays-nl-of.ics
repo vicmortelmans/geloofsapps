@@ -139,10 +139,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130119
 DTEND;VALUE=DATE:20130120
-SUMMARY:Zaterdag van de tweede week door het jaar
-DESCRIPTION:Zaterdag van de tweede week door het jaar
+SUMMARY:Zaterdag van de eerste week door het jaar
+DESCRIPTION:Zaterdag van de eerste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y027-2013-of-nl@missale.net
+UID:Y017-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-01-19
 END:VEVENT
 BEGIN:VEVENT
@@ -184,10 +184,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130126
 DTEND;VALUE=DATE:20130127
-SUMMARY:Zaterdag van de derde week door het jaar
-DESCRIPTION:Zaterdag van de derde week door het jaar
+SUMMARY:Zaterdag van de tweede week door het jaar
+DESCRIPTION:Zaterdag van de tweede week door het jaar
 TRANSP:TRANSPARENT
-UID:Y037-2013-of-nl@missale.net
+UID:Y027-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-01-26
 END:VEVENT
 BEGIN:VEVENT
@@ -283,10 +283,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130209
 DTEND;VALUE=DATE:20130210
-SUMMARY:Zaterdag na Aswoensdag
-DESCRIPTION:Zaterdag na Aswoensdag
+SUMMARY:Zaterdag van de vierde week door het jaar
+DESCRIPTION:Zaterdag van de vierde week door het jaar
 TRANSP:TRANSPARENT
-UID:L007-2013-of-nl@missale.net
+UID:Y047-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-02-09
 END:VEVENT
 BEGIN:VEVENT
@@ -328,10 +328,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130216
 DTEND;VALUE=DATE:20130217
-SUMMARY:Zaterdag van de eerste week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de eerste week van de Veertigdagentijd
+SUMMARY:Zaterdag na Aswoensdag
+DESCRIPTION:Zaterdag na Aswoensdag
 TRANSP:TRANSPARENT
-UID:L017-2013-of-nl@missale.net
+UID:L007-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-02-16
 END:VEVENT
 BEGIN:VEVENT
@@ -373,10 +373,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130223
 DTEND;VALUE=DATE:20130224
-SUMMARY:Zaterdag van de tweede week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de tweede week van de Veertigdagentijd
+SUMMARY:Zaterdag van de eerste week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de eerste week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L027-2013-of-nl@missale.net
+UID:L017-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-02-23
 END:VEVENT
 BEGIN:VEVENT
@@ -427,10 +427,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130302
 DTEND;VALUE=DATE:20130303
-SUMMARY:Zaterdag van de derde week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de derde week van de Veertigdagentijd
+SUMMARY:Zaterdag van de tweede week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de tweede week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L037-2013-of-nl@missale.net
+UID:L027-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-03-02
 END:VEVENT
 BEGIN:VEVENT
@@ -481,10 +481,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130309
 DTEND;VALUE=DATE:20130310
-SUMMARY:Zaterdag van de vierde week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de vierde week van de Veertigdagentijd
+SUMMARY:Zaterdag van de derde week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de derde week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L047-2013-of-nl@missale.net
+UID:L037-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-03-09
 END:VEVENT
 BEGIN:VEVENT
@@ -535,10 +535,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130316
 DTEND;VALUE=DATE:20130317
-SUMMARY:Zaterdag van de vijfde week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de vijfde week van de Veertigdagentijd
+SUMMARY:Zaterdag van de vierde week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de vierde week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L057-2013-of-nl@missale.net
+UID:L047-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-03-16
 END:VEVENT
 BEGIN:VEVENT
@@ -578,13 +578,13 @@ UID:L056-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-03-22
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20130406
-DTEND;VALUE=DATE:20130407
-SUMMARY:Zaterdag van de tweede week van Pasen
-DESCRIPTION:Zaterdag van de tweede week van Pasen
+DTSTART;VALUE=DATE:20130323
+DTEND;VALUE=DATE:20130324
+SUMMARY:Zaterdag van de vijfde week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de vijfde week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:P027-2013-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2013-04-06
+UID:L057-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-03-23
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130408
@@ -634,10 +634,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130413
 DTEND;VALUE=DATE:20130414
-SUMMARY:Zaterdag van de derde week van Pasen
-DESCRIPTION:Zaterdag van de derde week van Pasen
+SUMMARY:Zaterdag van de tweede week van Pasen
+DESCRIPTION:Zaterdag van de tweede week van Pasen
 TRANSP:TRANSPARENT
-UID:P037-2013-of-nl@missale.net
+UID:P027-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-04-13
 END:VEVENT
 BEGIN:VEVENT
@@ -688,10 +688,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130420
 DTEND;VALUE=DATE:20130421
-SUMMARY:Zaterdag van de vierde week van Pasen
-DESCRIPTION:Zaterdag van de vierde week van Pasen
+SUMMARY:Zaterdag van de derde week van Pasen
+DESCRIPTION:Zaterdag van de derde week van Pasen
 TRANSP:TRANSPARENT
-UID:P047-2013-of-nl@missale.net
+UID:P037-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-04-20
 END:VEVENT
 BEGIN:VEVENT
@@ -733,10 +733,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130427
 DTEND;VALUE=DATE:20130428
-SUMMARY:Zaterdag van de vijfde week van Pasen
-DESCRIPTION:Zaterdag van de vijfde week van Pasen
+SUMMARY:Zaterdag van de vierde week van Pasen
+DESCRIPTION:Zaterdag van de vierde week van Pasen
 TRANSP:TRANSPARENT
-UID:P057-2013-of-nl@missale.net
+UID:P047-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-04-27
 END:VEVENT
 BEGIN:VEVENT
@@ -778,10 +778,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130504
 DTEND;VALUE=DATE:20130505
-SUMMARY:Zaterdag van de zesde week van Pasen
-DESCRIPTION:Zaterdag van de zesde week van Pasen
+SUMMARY:Zaterdag van de vijfde week van Pasen
+DESCRIPTION:Zaterdag van de vijfde week van Pasen
 TRANSP:TRANSPARENT
-UID:P067-2013-of-nl@missale.net
+UID:P057-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-05-04
 END:VEVENT
 BEGIN:VEVENT
@@ -823,10 +823,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130511
 DTEND;VALUE=DATE:20130512
-SUMMARY:Zaterdag van de zevende week van Pasen
-DESCRIPTION:Zaterdag van de zevende week van Pasen
+SUMMARY:Zaterdag van de zesde week van Pasen
+DESCRIPTION:Zaterdag van de zesde week van Pasen
 TRANSP:TRANSPARENT
-UID:P077-2013-of-nl@missale.net
+UID:P067-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-05-11
 END:VEVENT
 BEGIN:VEVENT
@@ -868,10 +868,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130518
 DTEND;VALUE=DATE:20130519
-SUMMARY:Zaterdag van de zevende week door het jaar
-DESCRIPTION:Zaterdag van de zevende week door het jaar
+SUMMARY:Zaterdag van de zevende week van Pasen
+DESCRIPTION:Zaterdag van de zevende week van Pasen
 TRANSP:TRANSPARENT
-UID:Y077-2013-of-nl@missale.net
+UID:P077-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-05-18
 END:VEVENT
 BEGIN:VEVENT
@@ -922,10 +922,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130525
 DTEND;VALUE=DATE:20130526
-SUMMARY:Zaterdag van de achtste week door het jaar
-DESCRIPTION:Zaterdag van de achtste week door het jaar
+SUMMARY:Zaterdag van de zevende week door het jaar
+DESCRIPTION:Zaterdag van de zevende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y087-2013-of-nl@missale.net
+UID:Y077-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-05-25
 END:VEVENT
 BEGIN:VEVENT
@@ -958,10 +958,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130601
 DTEND;VALUE=DATE:20130602
-SUMMARY:Zaterdag van de negende week door het jaar
-DESCRIPTION:Zaterdag van de negende week door het jaar
+SUMMARY:Zaterdag van de achtste week door het jaar
+DESCRIPTION:Zaterdag van de achtste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y097-2013-of-nl@missale.net
+UID:Y087-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-06-01
 END:VEVENT
 BEGIN:VEVENT
@@ -1003,10 +1003,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130608
 DTEND;VALUE=DATE:20130609
-SUMMARY:Zaterdag van de tiende week door het jaar
-DESCRIPTION:Zaterdag van de tiende week door het jaar
+SUMMARY:Zaterdag van de negende week door het jaar
+DESCRIPTION:Zaterdag van de negende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y107-2013-of-nl@missale.net
+UID:Y097-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-06-08
 END:VEVENT
 BEGIN:VEVENT
@@ -1057,10 +1057,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130615
 DTEND;VALUE=DATE:20130616
-SUMMARY:Zaterdag van de Elfde week door het jaar
-DESCRIPTION:Zaterdag van de Elfde week door het jaar
+SUMMARY:Zaterdag van de tiende week door het jaar
+DESCRIPTION:Zaterdag van de tiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y117-2013-of-nl@missale.net
+UID:Y107-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-06-15
 END:VEVENT
 BEGIN:VEVENT
@@ -1111,10 +1111,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130622
 DTEND;VALUE=DATE:20130623
-SUMMARY:Zaterdag van de twaalfde week door het jaar
-DESCRIPTION:Zaterdag van de twaalfde week door het jaar
+SUMMARY:Zaterdag van de Elfde week door het jaar
+DESCRIPTION:Zaterdag van de Elfde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y127-2013-of-nl@missale.net
+UID:Y117-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-06-22
 END:VEVENT
 BEGIN:VEVENT
@@ -1192,10 +1192,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130706
 DTEND;VALUE=DATE:20130707
-SUMMARY:Zaterdag van de veertiende week door het jaar
-DESCRIPTION:Zaterdag van de veertiende week door het jaar
+SUMMARY:Zaterdag van de dertiende week door het jaar
+DESCRIPTION:Zaterdag van de dertiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y147-2013-of-nl@missale.net
+UID:Y137-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-07-06
 END:VEVENT
 BEGIN:VEVENT
@@ -1246,10 +1246,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130713
 DTEND;VALUE=DATE:20130714
-SUMMARY:Zaterdag van de Vijftiende week door het jaar
-DESCRIPTION:Zaterdag van de Vijftiende week door het jaar
+SUMMARY:Zaterdag van de veertiende week door het jaar
+DESCRIPTION:Zaterdag van de veertiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y157-2013-of-nl@missale.net
+UID:Y147-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-07-13
 END:VEVENT
 BEGIN:VEVENT
@@ -1300,10 +1300,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130720
 DTEND;VALUE=DATE:20130721
-SUMMARY:Zaterdag van de zestiende week door het jaar
-DESCRIPTION:Zaterdag van de zestiende week door het jaar
+SUMMARY:Zaterdag van de Vijftiende week door het jaar
+DESCRIPTION:Zaterdag van de Vijftiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y167-2013-of-nl@missale.net
+UID:Y157-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-07-20
 END:VEVENT
 BEGIN:VEVENT
@@ -1345,10 +1345,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130727
 DTEND;VALUE=DATE:20130728
-SUMMARY:Zaterdag van de zeventiende week door het jaar
-DESCRIPTION:Zaterdag van de zeventiende week door het jaar
+SUMMARY:Zaterdag van de zestiende week door het jaar
+DESCRIPTION:Zaterdag van de zestiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y177-2013-of-nl@missale.net
+UID:Y167-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-07-27
 END:VEVENT
 BEGIN:VEVENT
@@ -1399,10 +1399,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130803
 DTEND;VALUE=DATE:20130804
-SUMMARY:Zaterdag van de achttiende week door het jaar
-DESCRIPTION:Zaterdag van de achttiende week door het jaar
+SUMMARY:Zaterdag van de zeventiende week door het jaar
+DESCRIPTION:Zaterdag van de zeventiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y187-2013-of-nl@missale.net
+UID:Y177-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-08-03
 END:VEVENT
 BEGIN:VEVENT
@@ -1480,10 +1480,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130817
 DTEND;VALUE=DATE:20130818
-SUMMARY:Zaterdag van de twintigste week door het jaar
-DESCRIPTION:Zaterdag van de twintigste week door het jaar
+SUMMARY:Zaterdag van de negentiende week door het jaar
+DESCRIPTION:Zaterdag van de negentiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y207-2013-of-nl@missale.net
+UID:Y197-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-08-17
 END:VEVENT
 BEGIN:VEVENT
@@ -1579,10 +1579,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130831
 DTEND;VALUE=DATE:20130901
-SUMMARY:Zaterdag van de tweeëntwintigste week door het jaar
-DESCRIPTION:Zaterdag van de tweeëntwintigste week door het jaar
+SUMMARY:Zaterdag van de eenentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de eenentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y227-2013-of-nl@missale.net
+UID:Y217-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-08-31
 END:VEVENT
 BEGIN:VEVENT
@@ -1633,10 +1633,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130907
 DTEND;VALUE=DATE:20130908
-SUMMARY:Zaterdag van de Twenty-derde week door het jaar
-DESCRIPTION:Zaterdag van de Twenty-derde week door het jaar
+SUMMARY:Zaterdag van de tweeëntwintigste week door het jaar
+DESCRIPTION:Zaterdag van de tweeëntwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y237-2013-of-nl@missale.net
+UID:Y227-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-09-07
 END:VEVENT
 BEGIN:VEVENT
@@ -1777,10 +1777,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130928
 DTEND;VALUE=DATE:20130929
-SUMMARY:Zaterdag van de zesentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de zesentwintigste week door het jaar
+SUMMARY:Zaterdag van de vijfentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de vijfentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y267-2013-of-nl@missale.net
+UID:Y257-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-09-28
 END:VEVENT
 BEGIN:VEVENT
@@ -1831,10 +1831,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20131005
 DTEND;VALUE=DATE:20131006
-SUMMARY:Zaterdag van de zevenentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de zevenentwintigste week door het jaar
+SUMMARY:Zaterdag van de zesentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de zesentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y277-2013-of-nl@missale.net
+UID:Y267-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-10-05
 END:VEVENT
 BEGIN:VEVENT
@@ -1885,10 +1885,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20131012
 DTEND;VALUE=DATE:20131013
-SUMMARY:Zaterdag van de achtentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de achtentwintigste week door het jaar
+SUMMARY:Zaterdag van de zevenentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de zevenentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y287-2013-of-nl@missale.net
+UID:Y277-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-10-12
 END:VEVENT
 BEGIN:VEVENT
@@ -1930,10 +1930,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20131019
 DTEND;VALUE=DATE:20131020
-SUMMARY:Zaterdag van de Negenentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de Negenentwintigste week door het jaar
+SUMMARY:Zaterdag van de achtentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de achtentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y297-2013-of-nl@missale.net
+UID:Y287-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-10-19
 END:VEVENT
 BEGIN:VEVENT
@@ -1984,10 +1984,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20131026
 DTEND;VALUE=DATE:20131027
-SUMMARY:Zaterdag van de dertigste week door het jaar
-DESCRIPTION:Zaterdag van de dertigste week door het jaar
+SUMMARY:Zaterdag van de Negenentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de Negenentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y307-2013-of-nl@missale.net
+UID:Y297-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-10-26
 END:VEVENT
 BEGIN:VEVENT
@@ -2110,10 +2110,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20131116
 DTEND;VALUE=DATE:20131117
-SUMMARY:Zaterdag van de drieëndertigste week door het jaar
-DESCRIPTION:Zaterdag van de drieëndertigste week door het jaar
+SUMMARY:Zaterdag van de tweeëndertigste week door het jaar
+DESCRIPTION:Zaterdag van de tweeëndertigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y337-2013-of-nl@missale.net
+UID:Y327-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-11-16
 END:VEVENT
 BEGIN:VEVENT
@@ -2164,10 +2164,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20131123
 DTEND;VALUE=DATE:20131124
-SUMMARY:Zaterdag van de vierendertigste week door het jaar
-DESCRIPTION:Zaterdag van de vierendertigste week door het jaar
+SUMMARY:Zaterdag van de drieëndertigste week door het jaar
+DESCRIPTION:Zaterdag van de drieëndertigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y347-2013-of-nl@missale.net
+UID:Y337-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-11-23
 END:VEVENT
 BEGIN:VEVENT
@@ -2263,10 +2263,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20131207
 DTEND;VALUE=DATE:20131208
-SUMMARY:Zaterdag van de tweede week van de Advent
-DESCRIPTION:Zaterdag van de tweede week van de Advent
+SUMMARY:Zaterdag van de eerste week van de Advent
+DESCRIPTION:Zaterdag van de eerste week van de Advent
 TRANSP:TRANSPARENT
-UID:A027-2013-of-nl@missale.net
+UID:A017-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-12-07
 END:VEVENT
 BEGIN:VEVENT
@@ -2317,10 +2317,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20131214
 DTEND;VALUE=DATE:20131215
-SUMMARY:Zaterdag van de derde week van de Advent
-DESCRIPTION:Zaterdag van de derde week van de Advent
+SUMMARY:Zaterdag van de tweede week van de Advent
+DESCRIPTION:Zaterdag van de tweede week van de Advent
 TRANSP:TRANSPARENT
-UID:A037-2013-of-nl@missale.net
+UID:A027-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-12-14
 END:VEVENT
 BEGIN:VEVENT
@@ -2371,10 +2371,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20131221
 DTEND;VALUE=DATE:20131222
-SUMMARY:Zaterdag van de vierde week van de Advent
-DESCRIPTION:Zaterdag van de vierde week van de Advent
+SUMMARY:Zaterdag van de derde week van de Advent
+DESCRIPTION:Zaterdag van de derde week van de Advent
 TRANSP:TRANSPARENT
-UID:A047-2013-of-nl@missale.net
+UID:A037-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-12-21
 END:VEVENT
 BEGIN:VEVENT
@@ -2515,10 +2515,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140118
 DTEND;VALUE=DATE:20140119
-SUMMARY:Zaterdag van de tweede week door het jaar
-DESCRIPTION:Zaterdag van de tweede week door het jaar
+SUMMARY:Zaterdag van de eerste week door het jaar
+DESCRIPTION:Zaterdag van de eerste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y027-2014-of-nl@missale.net
+UID:Y017-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-01-18
 END:VEVENT
 BEGIN:VEVENT
@@ -2614,10 +2614,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140201
 DTEND;VALUE=DATE:20140202
-SUMMARY:Zaterdag van de vierde week door het jaar
-DESCRIPTION:Zaterdag van de vierde week door het jaar
+SUMMARY:Zaterdag van de derde week door het jaar
+DESCRIPTION:Zaterdag van de derde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y047-2014-of-nl@missale.net
+UID:Y037-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-02-01
 END:VEVENT
 BEGIN:VEVENT
@@ -2668,10 +2668,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140208
 DTEND;VALUE=DATE:20140209
-SUMMARY:Zaterdag van de vijfde week door het jaar
-DESCRIPTION:Zaterdag van de vijfde week door het jaar
+SUMMARY:Zaterdag van de vierde week door het jaar
+DESCRIPTION:Zaterdag van de vierde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y057-2014-of-nl@missale.net
+UID:Y047-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-02-08
 END:VEVENT
 BEGIN:VEVENT
@@ -2722,10 +2722,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140215
 DTEND;VALUE=DATE:20140216
-SUMMARY:Zaterdag van de zesde week door het jaar
-DESCRIPTION:Zaterdag van de zesde week door het jaar
+SUMMARY:Zaterdag van de vijfde week door het jaar
+DESCRIPTION:Zaterdag van de vijfde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y067-2014-of-nl@missale.net
+UID:Y057-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-02-15
 END:VEVENT
 BEGIN:VEVENT
@@ -2821,10 +2821,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140301
 DTEND;VALUE=DATE:20140302
-SUMMARY:Zaterdag na Aswoensdag
-DESCRIPTION:Zaterdag na Aswoensdag
+SUMMARY:Zaterdag van de zevende week door het jaar
+DESCRIPTION:Zaterdag van de zevende week door het jaar
 TRANSP:TRANSPARENT
-UID:L007-2014-of-nl@missale.net
+UID:Y077-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-03-01
 END:VEVENT
 BEGIN:VEVENT
@@ -2866,10 +2866,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140308
 DTEND;VALUE=DATE:20140309
-SUMMARY:Zaterdag van de eerste week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de eerste week van de Veertigdagentijd
+SUMMARY:Zaterdag na Aswoensdag
+DESCRIPTION:Zaterdag na Aswoensdag
 TRANSP:TRANSPARENT
-UID:L017-2014-of-nl@missale.net
+UID:L007-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-03-08
 END:VEVENT
 BEGIN:VEVENT
@@ -2920,10 +2920,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140315
 DTEND;VALUE=DATE:20140316
-SUMMARY:Zaterdag van de tweede week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de tweede week van de Veertigdagentijd
+SUMMARY:Zaterdag van de eerste week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de eerste week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L027-2014-of-nl@missale.net
+UID:L017-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-03-15
 END:VEVENT
 BEGIN:VEVENT
@@ -2965,10 +2965,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140322
 DTEND;VALUE=DATE:20140323
-SUMMARY:Zaterdag van de derde week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de derde week van de Veertigdagentijd
+SUMMARY:Zaterdag van de tweede week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de tweede week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L037-2014-of-nl@missale.net
+UID:L027-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-03-22
 END:VEVENT
 BEGIN:VEVENT
@@ -3010,10 +3010,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140329
 DTEND;VALUE=DATE:20140330
-SUMMARY:Zaterdag van de vierde week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de vierde week van de Veertigdagentijd
+SUMMARY:Zaterdag van de derde week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de derde week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L047-2014-of-nl@missale.net
+UID:L037-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-03-29
 END:VEVENT
 BEGIN:VEVENT
@@ -3064,10 +3064,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140405
 DTEND;VALUE=DATE:20140406
-SUMMARY:Zaterdag van de vijfde week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de vijfde week van de Veertigdagentijd
+SUMMARY:Zaterdag van de vierde week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de vierde week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L057-2014-of-nl@missale.net
+UID:L047-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-04-05
 END:VEVENT
 BEGIN:VEVENT
@@ -3116,13 +3116,13 @@ UID:L056-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-04-11
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20140426
-DTEND;VALUE=DATE:20140427
-SUMMARY:Zaterdag van de tweede week van Pasen
-DESCRIPTION:Zaterdag van de tweede week van Pasen
+DTSTART;VALUE=DATE:20140412
+DTEND;VALUE=DATE:20140413
+SUMMARY:Zaterdag van de vijfde week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de vijfde week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:P027-2014-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2014-04-26
+UID:L057-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-12
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140428
@@ -3217,10 +3217,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140510
 DTEND;VALUE=DATE:20140511
-SUMMARY:Zaterdag van de vierde week van Pasen
-DESCRIPTION:Zaterdag van de vierde week van Pasen
+SUMMARY:Zaterdag van de derde week van Pasen
+DESCRIPTION:Zaterdag van de derde week van Pasen
 TRANSP:TRANSPARENT
-UID:P047-2014-of-nl@missale.net
+UID:P037-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-05-10
 END:VEVENT
 BEGIN:VEVENT
@@ -3262,10 +3262,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140517
 DTEND;VALUE=DATE:20140518
-SUMMARY:Zaterdag van de vijfde week van Pasen
-DESCRIPTION:Zaterdag van de vijfde week van Pasen
+SUMMARY:Zaterdag van de vierde week van Pasen
+DESCRIPTION:Zaterdag van de vierde week van Pasen
 TRANSP:TRANSPARENT
-UID:P057-2014-of-nl@missale.net
+UID:P047-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-05-17
 END:VEVENT
 BEGIN:VEVENT
@@ -3316,10 +3316,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140524
 DTEND;VALUE=DATE:20140525
-SUMMARY:Zaterdag van de zesde week van Pasen
-DESCRIPTION:Zaterdag van de zesde week van Pasen
+SUMMARY:Zaterdag van de vijfde week van Pasen
+DESCRIPTION:Zaterdag van de vijfde week van Pasen
 TRANSP:TRANSPARENT
-UID:P067-2014-of-nl@missale.net
+UID:P057-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-05-24
 END:VEVENT
 BEGIN:VEVENT
@@ -3406,10 +3406,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140607
 DTEND;VALUE=DATE:20140608
-SUMMARY:Zaterdag van de tiende week door het jaar
-DESCRIPTION:Zaterdag van de tiende week door het jaar
+SUMMARY:Zaterdag van de zevende week van Pasen
+DESCRIPTION:Zaterdag van de zevende week van Pasen
 TRANSP:TRANSPARENT
-UID:Y107-2014-of-nl@missale.net
+UID:P077-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-06-07
 END:VEVENT
 BEGIN:VEVENT
@@ -3460,10 +3460,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140614
 DTEND;VALUE=DATE:20140615
-SUMMARY:Zaterdag van de Elfde week door het jaar
-DESCRIPTION:Zaterdag van de Elfde week door het jaar
+SUMMARY:Zaterdag van de tiende week door het jaar
+DESCRIPTION:Zaterdag van de tiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y117-2014-of-nl@missale.net
+UID:Y107-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-06-14
 END:VEVENT
 BEGIN:VEVENT
@@ -3505,10 +3505,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140621
 DTEND;VALUE=DATE:20140622
-SUMMARY:Zaterdag van de twaalfde week door het jaar
-DESCRIPTION:Zaterdag van de twaalfde week door het jaar
+SUMMARY:Zaterdag van de Elfde week door het jaar
+DESCRIPTION:Zaterdag van de Elfde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y127-2014-of-nl@missale.net
+UID:Y117-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-06-21
 END:VEVENT
 BEGIN:VEVENT
@@ -3541,10 +3541,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140628
 DTEND;VALUE=DATE:20140629
-SUMMARY:#liturgicalday#of-Y137
-DESCRIPTION:#liturgicalday#of-Y137
+SUMMARY:Zaterdag van de twaalfde week door het jaar
+DESCRIPTION:Zaterdag van de twaalfde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y137-2014-of-nl@missale.net
+UID:Y127-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-06-28
 END:VEVENT
 BEGIN:VEVENT
@@ -3586,10 +3586,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140705
 DTEND;VALUE=DATE:20140706
-SUMMARY:Zaterdag van de veertiende week door het jaar
-DESCRIPTION:Zaterdag van de veertiende week door het jaar
+SUMMARY:Zaterdag van de dertiende week door het jaar
+DESCRIPTION:Zaterdag van de dertiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y147-2014-of-nl@missale.net
+UID:Y137-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-07-05
 END:VEVENT
 BEGIN:VEVENT
@@ -3640,10 +3640,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140712
 DTEND;VALUE=DATE:20140713
-SUMMARY:Zaterdag van de Vijftiende week door het jaar
-DESCRIPTION:Zaterdag van de Vijftiende week door het jaar
+SUMMARY:Zaterdag van de veertiende week door het jaar
+DESCRIPTION:Zaterdag van de veertiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y157-2014-of-nl@missale.net
+UID:Y147-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-07-12
 END:VEVENT
 BEGIN:VEVENT
@@ -3694,10 +3694,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140719
 DTEND;VALUE=DATE:20140720
-SUMMARY:Zaterdag van de zestiende week door het jaar
-DESCRIPTION:Zaterdag van de zestiende week door het jaar
+SUMMARY:Zaterdag van de Vijftiende week door het jaar
+DESCRIPTION:Zaterdag van de Vijftiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y167-2014-of-nl@missale.net
+UID:Y157-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-07-19
 END:VEVENT
 BEGIN:VEVENT
@@ -3739,10 +3739,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140726
 DTEND;VALUE=DATE:20140727
-SUMMARY:Zaterdag van de zeventiende week door het jaar
-DESCRIPTION:Zaterdag van de zeventiende week door het jaar
+SUMMARY:Zaterdag van de zestiende week door het jaar
+DESCRIPTION:Zaterdag van de zestiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y177-2014-of-nl@missale.net
+UID:Y167-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-07-26
 END:VEVENT
 BEGIN:VEVENT
@@ -3793,10 +3793,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140802
 DTEND;VALUE=DATE:20140803
-SUMMARY:Zaterdag van de achttiende week door het jaar
-DESCRIPTION:Zaterdag van de achttiende week door het jaar
+SUMMARY:Zaterdag van de zeventiende week door het jaar
+DESCRIPTION:Zaterdag van de zeventiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y187-2014-of-nl@missale.net
+UID:Y177-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-08-02
 END:VEVENT
 BEGIN:VEVENT
@@ -3838,10 +3838,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140809
 DTEND;VALUE=DATE:20140810
-SUMMARY:Zaterdag van de negentiende week door het jaar
-DESCRIPTION:Zaterdag van de negentiende week door het jaar
+SUMMARY:Zaterdag van de achttiende week door het jaar
+DESCRIPTION:Zaterdag van de achttiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y197-2014-of-nl@missale.net
+UID:Y187-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-08-09
 END:VEVENT
 BEGIN:VEVENT
@@ -3883,10 +3883,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140816
 DTEND;VALUE=DATE:20140817
-SUMMARY:Zaterdag van de twintigste week door het jaar
-DESCRIPTION:Zaterdag van de twintigste week door het jaar
+SUMMARY:Zaterdag van de negentiende week door het jaar
+DESCRIPTION:Zaterdag van de negentiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y207-2014-of-nl@missale.net
+UID:Y197-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-08-16
 END:VEVENT
 BEGIN:VEVENT
@@ -3937,10 +3937,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140823
 DTEND;VALUE=DATE:20140824
-SUMMARY:Zaterdag van de eenentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de eenentwintigste week door het jaar
+SUMMARY:Zaterdag van de twintigste week door het jaar
+DESCRIPTION:Zaterdag van de twintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y217-2014-of-nl@missale.net
+UID:Y207-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-08-23
 END:VEVENT
 BEGIN:VEVENT
@@ -3991,10 +3991,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140830
 DTEND;VALUE=DATE:20140831
-SUMMARY:Zaterdag van de tweeëntwintigste week door het jaar
-DESCRIPTION:Zaterdag van de tweeëntwintigste week door het jaar
+SUMMARY:Zaterdag van de eenentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de eenentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y227-2014-of-nl@missale.net
+UID:Y217-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-08-30
 END:VEVENT
 BEGIN:VEVENT
@@ -4045,10 +4045,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140906
 DTEND;VALUE=DATE:20140907
-SUMMARY:Zaterdag van de Twenty-derde week door het jaar
-DESCRIPTION:Zaterdag van de Twenty-derde week door het jaar
+SUMMARY:Zaterdag van de tweeëntwintigste week door het jaar
+DESCRIPTION:Zaterdag van de tweeëntwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y237-2014-of-nl@missale.net
+UID:Y227-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-09-06
 END:VEVENT
 BEGIN:VEVENT
@@ -4090,10 +4090,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140913
 DTEND;VALUE=DATE:20140914
-SUMMARY:Zaterdag van de vierentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de vierentwintigste week door het jaar
+SUMMARY:Zaterdag van de Twenty-derde week door het jaar
+DESCRIPTION:Zaterdag van de Twenty-derde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y247-2014-of-nl@missale.net
+UID:Y237-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-09-13
 END:VEVENT
 BEGIN:VEVENT
@@ -4144,10 +4144,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140920
 DTEND;VALUE=DATE:20140921
-SUMMARY:Zaterdag van de vijfentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de vijfentwintigste week door het jaar
+SUMMARY:Zaterdag van de vierentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de vierentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y257-2014-of-nl@missale.net
+UID:Y247-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-09-20
 END:VEVENT
 BEGIN:VEVENT
@@ -4198,10 +4198,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140927
 DTEND;VALUE=DATE:20140928
-SUMMARY:Zaterdag van de zesentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de zesentwintigste week door het jaar
+SUMMARY:Zaterdag van de vijfentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de vijfentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y267-2014-of-nl@missale.net
+UID:Y257-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-09-27
 END:VEVENT
 BEGIN:VEVENT
@@ -4243,10 +4243,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20141004
 DTEND;VALUE=DATE:20141005
-SUMMARY:Zaterdag van de zevenentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de zevenentwintigste week door het jaar
+SUMMARY:Zaterdag van de zesentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de zesentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y277-2014-of-nl@missale.net
+UID:Y267-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-10-04
 END:VEVENT
 BEGIN:VEVENT
@@ -4297,10 +4297,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20141011
 DTEND;VALUE=DATE:20141012
-SUMMARY:Zaterdag van de achtentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de achtentwintigste week door het jaar
+SUMMARY:Zaterdag van de zevenentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de zevenentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y287-2014-of-nl@missale.net
+UID:Y277-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-10-11
 END:VEVENT
 BEGIN:VEVENT
@@ -4396,10 +4396,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20141025
 DTEND;VALUE=DATE:20141026
-SUMMARY:Zaterdag van de dertigste week door het jaar
-DESCRIPTION:Zaterdag van de dertigste week door het jaar
+SUMMARY:Zaterdag van de Negenentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de Negenentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y307-2014-of-nl@missale.net
+UID:Y297-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-10-25
 END:VEVENT
 BEGIN:VEVENT
@@ -4486,10 +4486,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20141108
 DTEND;VALUE=DATE:20141109
-SUMMARY:Zaterdag van de tweeëndertigste week door het jaar
-DESCRIPTION:Zaterdag van de tweeëndertigste week door het jaar
+SUMMARY:Zaterdag van de eenendertigste week door het jaar
+DESCRIPTION:Zaterdag van de eenendertigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y327-2014-of-nl@missale.net
+UID:Y317-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-11-08
 END:VEVENT
 BEGIN:VEVENT
@@ -4540,10 +4540,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20141115
 DTEND;VALUE=DATE:20141116
-SUMMARY:Zaterdag van de drieëndertigste week door het jaar
-DESCRIPTION:Zaterdag van de drieëndertigste week door het jaar
+SUMMARY:Zaterdag van de tweeëndertigste week door het jaar
+DESCRIPTION:Zaterdag van de tweeëndertigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y337-2014-of-nl@missale.net
+UID:Y327-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-11-15
 END:VEVENT
 BEGIN:VEVENT
@@ -4594,10 +4594,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20141122
 DTEND;VALUE=DATE:20141123
-SUMMARY:Zaterdag van de vierendertigste week door het jaar
-DESCRIPTION:Zaterdag van de vierendertigste week door het jaar
+SUMMARY:Zaterdag van de drieëndertigste week door het jaar
+DESCRIPTION:Zaterdag van de drieëndertigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y347-2014-of-nl@missale.net
+UID:Y337-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-11-22
 END:VEVENT
 BEGIN:VEVENT
@@ -4644,6 +4644,15 @@ DESCRIPTION:Vrijdag van de vierendertigste week door het jaar
 TRANSP:TRANSPARENT
 UID:Y346-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-11-28
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20141129
+DTEND;VALUE=DATE:20141130
+SUMMARY:Zaterdag van de vierendertigste week door het jaar
+DESCRIPTION:Zaterdag van de vierendertigste week door het jaar
+TRANSP:TRANSPARENT
+UID:Y347-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-11-29
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20141201
@@ -4693,10 +4702,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20141206
 DTEND;VALUE=DATE:20141207
-SUMMARY:Zaterdag van de tweede week van de Advent
-DESCRIPTION:Zaterdag van de tweede week van de Advent
+SUMMARY:Zaterdag van de eerste week van de Advent
+DESCRIPTION:Zaterdag van de eerste week van de Advent
 TRANSP:TRANSPARENT
-UID:A027-2014-of-nl@missale.net
+UID:A017-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-12-06
 END:VEVENT
 BEGIN:VEVENT
@@ -4738,10 +4747,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20141213
 DTEND;VALUE=DATE:20141214
-SUMMARY:Zaterdag van de derde week van de Advent
-DESCRIPTION:Zaterdag van de derde week van de Advent
+SUMMARY:Zaterdag van de tweede week van de Advent
+DESCRIPTION:Zaterdag van de tweede week van de Advent
 TRANSP:TRANSPARENT
-UID:A037-2014-of-nl@missale.net
+UID:A027-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-12-13
 END:VEVENT
 BEGIN:VEVENT
@@ -4792,10 +4801,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20141220
 DTEND;VALUE=DATE:20141221
-SUMMARY:Zaterdag van de vierde week van de Advent
-DESCRIPTION:Zaterdag van de vierde week van de Advent
+SUMMARY:Zaterdag van de derde week van de Advent
+DESCRIPTION:Zaterdag van de derde week van de Advent
 TRANSP:TRANSPARENT
-UID:A047-2014-of-nl@missale.net
+UID:A037-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-12-20
 END:VEVENT
 BEGIN:VEVENT
@@ -4936,10 +4945,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150117
 DTEND;VALUE=DATE:20150118
-SUMMARY:Zaterdag van de tweede week door het jaar
-DESCRIPTION:Zaterdag van de tweede week door het jaar
+SUMMARY:Zaterdag van de eerste week door het jaar
+DESCRIPTION:Zaterdag van de eerste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y027-2015-of-nl@missale.net
+UID:Y017-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-01-17
 END:VEVENT
 BEGIN:VEVENT
@@ -4990,10 +4999,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150124
 DTEND;VALUE=DATE:20150125
-SUMMARY:Zaterdag van de derde week door het jaar
-DESCRIPTION:Zaterdag van de derde week door het jaar
+SUMMARY:Zaterdag van de tweede week door het jaar
+DESCRIPTION:Zaterdag van de tweede week door het jaar
 TRANSP:TRANSPARENT
-UID:Y037-2015-of-nl@missale.net
+UID:Y027-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-01-24
 END:VEVENT
 BEGIN:VEVENT
@@ -5044,10 +5053,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150131
 DTEND;VALUE=DATE:20150201
-SUMMARY:Zaterdag van de vierde week door het jaar
-DESCRIPTION:Zaterdag van de vierde week door het jaar
+SUMMARY:Zaterdag van de derde week door het jaar
+DESCRIPTION:Zaterdag van de derde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y047-2015-of-nl@missale.net
+UID:Y037-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-01-31
 END:VEVENT
 BEGIN:VEVENT
@@ -5089,10 +5098,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150207
 DTEND;VALUE=DATE:20150208
-SUMMARY:Zaterdag van de vijfde week door het jaar
-DESCRIPTION:Zaterdag van de vijfde week door het jaar
+SUMMARY:Zaterdag van de vierde week door het jaar
+DESCRIPTION:Zaterdag van de vierde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y057-2015-of-nl@missale.net
+UID:Y047-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-02-07
 END:VEVENT
 BEGIN:VEVENT
@@ -5143,10 +5152,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150214
 DTEND;VALUE=DATE:20150215
-SUMMARY:Zaterdag na Aswoensdag
-DESCRIPTION:Zaterdag na Aswoensdag
+SUMMARY:Zaterdag van de vijfde week door het jaar
+DESCRIPTION:Zaterdag van de vijfde week door het jaar
 TRANSP:TRANSPARENT
-UID:L007-2015-of-nl@missale.net
+UID:Y057-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-02-14
 END:VEVENT
 BEGIN:VEVENT
@@ -5188,10 +5197,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150221
 DTEND;VALUE=DATE:20150222
-SUMMARY:Zaterdag van de eerste week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de eerste week van de Veertigdagentijd
+SUMMARY:Zaterdag na Aswoensdag
+DESCRIPTION:Zaterdag na Aswoensdag
 TRANSP:TRANSPARENT
-UID:L017-2015-of-nl@missale.net
+UID:L007-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-02-21
 END:VEVENT
 BEGIN:VEVENT
@@ -5242,10 +5251,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150228
 DTEND;VALUE=DATE:20150301
-SUMMARY:Zaterdag van de tweede week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de tweede week van de Veertigdagentijd
+SUMMARY:Zaterdag van de eerste week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de eerste week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L027-2015-of-nl@missale.net
+UID:L017-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-02-28
 END:VEVENT
 BEGIN:VEVENT
@@ -5296,10 +5305,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150307
 DTEND;VALUE=DATE:20150308
-SUMMARY:Zaterdag van de derde week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de derde week van de Veertigdagentijd
+SUMMARY:Zaterdag van de tweede week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de tweede week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L037-2015-of-nl@missale.net
+UID:L027-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-03-07
 END:VEVENT
 BEGIN:VEVENT
@@ -5350,10 +5359,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150314
 DTEND;VALUE=DATE:20150315
-SUMMARY:Zaterdag van de vierde week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de vierde week van de Veertigdagentijd
+SUMMARY:Zaterdag van de derde week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de derde week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L047-2015-of-nl@missale.net
+UID:L037-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-03-14
 END:VEVENT
 BEGIN:VEVENT
@@ -5395,10 +5404,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150321
 DTEND;VALUE=DATE:20150322
-SUMMARY:Zaterdag van de vijfde week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de vijfde week van de Veertigdagentijd
+SUMMARY:Zaterdag van de vierde week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de vierde week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L057-2015-of-nl@missale.net
+UID:L047-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-03-21
 END:VEVENT
 BEGIN:VEVENT
@@ -5438,13 +5447,13 @@ UID:L056-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-03-27
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20150411
-DTEND;VALUE=DATE:20150412
-SUMMARY:Zaterdag van de tweede week van Pasen
-DESCRIPTION:Zaterdag van de tweede week van Pasen
+DTSTART;VALUE=DATE:20150328
+DTEND;VALUE=DATE:20150329
+SUMMARY:Zaterdag van de vijfde week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de vijfde week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:P027-2015-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2015-04-11
+UID:L057-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-03-28
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150413
@@ -5494,10 +5503,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150418
 DTEND;VALUE=DATE:20150419
-SUMMARY:Zaterdag van de derde week van Pasen
-DESCRIPTION:Zaterdag van de derde week van Pasen
+SUMMARY:Zaterdag van de tweede week van Pasen
+DESCRIPTION:Zaterdag van de tweede week van Pasen
 TRANSP:TRANSPARENT
-UID:P037-2015-of-nl@missale.net
+UID:P027-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-04-18
 END:VEVENT
 BEGIN:VEVENT
@@ -5593,10 +5602,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150502
 DTEND;VALUE=DATE:20150503
-SUMMARY:Zaterdag van de vijfde week van Pasen
-DESCRIPTION:Zaterdag van de vijfde week van Pasen
+SUMMARY:Zaterdag van de vierde week van Pasen
+DESCRIPTION:Zaterdag van de vierde week van Pasen
 TRANSP:TRANSPARENT
-UID:P057-2015-of-nl@missale.net
+UID:P047-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-05-02
 END:VEVENT
 BEGIN:VEVENT
@@ -5647,10 +5656,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150509
 DTEND;VALUE=DATE:20150510
-SUMMARY:Zaterdag van de zesde week van Pasen
-DESCRIPTION:Zaterdag van de zesde week van Pasen
+SUMMARY:Zaterdag van de vijfde week van Pasen
+DESCRIPTION:Zaterdag van de vijfde week van Pasen
 TRANSP:TRANSPARENT
-UID:P067-2015-of-nl@missale.net
+UID:P057-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-05-09
 END:VEVENT
 BEGIN:VEVENT
@@ -5692,10 +5701,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150516
 DTEND;VALUE=DATE:20150517
-SUMMARY:Zaterdag van de zevende week van Pasen
-DESCRIPTION:Zaterdag van de zevende week van Pasen
+SUMMARY:Zaterdag van de zesde week van Pasen
+DESCRIPTION:Zaterdag van de zesde week van Pasen
 TRANSP:TRANSPARENT
-UID:P077-2015-of-nl@missale.net
+UID:P067-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-05-16
 END:VEVENT
 BEGIN:VEVENT
@@ -5746,10 +5755,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150523
 DTEND;VALUE=DATE:20150524
-SUMMARY:Zaterdag van de achtste week door het jaar
-DESCRIPTION:Zaterdag van de achtste week door het jaar
+SUMMARY:Zaterdag van de zevende week van Pasen
+DESCRIPTION:Zaterdag van de zevende week van Pasen
 TRANSP:TRANSPARENT
-UID:Y087-2015-of-nl@missale.net
+UID:P077-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-05-23
 END:VEVENT
 BEGIN:VEVENT
@@ -5800,10 +5809,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150530
 DTEND;VALUE=DATE:20150531
-SUMMARY:Zaterdag van de negende week door het jaar
-DESCRIPTION:Zaterdag van de negende week door het jaar
+SUMMARY:Zaterdag van de achtste week door het jaar
+DESCRIPTION:Zaterdag van de achtste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y097-2015-of-nl@missale.net
+UID:Y087-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-05-30
 END:VEVENT
 BEGIN:VEVENT
@@ -5845,10 +5854,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150606
 DTEND;VALUE=DATE:20150607
-SUMMARY:Zaterdag van de tiende week door het jaar
-DESCRIPTION:Zaterdag van de tiende week door het jaar
+SUMMARY:Zaterdag van de negende week door het jaar
+DESCRIPTION:Zaterdag van de negende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y107-2015-of-nl@missale.net
+UID:Y097-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-06-06
 END:VEVENT
 BEGIN:VEVENT
@@ -5890,10 +5899,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150613
 DTEND;VALUE=DATE:20150614
-SUMMARY:Zaterdag van de Elfde week door het jaar
-DESCRIPTION:Zaterdag van de Elfde week door het jaar
+SUMMARY:Zaterdag van de tiende week door het jaar
+DESCRIPTION:Zaterdag van de tiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y117-2015-of-nl@missale.net
+UID:Y107-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-06-13
 END:VEVENT
 BEGIN:VEVENT
@@ -5944,10 +5953,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150620
 DTEND;VALUE=DATE:20150621
-SUMMARY:Zaterdag van de twaalfde week door het jaar
-DESCRIPTION:Zaterdag van de twaalfde week door het jaar
+SUMMARY:Zaterdag van de Elfde week door het jaar
+DESCRIPTION:Zaterdag van de Elfde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y127-2015-of-nl@missale.net
+UID:Y117-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-06-20
 END:VEVENT
 BEGIN:VEVENT
@@ -5989,10 +5998,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150627
 DTEND;VALUE=DATE:20150628
-SUMMARY:#liturgicalday#of-Y137
-DESCRIPTION:#liturgicalday#of-Y137
+SUMMARY:Zaterdag van de twaalfde week door het jaar
+DESCRIPTION:Zaterdag van de twaalfde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y137-2015-of-nl@missale.net
+UID:Y127-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-06-27
 END:VEVENT
 BEGIN:VEVENT
@@ -6025,10 +6034,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150704
 DTEND;VALUE=DATE:20150705
-SUMMARY:Zaterdag van de veertiende week door het jaar
-DESCRIPTION:Zaterdag van de veertiende week door het jaar
+SUMMARY:Zaterdag van de dertiende week door het jaar
+DESCRIPTION:Zaterdag van de dertiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y147-2015-of-nl@missale.net
+UID:Y137-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-07-04
 END:VEVENT
 BEGIN:VEVENT
@@ -6079,10 +6088,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150711
 DTEND;VALUE=DATE:20150712
-SUMMARY:Zaterdag van de Vijftiende week door het jaar
-DESCRIPTION:Zaterdag van de Vijftiende week door het jaar
+SUMMARY:Zaterdag van de veertiende week door het jaar
+DESCRIPTION:Zaterdag van de veertiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y157-2015-of-nl@missale.net
+UID:Y147-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-07-11
 END:VEVENT
 BEGIN:VEVENT
@@ -6133,10 +6142,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150718
 DTEND;VALUE=DATE:20150719
-SUMMARY:Zaterdag van de zestiende week door het jaar
-DESCRIPTION:Zaterdag van de zestiende week door het jaar
+SUMMARY:Zaterdag van de Vijftiende week door het jaar
+DESCRIPTION:Zaterdag van de Vijftiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y167-2015-of-nl@missale.net
+UID:Y157-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-07-18
 END:VEVENT
 BEGIN:VEVENT
@@ -6232,10 +6241,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150801
 DTEND;VALUE=DATE:20150802
-SUMMARY:Zaterdag van de achttiende week door het jaar
-DESCRIPTION:Zaterdag van de achttiende week door het jaar
+SUMMARY:Zaterdag van de zeventiende week door het jaar
+DESCRIPTION:Zaterdag van de zeventiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y187-2015-of-nl@missale.net
+UID:Y177-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-08-01
 END:VEVENT
 BEGIN:VEVENT
@@ -6277,10 +6286,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150808
 DTEND;VALUE=DATE:20150809
-SUMMARY:Zaterdag van de negentiende week door het jaar
-DESCRIPTION:Zaterdag van de negentiende week door het jaar
+SUMMARY:Zaterdag van de achttiende week door het jaar
+DESCRIPTION:Zaterdag van de achttiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y197-2015-of-nl@missale.net
+UID:Y187-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-08-08
 END:VEVENT
 BEGIN:VEVENT
@@ -6367,10 +6376,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150822
 DTEND;VALUE=DATE:20150823
-SUMMARY:Zaterdag van de eenentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de eenentwintigste week door het jaar
+SUMMARY:Zaterdag van de twintigste week door het jaar
+DESCRIPTION:Zaterdag van de twintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y217-2015-of-nl@missale.net
+UID:Y207-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-08-22
 END:VEVENT
 BEGIN:VEVENT
@@ -6412,10 +6421,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150829
 DTEND;VALUE=DATE:20150830
-SUMMARY:Zaterdag van de tweeëntwintigste week door het jaar
-DESCRIPTION:Zaterdag van de tweeëntwintigste week door het jaar
+SUMMARY:Zaterdag van de eenentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de eenentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y227-2015-of-nl@missale.net
+UID:Y217-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-08-29
 END:VEVENT
 BEGIN:VEVENT
@@ -6466,10 +6475,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150905
 DTEND;VALUE=DATE:20150906
-SUMMARY:Zaterdag van de Twenty-derde week door het jaar
-DESCRIPTION:Zaterdag van de Twenty-derde week door het jaar
+SUMMARY:Zaterdag van de tweeëntwintigste week door het jaar
+DESCRIPTION:Zaterdag van de tweeëntwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y237-2015-of-nl@missale.net
+UID:Y227-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-09-05
 END:VEVENT
 BEGIN:VEVENT
@@ -6511,10 +6520,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150912
 DTEND;VALUE=DATE:20150913
-SUMMARY:Zaterdag van de vierentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de vierentwintigste week door het jaar
+SUMMARY:Zaterdag van de Twenty-derde week door het jaar
+DESCRIPTION:Zaterdag van de Twenty-derde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y247-2015-of-nl@missale.net
+UID:Y237-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-09-12
 END:VEVENT
 BEGIN:VEVENT
@@ -6556,10 +6565,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150919
 DTEND;VALUE=DATE:20150920
-SUMMARY:Zaterdag van de vijfentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de vijfentwintigste week door het jaar
+SUMMARY:Zaterdag van de vierentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de vierentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y257-2015-of-nl@missale.net
+UID:Y247-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-09-19
 END:VEVENT
 BEGIN:VEVENT
@@ -6601,10 +6610,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150926
 DTEND;VALUE=DATE:20150927
-SUMMARY:Zaterdag van de zesentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de zesentwintigste week door het jaar
+SUMMARY:Zaterdag van de vijfentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de vijfentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y267-2015-of-nl@missale.net
+UID:Y257-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-09-26
 END:VEVENT
 BEGIN:VEVENT
@@ -6646,10 +6655,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20151003
 DTEND;VALUE=DATE:20151004
-SUMMARY:Zaterdag van de zevenentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de zevenentwintigste week door het jaar
+SUMMARY:Zaterdag van de zesentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de zesentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y277-2015-of-nl@missale.net
+UID:Y267-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-10-03
 END:VEVENT
 BEGIN:VEVENT
@@ -6700,10 +6709,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20151010
 DTEND;VALUE=DATE:20151011
-SUMMARY:Zaterdag van de achtentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de achtentwintigste week door het jaar
+SUMMARY:Zaterdag van de zevenentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de zevenentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y287-2015-of-nl@missale.net
+UID:Y277-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-10-10
 END:VEVENT
 BEGIN:VEVENT
@@ -6754,10 +6763,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20151017
 DTEND;VALUE=DATE:20151018
-SUMMARY:Zaterdag van de Negenentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de Negenentwintigste week door het jaar
+SUMMARY:Zaterdag van de achtentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de achtentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y297-2015-of-nl@missale.net
+UID:Y287-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-10-17
 END:VEVENT
 BEGIN:VEVENT
@@ -6808,10 +6817,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20151024
 DTEND;VALUE=DATE:20151025
-SUMMARY:Zaterdag van de dertigste week door het jaar
-DESCRIPTION:Zaterdag van de dertigste week door het jaar
+SUMMARY:Zaterdag van de Negenentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de Negenentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y307-2015-of-nl@missale.net
+UID:Y297-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-10-24
 END:VEVENT
 BEGIN:VEVENT
@@ -6853,10 +6862,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20151031
 DTEND;VALUE=DATE:20151101
-SUMMARY:Zaterdag van de eenendertigste week door het jaar
-DESCRIPTION:Zaterdag van de eenendertigste week door het jaar
+SUMMARY:Zaterdag van de dertigste week door het jaar
+DESCRIPTION:Zaterdag van de dertigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y317-2015-of-nl@missale.net
+UID:Y307-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-10-31
 END:VEVENT
 BEGIN:VEVENT
@@ -6898,10 +6907,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20151107
 DTEND;VALUE=DATE:20151108
-SUMMARY:Zaterdag van de tweeëndertigste week door het jaar
-DESCRIPTION:Zaterdag van de tweeëndertigste week door het jaar
+SUMMARY:Zaterdag van de eenendertigste week door het jaar
+DESCRIPTION:Zaterdag van de eenendertigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y327-2015-of-nl@missale.net
+UID:Y317-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-11-07
 END:VEVENT
 BEGIN:VEVENT
@@ -6943,10 +6952,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20151114
 DTEND;VALUE=DATE:20151115
-SUMMARY:Zaterdag van de drieëndertigste week door het jaar
-DESCRIPTION:Zaterdag van de drieëndertigste week door het jaar
+SUMMARY:Zaterdag van de tweeëndertigste week door het jaar
+DESCRIPTION:Zaterdag van de tweeëndertigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y337-2015-of-nl@missale.net
+UID:Y327-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-11-14
 END:VEVENT
 BEGIN:VEVENT
@@ -6997,10 +7006,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20151121
 DTEND;VALUE=DATE:20151122
-SUMMARY:Zaterdag van de vierendertigste week door het jaar
-DESCRIPTION:Zaterdag van de vierendertigste week door het jaar
+SUMMARY:Zaterdag van de drieëndertigste week door het jaar
+DESCRIPTION:Zaterdag van de drieëndertigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y347-2015-of-nl@missale.net
+UID:Y337-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-11-21
 END:VEVENT
 BEGIN:VEVENT
@@ -7049,6 +7058,15 @@ UID:Y346-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-11-27
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20151128
+DTEND;VALUE=DATE:20151129
+SUMMARY:Zaterdag van de vierendertigste week door het jaar
+DESCRIPTION:Zaterdag van de vierendertigste week door het jaar
+TRANSP:TRANSPARENT
+UID:Y347-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-11-28
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20151201
 DTEND;VALUE=DATE:20151202
 SUMMARY:Dinsdag van de eerste week van de Advent
@@ -7087,10 +7105,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20151205
 DTEND;VALUE=DATE:20151206
-SUMMARY:Zaterdag van de tweede week van de Advent
-DESCRIPTION:Zaterdag van de tweede week van de Advent
+SUMMARY:Zaterdag van de eerste week van de Advent
+DESCRIPTION:Zaterdag van de eerste week van de Advent
 TRANSP:TRANSPARENT
-UID:A027-2015-of-nl@missale.net
+UID:A017-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-12-05
 END:VEVENT
 BEGIN:VEVENT
@@ -7132,10 +7150,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20151212
 DTEND;VALUE=DATE:20151213
-SUMMARY:Zaterdag van de derde week van de Advent
-DESCRIPTION:Zaterdag van de derde week van de Advent
+SUMMARY:Zaterdag van de tweede week van de Advent
+DESCRIPTION:Zaterdag van de tweede week van de Advent
 TRANSP:TRANSPARENT
-UID:A037-2015-of-nl@missale.net
+UID:A027-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-12-12
 END:VEVENT
 BEGIN:VEVENT
@@ -7186,10 +7204,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20151219
 DTEND;VALUE=DATE:20151220
-SUMMARY:Zaterdag van de vierde week van de Advent
-DESCRIPTION:Zaterdag van de vierde week van de Advent
+SUMMARY:Zaterdag van de derde week van de Advent
+DESCRIPTION:Zaterdag van de derde week van de Advent
 TRANSP:TRANSPARENT
-UID:A047-2015-of-nl@missale.net
+UID:A037-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-12-19
 END:VEVENT
 BEGIN:VEVENT
@@ -7330,10 +7348,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160116
 DTEND;VALUE=DATE:20160117
-SUMMARY:Zaterdag van de tweede week door het jaar
-DESCRIPTION:Zaterdag van de tweede week door het jaar
+SUMMARY:Zaterdag van de eerste week door het jaar
+DESCRIPTION:Zaterdag van de eerste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y027-2016-of-nl@missale.net
+UID:Y017-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-01-16
 END:VEVENT
 BEGIN:VEVENT
@@ -7384,10 +7402,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160123
 DTEND;VALUE=DATE:20160124
-SUMMARY:Zaterdag van de derde week door het jaar
-DESCRIPTION:Zaterdag van de derde week door het jaar
+SUMMARY:Zaterdag van de tweede week door het jaar
+DESCRIPTION:Zaterdag van de tweede week door het jaar
 TRANSP:TRANSPARENT
-UID:Y037-2016-of-nl@missale.net
+UID:Y027-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-01-23
 END:VEVENT
 BEGIN:VEVENT
@@ -7429,10 +7447,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160130
 DTEND;VALUE=DATE:20160131
-SUMMARY:Zaterdag van de vierde week door het jaar
-DESCRIPTION:Zaterdag van de vierde week door het jaar
+SUMMARY:Zaterdag van de derde week door het jaar
+DESCRIPTION:Zaterdag van de derde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y047-2016-of-nl@missale.net
+UID:Y037-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-01-30
 END:VEVENT
 BEGIN:VEVENT
@@ -7474,10 +7492,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160206
 DTEND;VALUE=DATE:20160207
-SUMMARY:Zaterdag na Aswoensdag
-DESCRIPTION:Zaterdag na Aswoensdag
+SUMMARY:Zaterdag van de vierde week door het jaar
+DESCRIPTION:Zaterdag van de vierde week door het jaar
 TRANSP:TRANSPARENT
-UID:L007-2016-of-nl@missale.net
+UID:Y047-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-02-06
 END:VEVENT
 BEGIN:VEVENT
@@ -7519,10 +7537,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160213
 DTEND;VALUE=DATE:20160214
-SUMMARY:Zaterdag van de eerste week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de eerste week van de Veertigdagentijd
+SUMMARY:Zaterdag na Aswoensdag
+DESCRIPTION:Zaterdag na Aswoensdag
 TRANSP:TRANSPARENT
-UID:L017-2016-of-nl@missale.net
+UID:L007-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-02-13
 END:VEVENT
 BEGIN:VEVENT
@@ -7573,10 +7591,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160220
 DTEND;VALUE=DATE:20160221
-SUMMARY:Zaterdag van de tweede week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de tweede week van de Veertigdagentijd
+SUMMARY:Zaterdag van de eerste week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de eerste week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L027-2016-of-nl@missale.net
+UID:L017-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-02-20
 END:VEVENT
 BEGIN:VEVENT
@@ -7618,10 +7636,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160227
 DTEND;VALUE=DATE:20160228
-SUMMARY:Zaterdag van de derde week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de derde week van de Veertigdagentijd
+SUMMARY:Zaterdag van de tweede week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de tweede week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L037-2016-of-nl@missale.net
+UID:L027-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-02-27
 END:VEVENT
 BEGIN:VEVENT
@@ -7672,10 +7690,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160305
 DTEND;VALUE=DATE:20160306
-SUMMARY:Zaterdag van de vierde week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de vierde week van de Veertigdagentijd
+SUMMARY:Zaterdag van de derde week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de derde week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L047-2016-of-nl@missale.net
+UID:L037-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-03-05
 END:VEVENT
 BEGIN:VEVENT
@@ -7726,10 +7744,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160312
 DTEND;VALUE=DATE:20160313
-SUMMARY:Zaterdag van de vijfde week van de Veertigdagentijd
-DESCRIPTION:Zaterdag van de vijfde week van de Veertigdagentijd
+SUMMARY:Zaterdag van de vierde week van de Veertigdagentijd
+DESCRIPTION:Zaterdag van de vierde week van de Veertigdagentijd
 TRANSP:TRANSPARENT
-UID:L057-2016-of-nl@missale.net
+UID:L047-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-03-12
 END:VEVENT
 BEGIN:VEVENT
@@ -7776,15 +7794,6 @@ DESCRIPTION:Vrijdag van de vijfde week van de Veertigdagentijd
 TRANSP:TRANSPARENT
 UID:L056-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-03-18
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20160402
-DTEND;VALUE=DATE:20160403
-SUMMARY:Zaterdag van de tweede week van Pasen
-DESCRIPTION:Zaterdag van de tweede week van Pasen
-TRANSP:TRANSPARENT
-UID:P027-2016-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2016-04-02
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160404
@@ -7834,10 +7843,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160409
 DTEND;VALUE=DATE:20160410
-SUMMARY:Zaterdag van de derde week van Pasen
-DESCRIPTION:Zaterdag van de derde week van Pasen
+SUMMARY:Zaterdag van de tweede week van Pasen
+DESCRIPTION:Zaterdag van de tweede week van Pasen
 TRANSP:TRANSPARENT
-UID:P037-2016-of-nl@missale.net
+UID:P027-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-04-09
 END:VEVENT
 BEGIN:VEVENT
@@ -7888,10 +7897,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160416
 DTEND;VALUE=DATE:20160417
-SUMMARY:Zaterdag van de vierde week van Pasen
-DESCRIPTION:Zaterdag van de vierde week van Pasen
+SUMMARY:Zaterdag van de derde week van Pasen
+DESCRIPTION:Zaterdag van de derde week van Pasen
 TRANSP:TRANSPARENT
-UID:P047-2016-of-nl@missale.net
+UID:P037-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-04-16
 END:VEVENT
 BEGIN:VEVENT
@@ -7942,10 +7951,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160423
 DTEND;VALUE=DATE:20160424
-SUMMARY:Zaterdag van de vijfde week van Pasen
-DESCRIPTION:Zaterdag van de vijfde week van Pasen
+SUMMARY:Zaterdag van de vierde week van Pasen
+DESCRIPTION:Zaterdag van de vierde week van Pasen
 TRANSP:TRANSPARENT
-UID:P057-2016-of-nl@missale.net
+UID:P047-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-04-23
 END:VEVENT
 BEGIN:VEVENT
@@ -7987,10 +7996,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160430
 DTEND;VALUE=DATE:20160501
-SUMMARY:Zaterdag van de zesde week van Pasen
-DESCRIPTION:Zaterdag van de zesde week van Pasen
+SUMMARY:Zaterdag van de vijfde week van Pasen
+DESCRIPTION:Zaterdag van de vijfde week van Pasen
 TRANSP:TRANSPARENT
-UID:P067-2016-of-nl@missale.net
+UID:P057-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-04-30
 END:VEVENT
 BEGIN:VEVENT
@@ -8023,10 +8032,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160507
 DTEND;VALUE=DATE:20160508
-SUMMARY:Zaterdag van de zevende week van Pasen
-DESCRIPTION:Zaterdag van de zevende week van Pasen
+SUMMARY:Zaterdag van de zesde week van Pasen
+DESCRIPTION:Zaterdag van de zesde week van Pasen
 TRANSP:TRANSPARENT
-UID:P077-2016-of-nl@missale.net
+UID:P067-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-05-07
 END:VEVENT
 BEGIN:VEVENT
@@ -8122,10 +8131,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160521
 DTEND;VALUE=DATE:20160522
-SUMMARY:Zaterdag van de zevende week door het jaar
-DESCRIPTION:Zaterdag van de zevende week door het jaar
+SUMMARY:Zaterdag van de zesde week door het jaar
+DESCRIPTION:Zaterdag van de zesde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y077-2016-of-nl@missale.net
+UID:Y067-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-05-21
 END:VEVENT
 BEGIN:VEVENT
@@ -8167,10 +8176,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160528
 DTEND;VALUE=DATE:20160529
-SUMMARY:Zaterdag van de achtste week door het jaar
-DESCRIPTION:Zaterdag van de achtste week door het jaar
+SUMMARY:Zaterdag van de zevende week door het jaar
+DESCRIPTION:Zaterdag van de zevende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y087-2016-of-nl@missale.net
+UID:Y077-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-05-28
 END:VEVENT
 BEGIN:VEVENT
@@ -8203,10 +8212,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160604
 DTEND;VALUE=DATE:20160605
-SUMMARY:Zaterdag van de negende week door het jaar
-DESCRIPTION:Zaterdag van de negende week door het jaar
+SUMMARY:Zaterdag van de achtste week door het jaar
+DESCRIPTION:Zaterdag van de achtste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y097-2016-of-nl@missale.net
+UID:Y087-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-06-04
 END:VEVENT
 BEGIN:VEVENT
@@ -8257,10 +8266,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160611
 DTEND;VALUE=DATE:20160612
-SUMMARY:Zaterdag van de tiende week door het jaar
-DESCRIPTION:Zaterdag van de tiende week door het jaar
+SUMMARY:Zaterdag van de negende week door het jaar
+DESCRIPTION:Zaterdag van de negende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y107-2016-of-nl@missale.net
+UID:Y097-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-06-11
 END:VEVENT
 BEGIN:VEVENT
@@ -8311,10 +8320,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160618
 DTEND;VALUE=DATE:20160619
-SUMMARY:Zaterdag van de Elfde week door het jaar
-DESCRIPTION:Zaterdag van de Elfde week door het jaar
+SUMMARY:Zaterdag van de tiende week door het jaar
+DESCRIPTION:Zaterdag van de tiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y117-2016-of-nl@missale.net
+UID:Y107-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-06-18
 END:VEVENT
 BEGIN:VEVENT
@@ -8356,10 +8365,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160625
 DTEND;VALUE=DATE:20160626
-SUMMARY:Zaterdag van de twaalfde week door het jaar
-DESCRIPTION:Zaterdag van de twaalfde week door het jaar
+SUMMARY:Zaterdag van de Elfde week door het jaar
+DESCRIPTION:Zaterdag van de Elfde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y127-2016-of-nl@missale.net
+UID:Y117-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-06-25
 END:VEVENT
 BEGIN:VEVENT
@@ -8401,10 +8410,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160702
 DTEND;VALUE=DATE:20160703
-SUMMARY:#liturgicalday#of-Y137
-DESCRIPTION:#liturgicalday#of-Y137
+SUMMARY:Zaterdag van de twaalfde week door het jaar
+DESCRIPTION:Zaterdag van de twaalfde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y137-2016-of-nl@missale.net
+UID:Y127-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-07-02
 END:VEVENT
 BEGIN:VEVENT
@@ -8455,10 +8464,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160709
 DTEND;VALUE=DATE:20160710
-SUMMARY:Zaterdag van de veertiende week door het jaar
-DESCRIPTION:Zaterdag van de veertiende week door het jaar
+SUMMARY:Zaterdag van de dertiende week door het jaar
+DESCRIPTION:Zaterdag van de dertiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y147-2016-of-nl@missale.net
+UID:Y137-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-07-09
 END:VEVENT
 BEGIN:VEVENT
@@ -8509,10 +8518,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160716
 DTEND;VALUE=DATE:20160717
-SUMMARY:Zaterdag van de Vijftiende week door het jaar
-DESCRIPTION:Zaterdag van de Vijftiende week door het jaar
+SUMMARY:Zaterdag van de veertiende week door het jaar
+DESCRIPTION:Zaterdag van de veertiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y157-2016-of-nl@missale.net
+UID:Y147-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-07-16
 END:VEVENT
 BEGIN:VEVENT
@@ -8563,10 +8572,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160723
 DTEND;VALUE=DATE:20160724
-SUMMARY:Zaterdag van de zestiende week door het jaar
-DESCRIPTION:Zaterdag van de zestiende week door het jaar
+SUMMARY:Zaterdag van de Vijftiende week door het jaar
+DESCRIPTION:Zaterdag van de Vijftiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y167-2016-of-nl@missale.net
+UID:Y157-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-07-23
 END:VEVENT
 BEGIN:VEVENT
@@ -8608,10 +8617,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160730
 DTEND;VALUE=DATE:20160731
-SUMMARY:Zaterdag van de zeventiende week door het jaar
-DESCRIPTION:Zaterdag van de zeventiende week door het jaar
+SUMMARY:Zaterdag van de zestiende week door het jaar
+DESCRIPTION:Zaterdag van de zestiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y177-2016-of-nl@missale.net
+UID:Y167-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-07-30
 END:VEVENT
 BEGIN:VEVENT
@@ -8698,10 +8707,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160813
 DTEND;VALUE=DATE:20160814
-SUMMARY:Zaterdag van de negentiende week door het jaar
-DESCRIPTION:Zaterdag van de negentiende week door het jaar
+SUMMARY:Zaterdag van de achttiende week door het jaar
+DESCRIPTION:Zaterdag van de achttiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y197-2016-of-nl@missale.net
+UID:Y187-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-08-13
 END:VEVENT
 BEGIN:VEVENT
@@ -8743,10 +8752,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160820
 DTEND;VALUE=DATE:20160821
-SUMMARY:Zaterdag van de twintigste week door het jaar
-DESCRIPTION:Zaterdag van de twintigste week door het jaar
+SUMMARY:Zaterdag van de negentiende week door het jaar
+DESCRIPTION:Zaterdag van de negentiende week door het jaar
 TRANSP:TRANSPARENT
-UID:Y207-2016-of-nl@missale.net
+UID:Y197-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-08-20
 END:VEVENT
 BEGIN:VEVENT
@@ -8788,10 +8797,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160827
 DTEND;VALUE=DATE:20160828
-SUMMARY:Zaterdag van de eenentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de eenentwintigste week door het jaar
+SUMMARY:Zaterdag van de twintigste week door het jaar
+DESCRIPTION:Zaterdag van de twintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y217-2016-of-nl@missale.net
+UID:Y207-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-08-27
 END:VEVENT
 BEGIN:VEVENT
@@ -8842,10 +8851,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160903
 DTEND;VALUE=DATE:20160904
-SUMMARY:Zaterdag van de tweeëntwintigste week door het jaar
-DESCRIPTION:Zaterdag van de tweeëntwintigste week door het jaar
+SUMMARY:Zaterdag van de eenentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de eenentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y227-2016-of-nl@missale.net
+UID:Y217-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-09-03
 END:VEVENT
 BEGIN:VEVENT
@@ -8887,10 +8896,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160910
 DTEND;VALUE=DATE:20160911
-SUMMARY:Zaterdag van de Twenty-derde week door het jaar
-DESCRIPTION:Zaterdag van de Twenty-derde week door het jaar
+SUMMARY:Zaterdag van de tweeëntwintigste week door het jaar
+DESCRIPTION:Zaterdag van de tweeëntwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y237-2016-of-nl@missale.net
+UID:Y227-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-09-10
 END:VEVENT
 BEGIN:VEVENT
@@ -8932,10 +8941,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160917
 DTEND;VALUE=DATE:20160918
-SUMMARY:Zaterdag van de vierentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de vierentwintigste week door het jaar
+SUMMARY:Zaterdag van de Twenty-derde week door het jaar
+DESCRIPTION:Zaterdag van de Twenty-derde week door het jaar
 TRANSP:TRANSPARENT
-UID:Y247-2016-of-nl@missale.net
+UID:Y237-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-09-17
 END:VEVENT
 BEGIN:VEVENT
@@ -8977,10 +8986,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160924
 DTEND;VALUE=DATE:20160925
-SUMMARY:Zaterdag van de vijfentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de vijfentwintigste week door het jaar
+SUMMARY:Zaterdag van de vierentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de vierentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y257-2016-of-nl@missale.net
+UID:Y247-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-09-24
 END:VEVENT
 BEGIN:VEVENT
@@ -9022,10 +9031,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161001
 DTEND;VALUE=DATE:20161002
-SUMMARY:Zaterdag van de zesentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de zesentwintigste week door het jaar
+SUMMARY:Zaterdag van de vijfentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de vijfentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y267-2016-of-nl@missale.net
+UID:Y257-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-10-01
 END:VEVENT
 BEGIN:VEVENT
@@ -9076,10 +9085,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161008
 DTEND;VALUE=DATE:20161009
-SUMMARY:Zaterdag van de zevenentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de zevenentwintigste week door het jaar
+SUMMARY:Zaterdag van de zesentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de zesentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y277-2016-of-nl@missale.net
+UID:Y267-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-10-08
 END:VEVENT
 BEGIN:VEVENT
@@ -9130,10 +9139,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161015
 DTEND;VALUE=DATE:20161016
-SUMMARY:Zaterdag van de achtentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de achtentwintigste week door het jaar
+SUMMARY:Zaterdag van de zevenentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de zevenentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y287-2016-of-nl@missale.net
+UID:Y277-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-10-15
 END:VEVENT
 BEGIN:VEVENT
@@ -9175,10 +9184,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161022
 DTEND;VALUE=DATE:20161023
-SUMMARY:Zaterdag van de Negenentwintigste week door het jaar
-DESCRIPTION:Zaterdag van de Negenentwintigste week door het jaar
+SUMMARY:Zaterdag van de achtentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de achtentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y297-2016-of-nl@missale.net
+UID:Y287-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-10-22
 END:VEVENT
 BEGIN:VEVENT
@@ -9220,10 +9229,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161029
 DTEND;VALUE=DATE:20161030
-SUMMARY:Zaterdag van de dertigste week door het jaar
-DESCRIPTION:Zaterdag van de dertigste week door het jaar
+SUMMARY:Zaterdag van de Negenentwintigste week door het jaar
+DESCRIPTION:Zaterdag van de Negenentwintigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y307-2016-of-nl@missale.net
+UID:Y297-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-10-29
 END:VEVENT
 BEGIN:VEVENT
@@ -9256,10 +9265,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161105
 DTEND;VALUE=DATE:20161106
-SUMMARY:Zaterdag van de eenendertigste week door het jaar
-DESCRIPTION:Zaterdag van de eenendertigste week door het jaar
+SUMMARY:Zaterdag van de dertigste week door het jaar
+DESCRIPTION:Zaterdag van de dertigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y317-2016-of-nl@missale.net
+UID:Y307-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-11-05
 END:VEVENT
 BEGIN:VEVENT
@@ -9301,10 +9310,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161112
 DTEND;VALUE=DATE:20161113
-SUMMARY:Zaterdag van de tweeëndertigste week door het jaar
-DESCRIPTION:Zaterdag van de tweeëndertigste week door het jaar
+SUMMARY:Zaterdag van de eenendertigste week door het jaar
+DESCRIPTION:Zaterdag van de eenendertigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y327-2016-of-nl@missale.net
+UID:Y317-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-11-12
 END:VEVENT
 BEGIN:VEVENT
@@ -9355,10 +9364,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161119
 DTEND;VALUE=DATE:20161120
-SUMMARY:Zaterdag van de drieëndertigste week door het jaar
-DESCRIPTION:Zaterdag van de drieëndertigste week door het jaar
+SUMMARY:Zaterdag van de tweeëndertigste week door het jaar
+DESCRIPTION:Zaterdag van de tweeëndertigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y337-2016-of-nl@missale.net
+UID:Y327-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-11-19
 END:VEVENT
 BEGIN:VEVENT
@@ -9409,10 +9418,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161126
 DTEND;VALUE=DATE:20161127
-SUMMARY:Zaterdag van de vierendertigste week door het jaar
-DESCRIPTION:Zaterdag van de vierendertigste week door het jaar
+SUMMARY:Zaterdag van de drieëndertigste week door het jaar
+DESCRIPTION:Zaterdag van de drieëndertigste week door het jaar
 TRANSP:TRANSPARENT
-UID:Y347-2016-of-nl@missale.net
+UID:Y337-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-11-26
 END:VEVENT
 BEGIN:VEVENT
@@ -9481,10 +9490,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161210
 DTEND;VALUE=DATE:20161211
-SUMMARY:Zaterdag van de tweede week van de Advent
-DESCRIPTION:Zaterdag van de tweede week van de Advent
+SUMMARY:Zaterdag van de eerste week van de Advent
+DESCRIPTION:Zaterdag van de eerste week van de Advent
 TRANSP:TRANSPARENT
-UID:A027-2016-of-nl@missale.net
+UID:A017-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-12-10
 END:VEVENT
 BEGIN:VEVENT
@@ -9535,10 +9544,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161217
 DTEND;VALUE=DATE:20161218
-SUMMARY:Zaterdag van de derde week van de Advent
-DESCRIPTION:Zaterdag van de derde week van de Advent
+SUMMARY:Zaterdag van de tweede week van de Advent
+DESCRIPTION:Zaterdag van de tweede week van de Advent
 TRANSP:TRANSPARENT
-UID:A037-2016-of-nl@missale.net
+UID:A027-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-12-17
 END:VEVENT
 BEGIN:VEVENT

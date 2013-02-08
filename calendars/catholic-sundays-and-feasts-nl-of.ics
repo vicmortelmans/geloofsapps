@@ -155,15 +155,6 @@ UID:Z0319-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-03-19
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20130323
-DTEND;VALUE=DATE:20130324
-SUMMARY:Paaswake
-DESCRIPTION:Paaswake
-TRANSP:TRANSPARENT
-UID:P007-2013-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2013-03-23
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130324
 DTEND;VALUE=DATE:20130325
 SUMMARY:Palmzondag
@@ -220,10 +211,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130330
 DTEND;VALUE=DATE:20130331
-SUMMARY:Zaterdag onder het octaaf van Pasen
-DESCRIPTION:Zaterdag onder het octaaf van Pasen
+SUMMARY:Paaswake
+DESCRIPTION:Paaswake
 TRANSP:TRANSPARENT
-UID:P017-2013-of-nl@missale.net
+UID:P007-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-03-30
 END:VEVENT
 BEGIN:VEVENT
@@ -279,6 +270,15 @@ DESCRIPTION:Vrijdag onder het octaaf van Pasen
 TRANSP:TRANSPARENT
 UID:P016-2013-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2013-04-05
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20130406
+DTEND;VALUE=DATE:20130407
+SUMMARY:Zaterdag onder het octaaf van Pasen
+DESCRIPTION:Zaterdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P017-2013-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2013-04-06
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20130407
@@ -1064,15 +1064,6 @@ UID:L051-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-04-06
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20140412
-DTEND;VALUE=DATE:20140413
-SUMMARY:Paaswake
-DESCRIPTION:Paaswake
-TRANSP:TRANSPARENT
-UID:P007-2014-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2014-04-12
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140413
 DTEND;VALUE=DATE:20140414
 SUMMARY:Palmzondag
@@ -1129,10 +1120,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140419
 DTEND;VALUE=DATE:20140420
-SUMMARY:Zaterdag onder het octaaf van Pasen
-DESCRIPTION:Zaterdag onder het octaaf van Pasen
+SUMMARY:Paaswake
+DESCRIPTION:Paaswake
 TRANSP:TRANSPARENT
-UID:P017-2014-of-nl@missale.net
+UID:P007-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-04-19
 END:VEVENT
 BEGIN:VEVENT
@@ -1188,6 +1179,15 @@ DESCRIPTION:Vrijdag onder het octaaf van Pasen
 TRANSP:TRANSPARENT
 UID:P016-2014-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2014-04-25
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20140426
+DTEND;VALUE=DATE:20140427
+SUMMARY:Zaterdag onder het octaaf van Pasen
+DESCRIPTION:Zaterdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P017-2014-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2014-04-26
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20140427
@@ -1865,15 +1865,6 @@ UID:Z0325-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-03-25
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20150328
-DTEND;VALUE=DATE:20150329
-SUMMARY:Paaswake
-DESCRIPTION:Paaswake
-TRANSP:TRANSPARENT
-UID:P007-2015-of-nl@missale.net
-URL:http://missale.net?lang=nl&date=2015-03-28
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150329
 DTEND;VALUE=DATE:20150330
 SUMMARY:Palmzondag
@@ -1930,10 +1921,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150404
 DTEND;VALUE=DATE:20150405
-SUMMARY:Zaterdag onder het octaaf van Pasen
-DESCRIPTION:Zaterdag onder het octaaf van Pasen
+SUMMARY:Paaswake
+DESCRIPTION:Paaswake
 TRANSP:TRANSPARENT
-UID:P017-2015-of-nl@missale.net
+UID:P007-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-04-04
 END:VEVENT
 BEGIN:VEVENT
@@ -1989,6 +1980,15 @@ DESCRIPTION:Vrijdag onder het octaaf van Pasen
 TRANSP:TRANSPARENT
 UID:P016-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-04-10
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20150411
+DTEND;VALUE=DATE:20150412
+SUMMARY:Zaterdag onder het octaaf van Pasen
+DESCRIPTION:Zaterdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P017-2015-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2015-04-11
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150412
@@ -2281,8 +2281,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20150830
 DTEND;VALUE=DATE:20150831
-SUMMARY:Tweeëntwintigste zondag door het jaar
-DESCRIPTION:Tweeëntwintigste zondag door het jaar
+SUMMARY:#liturgicalday#of-Y221
+DESCRIPTION:#liturgicalday#of-Y221
 TRANSP:TRANSPARENT
 UID:Y221-2015-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2015-08-30
@@ -2713,10 +2713,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160319
 DTEND;VALUE=DATE:20160320
-SUMMARY:Paaswake
-DESCRIPTION:Paaswake
+SUMMARY:H. Jozef, bruidegom van de H. Maagd Maria
+DESCRIPTION:H. Jozef, bruidegom van de H. Maagd Maria
 TRANSP:TRANSPARENT
-UID:P007-2016-of-nl@missale.net
+UID:Z0319-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-03-19
 END:VEVENT
 BEGIN:VEVENT
@@ -2776,10 +2776,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160326
 DTEND;VALUE=DATE:20160327
-SUMMARY:Zaterdag onder het octaaf van Pasen
-DESCRIPTION:Zaterdag onder het octaaf van Pasen
+SUMMARY:Paaswake
+DESCRIPTION:Paaswake
 TRANSP:TRANSPARENT
-UID:P017-2016-of-nl@missale.net
+UID:P007-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-03-26
 END:VEVENT
 BEGIN:VEVENT
@@ -2835,6 +2835,15 @@ DESCRIPTION:Vrijdag onder het octaaf van Pasen
 TRANSP:TRANSPARENT
 UID:P016-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-04-01
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20160402
+DTEND;VALUE=DATE:20160403
+SUMMARY:Zaterdag onder het octaaf van Pasen
+DESCRIPTION:Zaterdag onder het octaaf van Pasen
+TRANSP:TRANSPARENT
+UID:P017-2016-of-nl@missale.net
+URL:http://missale.net?lang=nl&date=2016-04-02
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160403
@@ -3163,8 +3172,8 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20160904
 DTEND;VALUE=DATE:20160905
-SUMMARY:Tweeëntwintigste zondag door het jaar
-DESCRIPTION:Tweeëntwintigste zondag door het jaar
+SUMMARY:#liturgicalday#of-Y221
+DESCRIPTION:#liturgicalday#of-Y221
 TRANSP:TRANSPARENT
 UID:Y221-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-09-04
@@ -3406,10 +3415,10 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20161224
 DTEND;VALUE=DATE:20161225
-SUMMARY:#liturgicalday#of-Z1224A047
-DESCRIPTION:#liturgicalday#of-Z1224A047
+SUMMARY:#liturgicalday#of-Z1224A037
+DESCRIPTION:#liturgicalday#of-Z1224A037
 TRANSP:TRANSPARENT
-UID:Z1224A047-2016-of-nl@missale.net
+UID:Z1224A037-2016-of-nl@missale.net
 URL:http://missale.net?lang=nl&date=2016-12-24
 END:VEVENT
 BEGIN:VEVENT
