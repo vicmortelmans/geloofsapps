@@ -14,3 +14,16 @@
 {
     display: none;
 }
+.fullwidthimage img
+{
+    width: 100%;
+    max-width: 640px;
+}
+.fullwidthimage .ui-collapsible-content 
+{
+    padding: 0px;
+}
+.fullwidthimage .ui-collapsible-content div
+{
+    padding: 10px 15px;
+}
