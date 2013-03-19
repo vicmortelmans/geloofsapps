@@ -5,7 +5,7 @@ $(document).bind("mobileinit", function() {
 
 $(document).on( 'pageinit',function(event){
     $("input[type='radio']").on( "change", function(event, ui) {
-      $('div.' + $(this).attr('name')).hide();
-      $('div.' + $(this).attr('name') + '.' + $(this).attr('id')).show();
+      $('.' + $(this).attr('name')).hide();
+      $('.' + $(this).attr('name') + '.' + $(this).attr('id')).show();
     });
 });
