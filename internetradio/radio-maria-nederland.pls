@@ -1,5 +1,5 @@
 [playlist]
-File1=http://87.233.180.73:8000/
+File1=http://webstream.radiomaria.nl
 Title1=Radio Maria Nederland
 Length1=-1
 NumberOfEntries=1
