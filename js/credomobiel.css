@@ -1,7 +1,33 @@
+html, body { background-color: #FFFFFF !important;}
+
+img
+{
+    border-style: none;
+}
+
+@media only screen and (min-width: 550px) {
+    .ui-page {
+        width: 550px !important;
+        margin: 0 auto !important;
+        position: relative !important;
+    }
+    .ui-header-fixed, .ui-footer-fixed {
+        width: 550px !important;
+        margin: 0 auto !important;
+    }
+    .ui-btn {
+        margin-right: 0px !important;
+    }
+    .fullwidthimage  {
+        max-width:550px;
+        display: block;
+    }
+}
+
 .base
 {
     height:400px;
-    background-image:url('/img/city_social.png');
+    background-image:url('../img/city_social.png');
     background-repeat:repeat-x;
     background-position:center bottom;
     background-color:white;
@@ -16,12 +42,12 @@
 }
 .fullwidthimage img
 {
-    width: 100%;
-    max-width: 640px;
+    max-width: 100%;
+    display: block;
 }
 .fullwidthimage .ui-collapsible-content 
 {
-    padding: 0px;
+    padding: 0px !important;
 }
 .fullwidthimage .ui-collapsible-content .ui-controlgroup-horizontal,.fullwidthimage .ui-collapsible-content .ui-radio
 {
@@ -31,3 +57,10 @@
 {
     padding: 10px 15px;
 }
+@media print
+{
+    .ui-footer, .ui-navbar, .ui-collapsible-heading-status {
+        display: none;
+    }
+}
+
