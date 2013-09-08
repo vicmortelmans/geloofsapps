@@ -27,6 +27,19 @@
                 <h1>CREDOMOBIEL</h1>
             </div>
             <!-- /header -->
+            
+            <a
+                href="javascript: window.plugins.webintent.startActivity(
+                {
+                action: WebIntent.ACTION_VIEW,
+                url: 'geo:0,0?q=' + 'Antwerpen',
+                }, 
+                function () {}, 
+                function () {
+                alert('Failed to open URL via Android Intent');
+                });"
+                >Magic button 2</a>
+            
 
             <div data-role="content">
                 <ul data-role="listview" data-inset="false" style="margin-bottom: 0;">
