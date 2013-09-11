@@ -20,8 +20,6 @@
 
     <icon src="favicon.png"/>
         
-    <gap:splash src="img/city_social.png" />
-        
     <gap:plugin name="com.borismus.webintent" />
 
     <preference name="stay-in-webview" value="true" />
