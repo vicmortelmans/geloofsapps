@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>HTML5 MediaElement</title>	
+	
+        <script type="text/javascript" src="http://www.shoutcastireland.com/jwplayer.js"></script>
+</head>
+<body>
+
+<h1>MediaElementPlayer.js</h1>
+
+<p>Audio player</p>
+
+<h2>MP3</h2>
+
+<p>Radio Maria Nederland</p>
+<div id='my-video'></div><script type='text/javascript'> jwplayer('my-video').setup({ file: 'http://87.233.180.73:8000/;*.nsv',	type: 'mp3',	width: '300', height: '30',	autostart: true });</script> <!-- Free html5 Flash radio player generator by http://www.shoutcastireland.com -->
+
+
+<p>Radio Maria Vlaanderen</p>
+<audio controls width="100%">
+  <source src="http://stream.radiomaria.be:8000/RadioMaria-32" type="audio/mpeg">
+  <embed width="100%" src="http://stream.radiomaria.be:8000/RadioMaria-32">
+</audio>
+
+<p>Concertzender Gregoriaans</p>
+<audio controls width="100%">
+  <source src="http://streams.greenhost.nl:8080/gregoriaans" type="audio/mpeg">
+  <embed width="100%" src="http://streams.greenhost.nl:8080/gregoriaans">
+</audio>
+
+</body>
+</html>
+
