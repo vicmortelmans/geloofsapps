@@ -15,6 +15,14 @@
         <script src="js/jquery.mobile-1.2.0.min.js"></script>
         <!-- script for shoutcast radio stations -->
         <script type="text/javascript" src="http://www.shoutcastireland.com/jwplayer.js"></script>
+        <script>
+            $('#start').on('click',function(){
+                jwplayer('my-video').play(true);
+            })
+            $('#stop').on('click',function(){
+                jwplayer('my-video').pause(true);
+            })
+        </script>
     </head>
     <body>
         
@@ -41,6 +49,8 @@
                         autostart: false
                     });
                 </script>
+                <a id="start">start</a>
+                <a id="stop">stop</a>
                 <!-- Free html5 Flash radio player generator by http://www.shoutcastireland.com -->
             </div>
             <!-- content -->
