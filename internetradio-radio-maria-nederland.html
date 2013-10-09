@@ -16,12 +16,14 @@
         <!-- script for shoutcast radio stations -->
         <script type="text/javascript" src="http://www.shoutcastireland.com/jwplayer.js"></script>
         <script>
+        $(document).ready(function(){
             $('#start').on('click',function(){
                 jwplayer('my-video').play(true);
-            })
+            });
             $('#stop').on('click',function(){
                 jwplayer('my-video').pause(true);
-            })
+            });
+        });
         </script>
     </head>
     <body>
