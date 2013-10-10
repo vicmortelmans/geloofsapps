@@ -17,11 +17,17 @@
         <script type="text/javascript" src="http://www.shoutcastireland.com/jwplayer.js"></script>
         <script>
         $(document).ready(function(){
+            jwplayer('my-video').onReady(function(){
+                jwplayer('my-video').play(true);
+            });
             $('#start').on('click',function(){
                 jwplayer('my-video').play(true);
             });
             $('#stop').on('click',function(){
                 jwplayer('my-video').pause(true);
+            });
+            $('div').on('pagebeforehide',function(){
+                jwplayer('my-video').stop();
             });
         });
         </script>
